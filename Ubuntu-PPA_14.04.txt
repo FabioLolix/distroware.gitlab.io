@@ -1,0 +1,302 @@
+List of PPA for Ubuntu 14.04 Trusty Thar
+
+
+### Big software collection | Grande collezione software
+
+## Lot of things by webupd8
+sudo add-apt-repository ppa:nilarimogard/webupd8
+
+## Lot of things by Noobslab, include ppsspp
+sudo add-apt-repository ppa:noobslab/apps
+
+## Big graphics PPA, Fotoxx, Gtkrawgallery, Photivo and more
+sudo add-apt-repository ppa:dhor/myway
+
+## Lot of things by getdeb
+wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+sudo sh -c 'echo "deb http://archive.getdeb.net/ubuntu trusty-getdeb apps" >> /etc/apt/sources.list.d/getdeb.list'
+
+
+
+### Administration | Amministrazione
+
+## Systemback official
+sudo add-apt-repository ppa:nemh/systemback
+
+## Grub customizer
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+
+## Boot Repair
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+
+## Ubuntu Tweak
+sudo add-apt-repository ppa:tualatrix/ppa
+
+
+
+### Accessories | Accessori
+
+## Conky manager, Selene, Timeshift, etc
+sudo add-apt-repository ppa:teejee2008/ppa
+
+## FreeFileSync official
+sudo add-apt-repository ppa:freefilesync/ffs
+
+
+
+### Internet
+
+## Google Chrome
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+or
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo gdebi google-chrome-stable_current_amd64.deb
+
+## Tor Browser Bundle
+sudo add-apt-repository ppa:webupd8team/tor-browser
+
+## Mozilla security team
+sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
+
+## Midori web browser
+sudo add-apt-repository ppa:midori/ppa
+
+## Pipelight plugin, include Wine staging, winetricks
+sudo add-apt-repository ppa:pipelight/stable
+#sudo pipelight-plugin --enable silverlight
+#sudo pipelight-plugin --enable widevine
+
+## Qbittorrent
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+
+## Transmission
+sudo add-apt-repository ppa:transmissionbt/ppa
+
+## Corebird twitter client
+sudo add-apt-repository ppa:ubuntuhandbook1/corebird
+
+
+
+### Multimedia
+
+## Ubuntu Multimedia for Trusty unofficial
+sudo add-apt-repository ppa:mc3man/trusty-media
+
+## Audacity latest stable, unofficial
+sudo add-apt-repository ppa:ubuntuhandbook1/audacity
+
+## Audacity daily build, official
+sudo add-apt-repository ppa:audacity-team/daily
+
+## VLC daily build, official
+sudo add-apt-repository ppa:videolan/stable-daily
+
+## VLC daily build develpment, official
+sudo add-apt-repository ppa:videolan/master-daily
+
+## Handbrake official
+sudo add-apt-repository ppa:stebbins/handbrake-releases
+
+## Makemkv, unofficial
+sudo add-apt-repository ppa:heyarje/makemkv-beta
+
+## Kodi official
+sudo add-apt-repository ppa:team-xbmc/ppa
+
+## Clementine stable, official
+sudo add-apt-repository ppa:me-davidsansome/clementine
+
+## Clementine development, official
+sudo add-apt-repository ppa:me-davidsansome/clementine-dev
+
+## Cantata MPD player, unofficial
+sudo add-apt-repository ppa:ubuntuhandbook1/cantata-qt
+
+## Gmusicbrowser
+sudo add-apt-repository ppa:shimmerproject/ppa
+
+## Deadbeef music player
+sudo add-apt-repository ppa:starws-box/deadbeef-player
+
+## Ffmpeg, unofficial
+sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-next
+
+## Open Broadcaster Studio, need ffmpeg
+sudo add-apt-repository ppa:obsproject/obs-studio
+
+## MKVtoonix, unofficial
+sudo add-apt-repository ppa:djcj/mkvtoolnix
+
+## CUE Flac splitter
+sudo add-apt-repository ppa:flacon/ppa
+
+## Openshot Video Editor, stable
+sudo add-apt-repository ppa:openshot.developers/ppa
+
+## Cinelerra video editor communty version stable
+sudo add-apt-repository ppa:cinelerra-ppa/cinelerra-cv-stable
+
+
+
+### Graphics | Grafica
+
+## Big graphics PPA, Fotoxx, Gtkrawgallery, Photivo and more
+sudo add-apt-repository ppa:dhor/myway
+
+## Darktable, 64 bit recomemded
+sudo add-apt-repository ppa:pmjdebruijn/darktable-release
+
+## Lightzone
+sudo add-apt-repository ppa:otto-kesselgulasch/lightzone
+
+## Gimagereader OCR, tesseract frontend
+sudo add-apt-repository ppa:sandromani/gimagereader
+
+## Gimp
+sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+
+## Inkscape
+sudo add-apt-repository ppa:cafuego/inkscape
+
+## Blender
+sudo add-apt-repository ppa:irie/blender
+
+
+
+### Office | Ufficio
+
+## Libreoffice Fresh
+sudo add-apt-repository ppa:libreoffice/ppa
+
+## Sublimetext3, unofficial by webupd8
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+
+## Atom Text Editor, unofficial  by webupd8
+sudo add-apt-repository ppa:webupd8team/atom
+
+## Lyx
+sudo add-apt-repository ppa:lyx-devel/release
+
+## Texstudio
+sudo add-apt-repository ppa:blahota/texstudio
+
+
+
+### Languages | Linguaggi
+
+## Oracle Java, unofficial by webupd8
+sudo add-apt-repository ppa:webupd8team/java
+
+## Gambas stable
+sudo add-apt-repository ppa:gambas-team/gambas3
+
+
+
+### Networking
+
+## AngryIP Scanner
+sudo add-apt-repository ppa:upubuntu-com/network
+
+## Wireshark e altro
+sudo add-apt-repository ppa:dreibh/ppa
+
+## Backbox
+sudo add-apt-repository ppa:backbox/four
+
+
+
+### Music education | Istruzione musicale
+
+## Lenmus phonascus, music
+sudo add-apt-repository ppa:lenmus-phonascus/ppa
+
+## Nootka, last from website
+wget http://sourceforge.net/projects/nootka/files/Nootka-1.2.6/nootka_1.2.6_amd64.deb
+wget http://sourceforge.net/projects/nootka/files/Nootka-1.2.6/nootka_1.2.6_i386.deb
+
+
+
+### CAD
+
+## Librecad stabile
+sudo add-apt-repository ppa:librecad-dev/librecad-stable
+
+## Librecad daily build
+sudo add-apt-repository ppa:librecad-dev/librecad-daily
+
+
+
+### Virtualization and Emulation | Virtualizzazione & Emulazione
+
+## Wine
+sudo add-apt-repository ppa:ubuntu-wine/ppa
+
+## Playonlinux
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E0F72778C4676186
+sudo wget http://deb.playonlinux.com/playonlinux_trusty.list -O /etc/apt/sources.list.d/playonlinux.list
+
+## Virtualbox
+wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian trusty contrib" >> /etc/apt/sources.list.d/virtualbox.list'
+
+
+
+### Themes | Temi
+
+## NoobsLab themes
+sudo add-apt-repository ppa:noobslab/themes
+
+## Ravefinity themes
+sudo add-apt-repository ppa:ravefinity-project/ppa
+
+
+
+### Updated Video Drivers
+
+## Canonical proprietary video drivers
+sudo add-apt-repository ppa:graphics-drivers/ppa
+
+## Oibaf is a PPA that includes the very latest graphics drivers, and is updated virtually every day. This PPA is only helpful if you’re using the open source drivers rather than the proprietary nVidia or AMD drivers, proprietary drivers are not included. However, there are constant updates to the major open source drivers that can add support or improve performance, so this is the best way to try them out. You can add it with the command
+sudo add-apt-repository ppa:oibaf/graphics-drivers
+
+## Similarly, you can also add the X.org-Edgers PPA if you’re concerned about your graphics performance. This PPA will give you the absolute latest version of the X.org X display server, which is a part of the entire graphics stack. If you want better graphics performance, it’s important to keep the entire stack updated. You shouldn’t use this PPA if you use the proprietary graphics drivers, as they sometimes lag with support for newer kernel and X.org versions. You can add it with the command
+sudo add-apt-repository ppa:xorg-edgers/ppa
+
+
+
+### Games | Giochi
+
+## Flightgear
+sudo add-apt-repository ppa:saiarcot895/flightgear
+
+## Libretro
+sudo add-apt-repository ppa:libretro/stable
+
+## Libretro unstable
+sudo add-apt-repository ppa:libretro/testing
+
+## EmulationStation
+sudo add-apt-repository ppa:emulationstation/ppa
+
+## PCSX2, PS2 emulator
+sudo add-apt-repository ppa:gregory-hainaut/pcsx2.official.ppa
+
+## PCSX2, PS2 emulator and Dolphin-emu
+sudo add-apt-repository ppa:noobslab/pcsx2
+
+## SDL Mame, unofficial
+sudo add-apt-repository ppa:c.falco/mame
+
+## QMC2 mame frontend, unofficial
+sudo add-apt-repository ppa:mmbossoni-gmail/emu
+
+## PSP Emulator
+sudo add-apt-repository  ppa:ppsspp/stable
+
+## PSP Emulator, git master branch unstable
+sudo add-apt-repository  ppa:ppsspp/testing
+
+## Playdeb repo
+wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+sudo sh -c 'echo "deb http://archive.getdeb.net/ubuntu trusty-getdeb games" >> /etc/apt/sources.list.d/playdeb.list'
