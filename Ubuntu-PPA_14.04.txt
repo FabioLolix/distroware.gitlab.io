@@ -267,6 +267,9 @@ sudo add-apt-repository ppa:xorg-edgers/ppa
 
 ### Games | Giochi
 
+## Antimicro, map keyboard keys and mouse controls to a gamepad
+sudo add-apt-repository ppa:ryochan7/antimicro
+
 ## Flightgear
 sudo add-apt-repository ppa:saiarcot895/flightgear
 

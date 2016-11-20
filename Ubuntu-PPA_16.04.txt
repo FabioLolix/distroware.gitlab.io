@@ -266,6 +266,9 @@ sudo add-apt-repository ppa:paulo-miguel-dias/mesa
 
 ### Games | Giochi
 
+## Antimicro, map keyboard keys and mouse controls to a gamepad
+# It's in ppa:nilarimogard/webupd8
+
 ## Flightgear
 sudo add-apt-repository ppa:saiarcot895/flightgear
 
