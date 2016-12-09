@@ -26,8 +26,8 @@
 ***
 
 ###Still waiting for:
--Official Android
-~~- 64 bit image for Rpi 3~~
+* Official Android
+* ~~64 bit images for Rpi 3~~
 
 ***
 
@@ -35,9 +35,68 @@
 
 **Raspbian** - The official distribution
 
-	Based on Debian, desktop and minimal edition, one image for all models
+	Based on Debian, Pixel desktop and minimal edition, one image for all models
 * https://www.raspbian.org/
 * https://www.raspberrypi.org/downloads/raspbian/
+
+# 64 Bit distribution (Rpi3 only, of course)
+
+**Devuan** *beta*
+
+	Devuan GNU+Linux is a fork of Debian without systemd
+
+* https://files.devuan.org/devuan_jessie_beta/embedded/devuan_jessie_1.0.0-beta2_arm64_raspi3.img.xz
+
+**OpenSUSE Leap**
+
+	Official Opensuse Leap , stable release
+	Upstream non Raspberry Pi foundation kernel
+	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop
+	
+* https://en.opensuse.org/HCL:Raspberry_Pi3
+
+* http://download.opensuse.org/ports/aarch64/distribution/leap/42.2/appliances/
+
+* https://news.opensuse.org/2016/12/05/opensuse-leap-42-2-gets-64-bit-raspberry-image/
+
+***
+
+**OpenSUSE Tumbleweed**
+
+	Official Opensuse Tumbleweed , rolling release
+	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop
+	
+* https://en.opensuse.org/HCL:Raspberry_Pi3
+	
+* Non upstream kernel:
+
+* http://download.opensuse.org/repositories/devel:/ARM:/Factory:/Contrib:/RaspberryPi3/images/
+
+* Upstream kernel:
+
+* http://download.opensuse.org/ports/aarch64/tumbleweed/images/
+
+***
+
+**RaspBSD**
+
+	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
+
+* http://www.raspbsd.org/raspberrypi.html
+* http://download.raspbsd.org/FreeBSD-aarch64-12.0-GENERIC-UP-308109M.img.gz
+
+***
+
+**SUSE SLES** registration required
+
+	Suse Linux Enterprise Server, 12 Service Pack 2, but please note that SUSE doesn't offer commercial support for it.
+	Uses Btrfs for the root file system and IceWM (ICE Window Manager) is used as default desktop environment.
+	Also	, GCC 6 is integrated and recommended for compiling programs from sources.
+	Upstream non Raspberry Pi foundation kernel ??
+	
+* http://tinyurl.com/slespi
+* https://www.suse.com/communities/blog/suse-linux-enterprise-server-raspberry-pi/
+* http://news.softpedia.com/news/suse-linux-enterprise-server-out-for-raspberry-pi-3-supports-bluetooth-wi-fi-510070.shtml
 
 
 # Audio / Music
@@ -45,6 +104,7 @@
 **Archphile** *beta*
 
 	ArchLinuxARM based, ympd webui
+	
 * http://archphile.org/
 
 ***
@@ -52,6 +112,7 @@
 **AudiculaPi**
 
 	OpenWRT based, MPD client
+	
 * https://sourceforge.net/projects/audiculapi/
 
 ***
@@ -66,6 +127,7 @@
 **Moode Audio Player / MoodeOs** favourite for mpd
 
 	Raspbian based, MPD client, forked Volumio Webui, frequently update, upnp renderer
+	
 * http://moodeaudio.org/
 
 ***
@@ -73,6 +135,7 @@
 **PiCoreplayer** favourite for squeezelite
 
 	Tiny Core based, Squeezelite player, Logitech Media Server, Touchscreen interface Jivelite
+	
 * https://sites.google.com/site/picoreplayer/home
 
 ***
@@ -80,6 +143,7 @@
 **PiMusicBox** *last release 2015/04/6*
 
 	Raspbian based, Mopidy client
+	
 * http://www.pimusicbox.com/
 
 ***
@@ -87,6 +151,7 @@
 **Roon Output Bridge** *beta *
 
 	Roon pricing: 119 $/year or 499 $ Lifetime, 15 days free trial
+	
 * https://roonlabs.com/
 * https://www.hifiberry.com/2016/08/new-roon-for-hifiberry-release/
 * http://downloads.hifiberry.com/images/roon.zip
@@ -96,6 +161,7 @@
 **Rune Audio** *beta*
 
 	ArchLinuxARM based, MPD client, forked Volumio webui
+	
 * http://www.runeaudio.com/about/
 
 ***
@@ -112,6 +178,7 @@
 **Volumio** formerly Raspify
 
 	Raspbian based, MPD client, cool webui, new verion 0.976 out now
+	
 * https://volumio.org/project/
 
 
@@ -121,6 +188,7 @@
 **LibreELEC** *beta* favourite
 
 	New fork of OpenELEC
+	
 * https://libreelec.tv/
 
 ***
@@ -128,6 +196,7 @@
 **OpenELEC** favourite
 
 	Indipendent embedded distro
+	
 * http://openelec.tv/get-openelec
 
 ***
@@ -135,6 +204,7 @@
 **OSMC** formerly RaspBMC
 
 	Raspbian based
+	
 * https://osmc.tv/
 
 ***
@@ -142,6 +212,7 @@
 **Rasplex**
 
 	OpenELEC based, companion to Plex Media Server, use OpenPHT; fork of Plex Home Theater
+	
 * http://www.rasplex.com/
 * http://www.rasplex.com/get-started/rasplex-installers.html
 * https://github.com/RasPlex/RasPlex/releases
@@ -151,6 +222,7 @@
 **Sabayon on ARM**
 
 	Sabayon in Base or Media center editions
+	
 * https://www.sabayon.org/tags/arm
 
 ***
@@ -159,6 +231,7 @@
 **Xbian**
 
 	Raspbian based
+	
 * http://www.xbian.org/what-is-xbian/
 
 
@@ -177,7 +250,8 @@
 
 **Recalbox** *beta*
 
-	EmulatioStation, Libretro, Kodi, Mame?
+	EmulatioStation, Libretro, Kodi, Mame
+	
 * http://www.recalbox.com/
 
 ***
@@ -185,6 +259,7 @@
 **RetroPie**
 
 	Raspbian, EmulationStation, Libretro
+	
 * https://retropie.org.uk/
 * https://retropie.org.uk/download/
 
@@ -202,6 +277,7 @@
 **Alpine**
 
 	Indipendent embedded Linux system
+	
 * https://alpinelinux.org/downloads/
 
 ***
@@ -210,6 +286,7 @@
 **Angstrom**
 
 	Indipendent embedded Linux system
+	
 * http://wp.angstrom-distribution.org/introduction/
 * http://dominion.thruhere.net/angstrom/nightlies/
 
@@ -218,6 +295,7 @@
 **Arch Linux ARM** favourite
 
 	Alarm continues the philosophy of Arch Linux into new architectures, not affilated with ArchLinux
+	
 * https://archlinuxarm.org/platforms/armv6/raspberry-pi
 * https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
 * https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
@@ -227,6 +305,7 @@
 **arkOS** *in development*
 
 	Arch Linix ARM based, self-hosting
+	
 * https://arkos.io/
 
 ***
@@ -234,31 +313,24 @@
 **Binary Emotions** donationware
 
 
-Digital Signage
+**Digital Signage**
 
 * http://www.binaryemotions.com/digital-signage/raspberry-digital-signage/
 
-Picture Frame Slideshow
+**Picture Frame Slideshow**
 
 * http://www.binaryemotions.com/digital-signage/raspberry-slideshow/
 
-Webkiosk
+**Webkiosk**
 
 * http://www.binaryemotions.com/digital-signage/raspberry-webkiosk/
 
 ***
 
-**BlackArch Linux**
-
-	Pentesting, a repository compatible with ArchLinuxA, no images for now
-* http://blackarch.org/downloads.html#blackarch-arm
-* http://blackarch.org/downloads.html#install-repo
-
-***
-
 **CentOs**
 
-	CentOs for raspberry
+	CentOs for Raspberry
+	
 * http://mirror.centos.org/altarch/7/isos/armhfp/
 
 ***
@@ -266,13 +338,23 @@ Webkiosk
 **Crux** *last kernel image 2015/10/25, RPi 1 only (Linux version 3.6.1)*
 
 	Indipendent lightweight targeted at experienced Linux users
+	
 * https://crux-arm.nu/SupportedDevices/Raspberrypi
+
+***
+
+**Devuan** *beta*
+
+	Devuan GNU+Linux is a fork of Debian without systemd
+
+* https://files.devuan.org/devuan_jessie_beta/embedded/
 
 ***
 
 **DietPi** favourite
 
 	Raspbian based, server with preconfigured and optimized programs, self-hosting
+	
 * http://dietpi.com/
 
 ***
@@ -280,6 +362,7 @@ Webkiosk
 **Fedberry** Rpi 2 only
 
 	Fedora 23 optimized for Raspberry Pi 2
+	
 * http://fedberry.org/
 
 ***
@@ -287,6 +370,7 @@ Webkiosk
 **Finnix** *Technology preview*
 
 	ARM support is not officialy supported (sic)
+	
 * http://www.finnix.org/ARM
 
 ***
@@ -294,6 +378,7 @@ Webkiosk
 **Gentoo**
 
 	Check instructions. Cross compilation is an option
+	
 * https://wiki.gentoo.org/wiki/Raspberry_Pi
 * https://wiki.gentoo.org/wiki/Raspberry_Pi/Quick_Install_Guide
 
@@ -302,6 +387,7 @@ Webkiosk
 **Hypriot**
 
 	Minimal debian based os optimezed for Docker
+	
 * http://blog.hypriot.com/downloads/
 
 ***
@@ -309,6 +395,7 @@ Webkiosk
 **Kali Linux ARM**
 
 	Debian based, pentesting
+	
 * https://www.offensive-security.com/kali-linux-arm-images/
 
 ***
@@ -316,6 +403,7 @@ Webkiosk
 **KA-Pi**
 
 	Educational server, Khan Academy (related to rachel-pi?)
+	
 * http://pi.mujica.org/index.html
 
 ***
@@ -323,6 +411,7 @@ Webkiosk
 **LEDE Project**
 
 	fork of OpenWRT, embedded, provide 3 build, one for each SoC
+	
 * https://www.lede-project.org/
 * https://downloads.lede-project.org/snapshots/targets/brcm2708/bcm2708/
 * https://downloads.lede-project.org/snapshots/targets/brcm2708/bcm2709/
@@ -333,6 +422,7 @@ Webkiosk
 **Linutop OS** commercial 79 euro
 
 	Webkiosk
+	
 * http://www.linutop.com/shop/index.en.html
 
 ***
@@ -347,6 +437,7 @@ Webkiosk
 **Minibian**
 
 	Minimal Raspbian
+	
 * https://minibianpi.wordpress.com/
 * https://minibianpi.wordpress.com/download/
 
@@ -355,6 +446,7 @@ Webkiosk
 **MotionEyeOs**
 
 	DVR/security cam os
+	
 * https://github.com/ccrisan/motioneyeos/wiki/Supported-Devices
 
 ***
@@ -362,6 +454,7 @@ Webkiosk
 **Moebius** *last image 2015/03/06*
 
 	Minimal Linux
+	
 * http://moebiuslinux.sourceforge.net/
 
 ***
@@ -369,6 +462,7 @@ Webkiosk
 **NixOs**
 
 	Indipendent. NixOs for RPi
+	
 * https://nixos.org/wiki/Raspberry_Pi
 
 ***
@@ -382,28 +476,34 @@ Webkiosk
 **OpenMediaVault**
 
 	Debian based NAS os
+	
 * http://www.openmediavault.org/
 * https://sourceforge.net/projects/openmediavault/
 
 ***
 
-**OpenSuse Tumbleweed**
+**OpenSUSE Tumbleweed**
 
 	Official Opensuse for ARM boards, Tumbleweed rolling branch
-* https://en.opensuse.org/openSUSE:OpenSUSE_on_your_ARM_board
+	
+* https://en.opensuse.org/HCL:Raspberry_Pi
+* https://en.opensuse.org/HCL:Raspberry_Pi2
+* https://en.opensuse.org/HCL:Raspberry_Pi3
 
 ***
 
 **OpenWRT**
 
 	Indipendent embedded Linux system
+	
 * https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
 
 ***
 
 **Parrot Security OS**
 
-	Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography
+	Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography.
+	
 * https://www.parrotsec.org/download.fx
 
 ***
@@ -413,11 +513,13 @@ Webkiosk
 	Raspbian based
 * https://sourceforge.net/projects/pearl-linux-mate-raspberry-pi2/
 
+
 ***
 
 **PearlPi LXDE+KODI RPi2** *last image 2015/08/19*
 
 	Raspbian based
+	
 * https://sourceforge.net/projects/pearlpi-lxde-kodi/
 
 ***
@@ -425,6 +527,7 @@ Webkiosk
 **Pignus** ARMv6 Only (A, A+, B, Zero models)
 
 	Fedora 23 optimized for ARMv6 BCM2865
+
 * https://pignus.computer/
 
 ***
@@ -432,6 +535,7 @@ Webkiosk
 **PiLFS**
 
 	Linux from scratch on the rpi
+
 * http://www.intestinate.com/pilfs/
 
 ***
@@ -439,6 +543,7 @@ Webkiosk
 **PiNet**
 
 	Classroom/educational, thin client
+
 * http://pinet.org.uk/
 
 ***
@@ -446,6 +551,7 @@ Webkiosk
 **PipaOS**
 
 	compact Raspbian
+
 * http://pipaos.mitako.eu/
 
 ***
@@ -453,6 +559,7 @@ Webkiosk
 **Pi-Point**
 
 	Access point made easy
+
 * https://www.pi-point.co.uk/
 
 ***
@@ -460,6 +567,7 @@ Webkiosk
 **PLOP**
 
 	Indipendent. Plop Linux is a distribution built from scratch. It's designed for advanced Linux users
+
 * https://www.plop.at/en/ploplinux/arm/raspberry-pi.html
 
 ***
@@ -467,13 +575,19 @@ Webkiosk
 **Q4os**
 
 	Raspbian based with Trinity Desktop (Kde 3 fork)
+
 * https://q4os.org/
 
 ***
 
+**Quirky Rpi2 Rpi3**
+
+* http://distro.ibiblio.org/quirky/quirky6/armv7/releases/
+
 **Rachel-Pi**
 
 	Educational server, a World Possible initiative
+
 * http://worldpossible.org/pi/index.html
 
 ***
@@ -481,6 +595,7 @@ Webkiosk
 **RancherOS**
 
 	Indipendent, RancherOS is a tiny Linux distro that runs the entire OS as Docker containers
+
 * http://rancher.com/rancher-os/
 
 ***
@@ -488,6 +603,7 @@ Webkiosk
 **RaspArch**
 
 	Build by Arne Exton, Arch Linux ARM with LXDE
+
 * http://raspex.exton.se/?cat=66
 
 ***
@@ -495,6 +611,7 @@ Webkiosk
 **RaspEX**
 
 	Build by Arne Exton, Ubuntu 16.04 with LXDE
+
 * http://raspex.exton.se/?cat=3
 
 ***
@@ -502,13 +619,24 @@ Webkiosk
 **RaspEX with OpenCPN** commercial 15$
 
 	Build by Arne Exton, Ubuntu 16.04 with LXDE and OpenCPN pre-installed
+
 * http://raspex.exton.se/?p=398
+
+***
+
+**Resin** registration required, free 1 to 5 device
+
+	A host OS tailored for containers
+
+* https://resin.io/
+* https://github.com/resin-io
 
 ***
 
 **Rokos**
 
 	Debian based distro for cryptocurrencies
+
 * http://rokos.space/
 
 ***
@@ -516,6 +644,7 @@ Webkiosk
 **Syncloud**
 
 	Debian based? owncloud self-hosting, require upnp router for activation (dlna is not enough)
+
 * http://syncloud.org/
 * https://github.com/syncloud/doc/wiki/Build-Syncloud-Device
 
@@ -524,6 +653,7 @@ Webkiosk
 **Slackware ARM**
 
 	Slackware on ARM for rpi
+
 * http://rpi.fatdog.eu/
 
 ***
@@ -531,6 +661,7 @@ Webkiosk
 **SolidX**
 
 	Debian based with XFCE, for RPi 2 and RPi 3
+
 * https://solydxk.com/downloads/solydx-rpi/
 
 ***
@@ -538,6 +669,7 @@ Webkiosk
 **Snappy Ubuntu Core**
 
 	Ubuntu using new snapp packages
+
 * https://developer.ubuntu.com/en/snappy/start/#snappy-raspi2
 
 ***
@@ -545,20 +677,23 @@ Webkiosk
 **Tiny Core Linux**
 
 	Very small indipendent Linux system
+
 * http://tinycorelinux.net/7.x/armv6/releases/RPi/
 
 ***
 
 **UBOS** *beta*
 
-	ArchLinuxARM based, self-hosting owncloud nextcloud wordpress ecc
+	ArchLinuxARM based, self-hosting owncloud nextcloud wordpress etc
+
 * http://ubos.net/
 
 ***
 
-**Ubuntu Mate Rpi2 Rpi3**
+**Ubuntu Mate Rpi2 Rpi3** favourite
 
 	Mate desktop, based on the regular Ubuntu armhf
+
 * https://ubuntu-mate.org/raspberry-pi/
 
 ***
@@ -566,6 +701,7 @@ Webkiosk
 **Ubuntu Rpi2 Rpi3**
 
 	Regular Ubuntu armhf
+
 * https://wiki.ubuntu.com/ARM/RaspberryPi
 
 ***
@@ -573,6 +709,7 @@ Webkiosk
 **V2 Cloud** need a commercial service starting at 25$/mont
 
 	V2 virtual desktop client
+
 * https://v2cloud.com/download/
 
 ***
@@ -580,11 +717,13 @@ Webkiosk
 **Void Linux**
 
 	Indipendent Linux system
+
 * http://www.voidlinux.eu/download/
 
 ***
 
 **Weather Station**
+
 * http://www.raspberryweather.com/
 * https://downloads.raspberrypi.org/weather_station/images/weather_station-2016-03-24/
 
@@ -593,8 +732,26 @@ Webkiosk
 **Yunohost**
 
 	Debian based, for self-hosting, owncloud etc..
+
 * https://yunohost.org/#/install_on_raspberry
 
+####Linux Repository only
+
+**Archstrike**
+
+	An Arch Linux ARM repository for security professionals and enthusiasts
+	Optimized for i686, x86_64, ARMv6, ARMv7, and ARMv8
+	
+* https://archstrike.org/wiki/arm
+
+***
+
+**BlackArch Linux**
+
+	Pentesting, a repository compatible with Arch Linux ARM
+	
+* http://blackarch.org/downloads.html#blackarch-arm
+* http://blackarch.org/downloads.html#install-repo
 
 
 # *BSDs
@@ -607,7 +764,9 @@ Webkiosk
 
 **RaspBSD**
 
-	Preconfigured FreeBSD 11 image
+	Preconfigured FreeBSD 11 images
+	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
+
 * http://raspbsd.org/raspberrypi.html
 
 ***
@@ -615,6 +774,7 @@ Webkiosk
 **NAS4Free** *stable for RPi A/B/A+/B+ / experimental for RPi 2*
 
 	NAS4Free for ARM platform, This is test build for ARM platform based on FreeBSD 11-CURRENT
+
 * https://sourceforge.net/projects/nas4free/files/NAS4Free-ARM/
 
 ***
@@ -630,6 +790,7 @@ Webkiosk
 **RiscOS**
 
 	from the late 80's an OS for RISC/ARM by Acorn
+	
 * https://www.riscosopen.org/content/downloads/raspberry-pi
 
 ***
@@ -637,6 +798,7 @@ Webkiosk
 **Windows 10 IOT**
 
 	They got it before Google!
+	
 * https://developer.microsoft.com/it-it/windows/iot/Downloads.htm
 
 ***
@@ -644,6 +806,7 @@ Webkiosk
 **AROS research/experimental os**
 
 	Research operating system, images not in the wild?
+	
 * http://aros.sourceforge.net/nightly.php
 
 ***
@@ -651,6 +814,7 @@ Webkiosk
 **AEROS** donationware 15$ (check website for more details, there are 4 options)
 
 	Hybryd system, Aros on Debian Gnu/Linux
+
 * https://www.aeros-os.org/
 
 ***
@@ -658,6 +822,7 @@ Webkiosk
 **Plan9** *research/experimental os*
 
 	Experimental operative system
+
 * http://elinux.org/Plan_9_on_Raspberry_Pi
 * http://plan9.bell-labs.com/sources/contrib/miller/9pi.img.gz
 
@@ -666,6 +831,7 @@ Webkiosk
 **Inferno** *research/experimental os*
 
 	Fork of Plan9
+
 * http://lynxline.com/projects/labs-portintg-inferno-os-to-raspberry-pi/
 * https://bitbucket.org/infpi/inferno-rpi
 * https://bitbucket.org/infpi/inferno-rpi/downloads
@@ -675,20 +841,36 @@ Webkiosk
 **9front** *research/experimental os*
 
 	Fork of Plan9, image not in the wild?
+
 * http://fqa.9front.org/fqa8.html#8.9.2
 
 
 
 # Mobile OS
 
-**Unofficial Android**
+**Unofficial Android Rpi3**
+
+	Unofficial Android brought by Peter Yoon (code) and Sahaj Sarup (compiling)
+	
 * https://github.com/Android-RPi3/android_releases_rpi3/releases
+* https://github.com/peyo-hd/device_brcm_rpi3
+* http://geektillithertz.com/wordpress/
+
+***
+
+**RealTime Android N Rpi3**
+
+	RTAndroid platform makes real-time Android possible. It provides support for applications with real-time requirements while keeping all benefits of Android
+
+* https://git.embedded.rwth-aachen.de/rtandroid/
+* https://git.embedded.rwth-aachen.de/rtandroid/downloads/raspberry-pi/
 
 ***
 
 **RaspEnd 6.0.1 Marshmallow** commercial 9$
 
 	Android Lollipop compiled by Arne Exton
+
 * http://raspex.exton.se/?cat=28
 
 ***
@@ -696,6 +878,7 @@ Webkiosk
 **Tizen** *last image 2015/08/18*
 
 	Useless, it boot, you can move the mouse but apps don't start (calc, terminal)
+
 * https://blogs.s-osg.org/tizen-on-rpi2/
 * https://files.s-osg.org/tizen-on-rpi2/
 
@@ -705,6 +888,7 @@ Webkiosk
 
 	Useless, it boot but freeze after 1 minute circa
 	** Rpi 3 devel image not tested 11-Mar-2016
+
 * https://sailpi.wordpress.com/
 * http://images.devaamo.fi/sfa/raspberrypi/
 
