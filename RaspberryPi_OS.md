@@ -4,22 +4,24 @@
 
 ***
 
-**Armbian** *Support 40 boards!*
+**Armbian** *Support 44 boards!*
 
 	Lightweight Debian (Wheezy or Jessie) or Ubuntu (Trusty or Xenial) based distribution specialized for ARM developing boards
 	Server or XFCE desktop
 	Legacy or Vanilla kernel.
 	Compiled from scratch (by Igor Pečovnik)
+	
 * http://www.armbian.com/
 * http://www.armbian.com/download/
 * http://docs.armbian.com/
 
 ***
 
-**OpenSuse Tumbleweed** *Support 59 boards! (including RPis)*
+**OpenSuse Tumbleweed** *Support 67 boards/devices! (including RPis)*
 
 	Official Opensuse Tumbleweed for ARM boards, rolling release
 	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop 
+	
 * https://en.opensuse.org/openSUSE:OpenSUSE_on_your_ARM_board
 * https://en.opensuse.org/openSUSE:Supported_ARM_boards
 
@@ -36,6 +38,7 @@
 **Raspbian** - The official distribution
 
 	Based on Debian, Pixel desktop and minimal edition, one image for all models
+	
 * https://www.raspbian.org/
 * https://www.raspberrypi.org/downloads/raspbian/
 
@@ -628,7 +631,7 @@
 
 ***
 
-**Resin** registration required, free 1 to 5 device
+**Resin OS** registration required, free 1 to 5 device
 
 	A host OS tailored for containers
 
@@ -768,7 +771,7 @@
 
 **RaspBSD**
 
-	Preconfigured FreeBSD 11 images
+	Preconfigured FreeBSD 12 images
 	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
 
 * http://raspbsd.org/raspberrypi.html
