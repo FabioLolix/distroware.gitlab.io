@@ -310,14 +310,19 @@
 
 ***
 
-**Binary Emotions** donationware
+####Binary Emotions
 
+	Donationware
 
 **Digital Signage**
 
 * http://www.binaryemotions.com/digital-signage/raspberry-digital-signage/
 
-**Picture Frame Slideshow**
+**Owncloud**
+
+* http://www.binaryemotions.com/raspberry-os/raspberry-owncloud/
+
+**Slideshow**
 
 * http://www.binaryemotions.com/digital-signage/raspberry-slideshow/
 
@@ -512,7 +517,6 @@
 
 	Raspbian based
 * https://sourceforge.net/projects/pearl-linux-mate-raspberry-pi2/
-
 
 ***
 
