@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Fabio Loli <loli_fabio@protonmail.com>, 2016.
 #
 #, fuzzy
 msgid ""
@@ -12,7 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: context/albumview.cpp:65
 msgid "Refresh Album Information"
-msgstr ""
+msgstr "Aggiorna informazioni album"
 
 #: context/albumview.cpp:73 context/songview.cpp:510 context/songview.cpp:587
 #: dynamic/dynamicrulesdialog.cpp:76 gui/librarypage.cpp:83
@@ -35,11 +35,11 @@ msgstr ""
 #: context/albumview.cpp:177 models/playqueuemodel.cpp:260 po/rc.cpp:116
 #: rc.cpp:116
 msgid "Tracks"
-msgstr ""
+msgstr "Tracce"
 
 #: context/artistview.cpp:115
 msgid "Refresh Artist Information"
-msgstr ""
+msgstr "Aggiorna informazioni artista"
 
 #. i18n: file: devices/albumdetails.ui:163
 #. i18n: ectx: property (text), widget (QTreeWidget, tracks)
@@ -95,7 +95,7 @@ msgstr ""
 
 #: context/lastfmengine.cpp:63
 msgid "Read more on last.fm"
-msgstr ""
+msgstr "Leggi di più su last.fm"
 
 #: context/lyricsdialog.cpp:39
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 #: context/lyricsdialog.cpp:60 gui/searchpage.cpp:219 po/rc.cpp:101
 #: po/rc.cpp:392 po/rc.cpp:945 rc.cpp:101 rc.cpp:392 rc.cpp:945
 msgid "Title:"
-msgstr ""
+msgstr "Titolo:"
 
 #. i18n: file: devices/albumdetails.ui:37
 #. i18n: ectx: property (text), widget (BuddyLabel, label)
@@ -141,11 +141,11 @@ msgstr ""
 #: gui/searchpage.cpp:210 po/rc.cpp:95 po/rc.cpp:377 po/rc.cpp:948 rc.cpp:95
 #: rc.cpp:377 rc.cpp:948
 msgid "Artist:"
-msgstr ""
+msgstr "Artista:"
 
 #: context/lyricsdialog.cpp:64
 msgid "Search For Lyrics"
-msgstr ""
+msgstr "Cerca testi"
 
 #: context/lyricsettings.cpp:35
 msgid "Choose the websites you want to use when searching for lyrics."
@@ -153,12 +153,12 @@ msgstr ""
 
 #: context/onlineview.cpp:31
 msgid "Song Information"
-msgstr ""
+msgstr "Informazioni canzone"
 
 #: context/othersettings.cpp:45 gui/coverdialog.cpp:843
 #: gui/interfacesettings.cpp:188
 msgid "Images (*.png *.jpg)"
-msgstr ""
+msgstr "Immagini (*.png *.jpg)"
 
 #: context/othersettings.cpp:47 gui/interfacesettings.cpp:190
 msgctxt "pixels"
@@ -177,12 +177,12 @@ msgstr ""
 
 #: context/songview.cpp:125 gui/cachesettings.cpp:266
 msgid "Lyrics"
-msgstr ""
+msgstr "Testi"
 
 #: context/songview.cpp:125 support/messagebox.cpp:80
 #: support/messagebox.cpp:178 support/messagebox.h:70
 msgid "Information"
-msgstr ""
+msgstr "Informazioni"
 
 #: context/songview.cpp:125
 msgid "Metadata"
@@ -190,35 +190,35 @@ msgstr ""
 
 #: context/songview.cpp:138
 msgid "Scroll Lyrics"
-msgstr ""
+msgstr "Scorri testi"
 
 #: context/songview.cpp:139
 msgid "Refresh Lyrics"
-msgstr ""
+msgstr "Aggiorna testi"
 
 #: context/songview.cpp:140
 msgid "Edit Lyrics"
-msgstr ""
+msgstr "Modifica testi"
 
 #: context/songview.cpp:141
 msgid "Delete Lyrics File"
-msgstr ""
+msgstr "Cancella testi"
 
 #: context/songview.cpp:152
 msgid "Refresh Track Information"
-msgstr ""
+msgstr "Aggiorna informazioni traccia"
 
 #: context/songview.cpp:153 context/view.cpp:136 gui/mainwindow.cpp:325
 #: widgets/messageoverlay.cpp:50
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #. i18n: file: devices/albumdetails.ui:158
 #. i18n: ectx: property (text), widget (QTreeWidget, tracks)
 #: context/songview.cpp:168 gui/playbacksettings.cpp:48 po/rc.cpp:119
 #: rc.cpp:119
 msgid "Track"
-msgstr ""
+msgstr "Traccia"
 
 #: context/songview.cpp:187
 msgid ""
@@ -239,7 +239,7 @@ msgstr ""
 #: context/songview.cpp:188 online/onlinedbwidget.cpp:117
 #: online/onlinedbwidget.cpp:182
 msgid "Download"
-msgstr ""
+msgstr "Scarica"
 
 #: context/songview.cpp:220
 msgid "Current playing song has changed, still perform search?"
@@ -263,7 +263,7 @@ msgstr ""
 
 #: context/songview.cpp:504 context/songview.cpp:584 mpd-interface/song.cpp:532
 msgid "Album artist"
-msgstr ""
+msgstr "Artista album"
 
 #. i18n: file: devices/filenameschemedialog.ui:102
 #. i18n: ectx: property (text), widget (QPushButton, composer)
@@ -272,15 +272,15 @@ msgstr ""
 #: models/playqueuemodel.cpp:275 mpd-interface/song.cpp:534 po/rc.cpp:227
 #: rc.cpp:227
 msgid "Composer"
-msgstr ""
+msgstr "Compositore"
 
 #: context/songview.cpp:507
 msgid "Lyricist"
-msgstr ""
+msgstr "Paroliere"
 
 #: context/songview.cpp:508
 msgid "Conductor"
-msgstr ""
+msgstr "Conduttore"
 
 #: context/songview.cpp:509
 msgid "Remixer"
@@ -292,11 +292,11 @@ msgstr ""
 
 #: context/songview.cpp:512 context/songview.cpp:588 mpd-interface/song.cpp:538
 msgid "Track number"
-msgstr ""
+msgstr "Traccia numero"
 
 #: context/songview.cpp:513 context/songview.cpp:589 mpd-interface/song.cpp:541
 msgid "Disc number"
-msgstr ""
+msgstr "Disco numero"
 
 #. i18n: file: devices/filenameschemedialog.ui:184
 #. i18n: ectx: property (text), widget (QPushButton, genre)
@@ -312,20 +312,20 @@ msgstr ""
 #: mpd-interface/song.cpp:543 online/onlinedbwidget.cpp:50 po/rc.cpp:269
 #: po/rc.cpp:395 rc.cpp:269 rc.cpp:395
 msgid "Genre"
-msgstr ""
+msgstr "Genere"
 
 #: context/songview.cpp:515 dynamic/dynamicrulesdialog.cpp:82
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: context/songview.cpp:516
 msgid "Original date"
-msgstr ""
+msgstr "Data originale"
 
 #: context/songview.cpp:517 context/songview.cpp:592
 #: dynamic/dynamicrulesdialog.cpp:74
 msgid "Comment"
-msgstr ""
+msgstr "Commento"
 
 #: context/songview.cpp:518
 msgid "Copyright"
@@ -333,11 +333,11 @@ msgstr ""
 
 #: context/songview.cpp:519
 msgid "Label"
-msgstr ""
+msgstr "Etichetta"
 
 #: context/songview.cpp:520
 msgid "Catalogue number"
-msgstr ""
+msgstr "Numero di catalogo"
 
 #: context/songview.cpp:521
 msgid "Title sort"
@@ -382,7 +382,7 @@ msgstr ""
 
 #: context/songview.cpp:531 context/songview.cpp:574
 msgid "Channels"
-msgstr ""
+msgstr "Canali"
 
 #: context/songview.cpp:533
 msgid "Tagging time"
@@ -407,7 +407,7 @@ msgstr ""
 #: context/songview.cpp:586 models/playqueuemodel.cpp:185
 #: models/playqueuemodel.cpp:276 mpd-interface/song.cpp:535
 msgid "Performer"
-msgstr ""
+msgstr "Esecutore"
 
 #. i18n: file: devices/filenameschemedialog.ui:174
 #. i18n: ectx: property (text), widget (QPushButton, year)
@@ -415,11 +415,11 @@ msgstr ""
 #: models/playqueuemodel.cpp:181 models/playqueuemodel.cpp:274
 #: mpd-interface/song.cpp:545 po/rc.cpp:263 rc.cpp:263
 msgid "Year"
-msgstr ""
+msgstr "Anno"
 
 #: context/songview.cpp:628 context/songview.cpp:631
 msgid "Filename"
-msgstr ""
+msgstr "Nome file"
 
 #: context/songview.cpp:852
 msgid "Fetching lyrics via %1"
@@ -439,11 +439,11 @@ msgstr ""
 
 #: context/wikipediaengine.cpp:332
 msgid "Read more on wikipedia"
-msgstr ""
+msgstr "Leggi su wikipedia"
 
 #: context/wikipediaengine.cpp:333
 msgid "Open in browser"
-msgstr ""
+msgstr "Apri nel browser"
 
 #: context/wikipediaengine.cpp:478
 msgctxt "Search pattern for an artist or band, separated by |"
@@ -488,12 +488,12 @@ msgstr ""
 
 #: devices/actiondialog.cpp:257 devices/actiondialog.cpp:261
 msgid "Local Music Library"
-msgstr ""
+msgstr "Libreria locale"
 
 #: devices/actiondialog.cpp:259 devices/albumdetailsdialog.cpp:104
 #: gui/preferencesdialog.cpp:87 widgets/groupedview.cpp:298
 msgid "Audio CD"
-msgstr ""
+msgstr "CD audio"
 
 #: devices/actiondialog.cpp:283
 msgid ""
@@ -558,7 +558,7 @@ msgstr ""
 
 #: devices/actiondialog.cpp:501 gui/stdactions.cpp:56
 msgid "Stop"
-msgstr ""
+msgstr "Ferma"
 
 #: devices/actiondialog.cpp:546 devices/syncdialog.cpp:263
 #: replaygain/rgdialog.cpp:449 tags/tageditor.cpp:1286
@@ -1483,7 +1483,7 @@ msgstr ""
 
 #: devices/syncdialog.cpp:128 devices/syncdialog.cpp:131
 msgid "Synchronize"
-msgstr ""
+msgstr "Sincronizza"
 
 #: devices/syncdialog.cpp:182
 msgid "Device and library are in sync."
@@ -2002,7 +2002,7 @@ msgstr ""
 
 #: gui/initialsettingswizard.cpp:167
 msgid "Cantata will now terminate"
-msgstr ""
+msgstr "Cantata terminerà adesso"
 
 #: gui/interfacesettings.cpp:60 widgets/singlepagewidget.cpp:43
 msgid "Grouped Albums"
@@ -2105,27 +2105,27 @@ msgstr ""
 
 #: gui/librarypage.cpp:66
 msgid "Album, Artist, Year"
-msgstr ""
+msgstr "Album, Artista, Anno"
 
 #: gui/librarypage.cpp:67
 msgid "Album, Year, Artist"
-msgstr ""
+msgstr "Album, Anno, Artista"
 
 #: gui/librarypage.cpp:68
 msgid "Artist, Album, Year"
-msgstr ""
+msgstr "Artista, Album, Anno"
 
 #: gui/librarypage.cpp:69
 msgid "Artist, Year, Album"
-msgstr ""
+msgstr "Artista, Anno, Album"
 
 #: gui/librarypage.cpp:70
 msgid "Year, Album, Artist"
-msgstr ""
+msgstr "Anno, Album, Artista"
 
 #: gui/librarypage.cpp:71
 msgid "Year, Artist, Album"
-msgstr ""
+msgstr "Anno, Artista, Album"
 
 #: gui/librarypage.cpp:72
 msgid "Modified Date"
@@ -3017,7 +3017,7 @@ msgstr ""
 
 #: gui/stdactions.cpp:75
 msgid "Set Priority"
-msgstr ""
+msgstr "Setta priorità"
 
 #: gui/stdactions.cpp:76
 msgid "Highest Priority (255)"
@@ -3205,7 +3205,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, trackTitle)
 #: models/playqueuemodel.cpp:272 po/rc.cpp:239 rc.cpp:239
 msgid "Track Title"
-msgstr ""
+msgstr "Titolo traccia"
 
 #: models/playqueuemodel.cpp:331 models/searchmodel.cpp:101
 msgid "# (Track Number)"
@@ -6420,7 +6420,7 @@ msgstr ""
 
 #: widgets/genrecombo.cpp:63
 msgid "All Genres"
-msgstr ""
+msgstr "Tutti i generi"
 
 #: widgets/itemview.cpp:605
 msgid "Go Back"
