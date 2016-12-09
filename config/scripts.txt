@@ -1,0 +1,23 @@
+## Mass renaming script, replaces spaces with underscore
+
+#!/bin/bash
+ls | while read -r FILE
+do
+    mv -v "$FILE" `echo $FILE | tr ' ' '_' `
+done
+
+
+***
+
+
+## Mass creating ISO DVD from subfolders, using subfolder name
+## Need: cdrkit
+
+#!/bin/bash
+cd -P .
+for dir in ./*/
+do cd -P "$dir" ||continue
+   printf %s\\n "$PWD" >&2
+   genisoimage -dvd-video -udf -o /media/fastraid/DVD_ISO/$(pwd|awk -F'/' '{print $NF}').iso  $(pwd) && cd "$OLDPWD" || 
+! break; done || ! cd - >&2
+

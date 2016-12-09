@@ -1,0 +1,15 @@
+
+	Installare repository dei plugin extra per openmediavault
+
+
+	wget http://omv-extras.org/openmediavault-omvextrasorg_latest_all.deb
+	
+
+Per Stoneburner 2.0
+
+	sudo apt-get install apt-transport-https libcurl3-gnutls librtmp0 libssh2-1
+
+
+Per Erasmus 3.0
+
+	sudo apt-get install apt-transport-https libcurl3-gnutls librtmp1 libssh2-1

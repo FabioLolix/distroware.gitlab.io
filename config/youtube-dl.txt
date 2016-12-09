@@ -1,0 +1,82 @@
+Scaricare con youtube-dl
+
+
+
+# Installazione in Debian/Ubuntu
+
+sudo apt-get install youtube-dl
+
+# Installazione in Arch/MAnjaro
+
+sudo pacman -S youtube-dl
+
+
+
+# Aggiornamento, in caso di problemi
+
+sudo youtube-dl -U
+
+sudo youtube-dl --update
+
+
+
+# Scaricare, URL completo oppure inserire solo il codice alfanumerico dopo =
+
+youtube-dl http://www.youtube.com/watch?v=codice_alfanumerico_youtube
+
+youtube-dl codice_alfanumerico_youtube
+
+youtube-dl -f best URL
+
+
+
+# Lista dei formati disponibili
+
+youtube-dl -F URL
+
+
+
+# Unire più formati disponibili, es. miglior Audio + miglior Video
+
+youtube-dl -f 137+140 URL
+
+
+
+# Scaricare più formati disponibili
+
+youtube-dl -f 137,140 URL
+
+youtube-dl -f best,251 URL
+
+
+
+# Il Video scaricato prende il nome dal titolo e dal codice alfanumerico, per usare un nome differente usare l'opzione -o
+
+youtube-dl -o nomefile.mp4 "codice_alfanumerico_youtube
+
+
+
+# Lista siti supportati
+
+youtube-dl --list-extractors
+
+
+
+# Maggiori informazioni
+
+man youtube-dl
+
+youtube-dl -h
+
+
+
+# Impostre un alias in ~/.bashrc
+
+alias youtube="youtube-dl"
+
+alias ytb="youtube-dl"
+
+
+# PPA per Ubuntu Repository
+
+sudo add-apt-repository ppa:nilarimogard/webupd8

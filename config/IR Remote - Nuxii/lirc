@@ -1,0 +1,42 @@
+Nuxii 
+
+https://nuxii.fr/
+
+https://nuxii.fr/index.php?id_product=71&controller=product&id_lang=1
+
+
+see IR commands with:
+irw
+
+
+
+In Debian 
+
+Add the following to /boot/config.txt:
+
+dtoverlay=lirc-rpilirc-rpi,gpio_in_pin=18
+
+copy nuxii's lircd.conf in:
+
+/home/user/.config/lircd.conf
+
+
+
+
+In LibreELEC
+
+Add the following to /flash/config.txt
+
+dtoverlay=lirc-rpi,gpio_in_pin=18
+
+copy nuxii's lircd.conf in:
+/storage/.config/lircd.conf
+
+
+
+
+In piCorePlayer - incomplete
+
+in PCP parttion add following to /config.txt
+
+dtoverlay=lirc-rpi,gpio_in_pin=18
