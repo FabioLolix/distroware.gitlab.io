@@ -1,18 +1,21 @@
 
-**Systemd service folder**
+**Systemd service (Manjaro Linux)**
 
-/lib/systemd/system/
+Folder:
 
+	/lib/systemd/system/
 
-sudo systemctl enable
+Systemd commands:
 
-sudo systemctl start
+    sudo systemctl enable
 
-sudo systemctl status
+    sudo systemctl start
 
-sudo systemctl stop
+    sudo systemctl status
 
-sudo systemctl restart
+    sudo systemctl stop
+
+    sudo systemctl restart
 
 
 copy service@.service to service@[non root user].service for Cherrymusic
@@ -20,41 +23,42 @@ copy service@.service to service@[non root user].service for Cherrymusic
 copy service@.service to service@[user].service for Syncthing
 
 
-* Cheerymusic
+Cheerymusic
 
-cherrymusic@*user*
-
-
-* Logitech Media Server
-
-logitechmediaserver.service
+	cherrymusic@user
 
 
-* Logitech Media Server Git
+Logitech Media Server
 
-logitechmediaserver-git
-
-
-* MiniDLNA upnp server
-
-config in /etc/minidlna.conf
-
-minidlna
+	logitechmediaserver.service
 
 
-* OpenSSH server
+Logitech Media Server Git
 
-sshd
-
-
-* Samba
-
-smbd
+	logitechmediaserver-git
 
 
-* Syncthing 
+MiniDLNA upnp server [config in /etc/minidlna.conf]
 
-sudo cp syncthing@.service syncthing@*user*.service
+	minidlna
 
-sudo cp syncthing-inotify@.service syncthing-inotify@*user*.service
 
+OpenSSH server
+
+	sshd
+
+
+Samba
+
+	smbd
+
+
+Syncthing 
+
+sudo cp syncthing@.service syncthing@user.service
+
+sudo cp syncthing-inotify@.service syncthing-inotify@user.service
+	
+	syncthing@user.service
+
+	syncthing-inotify@user.service
