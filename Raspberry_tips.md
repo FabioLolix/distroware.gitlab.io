@@ -18,7 +18,7 @@ At the end of /config.txt add:
 
 ***
 
-###Setting Official Touchscreen in PiCorePlayer**
+###Setting Official Touchscreen in PiCorePlayer
 
 **Adjust screen rotation (by default it's upside down)**
 
