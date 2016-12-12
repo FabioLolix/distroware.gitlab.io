@@ -44,11 +44,24 @@
 
 # 64 Bit distribution (Rpi3 only, of course)
 
+**Arch Linux ARM**
+
+    This provides an installation using the mainline kernel and U-Boot.
+    There is no support for the vendor-provided libraries, extensions, or related software.
+    Some of the hardware on the board may not work, or it may perform poorly.
+
+* https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
+* http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz
+
+***
+
 **Devuan** *beta*
 
 	Devuan GNU+Linux is a fork of Debian without systemd
 
 * https://files.devuan.org/devuan_jessie_beta/embedded/devuan_jessie_1.0.0-beta2_arm64_raspi3.img.xz
+
+***
 
 **OpenSUSE Leap**
 
@@ -94,8 +107,8 @@
 
 	Suse Linux Enterprise Server, 12 Service Pack 2, but please note that SUSE doesn't offer commercial support for it.
 	Uses Btrfs for the root file system and IceWM (ICE Window Manager) is used as default desktop environment.
-	Also	, GCC 6 is integrated and recommended for compiling programs from sources.
-	Upstream non Raspberry Pi foundation kernel ??
+	Also GCC 6 is integrated and recommended for compiling programs from sources.
+	(Lolix note, Upstream or downstream kernel?)
 	
 * http://tinyurl.com/slespi
 * https://www.suse.com/communities/blog/suse-linux-enterprise-server-raspberry-pi/
@@ -288,7 +301,7 @@
 
 **Angstrom**
 
-	Indipendent embedded Linux system
+	Indipendent embedded Linux system, Yocto 1.7 compatible
 	
 * http://wp.angstrom-distribution.org/introduction/
 * http://dominion.thruhere.net/angstrom/nightlies/
@@ -631,9 +644,9 @@
 
 ***
 
-**Resin OS** registration required, free 1 to 5 device
+**resinOS** registration required, free 1 to 5 device
 
-	A host OS tailored for containers
+	A host OS tailored for containers, a Yocto Project
 
 * https://resin.io/
 * https://github.com/resin-io
