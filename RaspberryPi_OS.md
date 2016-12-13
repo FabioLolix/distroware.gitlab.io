@@ -28,7 +28,7 @@
 ***
 
 ###Still waiting for:
-* Official Android
+* Official Android (not Android Things, formerly Google Brillo)
 * ~~64 bit images for Rpi 3~~
 
 ***
@@ -41,6 +41,8 @@
 	
 * https://www.raspbian.org/
 * https://www.raspberrypi.org/downloads/raspbian/
+
+
 
 # 64 Bit distribution (Rpi3 only, of course)
 
@@ -113,6 +115,7 @@
 * http://tinyurl.com/slespi
 * https://www.suse.com/communities/blog/suse-linux-enterprise-server-raspberry-pi/
 * http://news.softpedia.com/news/suse-linux-enterprise-server-out-for-raspberry-pi-3-supports-bluetooth-wi-fi-510070.shtml
+
 
 
 # Audio / Music
@@ -774,6 +777,7 @@
 * http://blackarch.org/downloads.html#install-repo
 
 
+
 # *BSDs
 
 **FreeBSD**
@@ -866,6 +870,17 @@
 
 
 
+# Internet of Things
+
+**Android Things** preview
+
+    Build connected devices for a wide variety of consumer, retail, and industrial applications
+
+* https://developer.android.com/things/hardware/raspberrypi.html
+* http://arstechnica.com/gadgets/2016/12/google-brillo-rebrands-as-android-things-googles-internet-of-things-os/
+
+
+
 # Mobile OS
 
 **Unofficial Android Rpi3**
@@ -914,17 +929,24 @@
 
 
 
+# Dormant
+
+GeexBox snapshots are active, last stable 2013/11/03
+
+    Indipendent, stable iso/img are old, snapshots are active
+
+* http://www.geexbox.org/download/
+* http://download.geexbox.org/snapshots/
+
+
+
 # Discontinued
 
 Chromium for SBC
 Chromium OS for raspberry
 * http://www.chromiumosforsbc.org/
 * https://sourceforge.net/projects/chromnium-os-for-all-sbc/
-
-GeexBox snapshots are active, last stable 2013/11/03
-Indipendent, stable iso/img are old, snapshots are active
-* http://www.geexbox.org/download/
-* http://download.geexbox.org/snapshots/
+* http://news.softpedia.com/news/vintos-promises-to-be-the-chromium-os-fork-you-ve-always-wanted-and-needed-507976.shtml
 
 Adafruit Occidentalis
 * https://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-3
@@ -1001,5 +1023,32 @@ VPNBian
 
 * http://elinux.org/RPi_Distributions
 
-* https://distrowatch.com/
+* [Distrowatch Raspberry Pi](https://distrowatch.com/search.php?ostype=All&category=Raspberry+Pi)
 
+
+
+####Originally posted on:
+
+* https://fabiololix.blogspot.it/ 
+
+
+
+# Notable Linux OS listing
+
+* http://distrowatch.com/
+
+    List Linux, *BSD, (Open)Solaris plus 5 "Others OS" distribution
+
+* http://lwn.net/Distributions/
+
+* http://www.ibiblio.org/pub/linux/distributions/
+
+* http://www.linuxlinks.com/Distributions/
+
+
+
+# Linux and *BSD Timelines
+
+* https://github.com/FabioLolix/linuxtimeline
+
+* https://github.com/FabioLolix/BSD-timeline
