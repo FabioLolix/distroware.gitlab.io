@@ -213,6 +213,10 @@
 
 #Mediacenter
 
+    All mediacenter OS use Kodi except Rasplex which use OpenPHT
+    Also Sabayon on ARM and Manjaro ARM have a media edition with Kodi
+    Kodi is installable on DietPi and Max2Play as on most of general OSes
+
 **LibreELEC** *beta* favourite
 
 	New fork of OpenELEC
@@ -246,15 +250,6 @@
 * https://github.com/RasPlex/RasPlex/releases
 
 ***
-
-**Sabayon on ARM**
-
-	Sabayon in Base or Media center editions
-	
-* https://www.sabayon.org/tags/arm
-
-***
-
 
 **Xbian**
 
@@ -681,6 +676,14 @@
 	Debian based distro for cryptocurrencies
 
 * http://rokos.space/
+
+***
+
+**Sabayon on ARM**
+
+	Sabayon in Base or Media center editions
+	
+* https://www.sabayon.org/tags/arm
 
 ***
 
