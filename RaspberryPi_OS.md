@@ -44,17 +44,17 @@
 
 # Category
 
-- [64 Bit](## 64 Bit distribution (Rpi3 only, of course))
-- [Audio / Music](## Audio / Music)
+- [64 Bit](#64-bit-distribution))
+- [Audio / Music](#audio)
 - [Mediacenter](#mediacenter)
-- [Gaming / Emulators](## Gaming / Emulators)
-- [Desktop/Server/Self-hosting/General Purpose](## Desktop/Server/Self-hosting/General Purpose)
+- [Gaming / Emulators](#gaming/emulators)
+- [Desktop/Server/Self-hosting/General Purpose](#desktop/server/self-hosting/general-purpose)
 - [BSD](#bsd-os)
-- [Other OS](## Other, non Linux or *BSD OSes)
-- [Mobile OS](## Mobile OS)
+- [Other OS](#other,-non-linux or *BSD OSes)
+- [Mobile OS](#-mobile-os)
 - [Dormant](#dormant)
-- [Discontinued](##discontinued)
-- [Sources and inspiration](## Sources and inspiration)
+- [Discontinued](#discontinued)
+- [Sources and inspiration](#sources-and-inspiration)
 
 <!-- BEGIN SOFTWARE LIST -->
 
