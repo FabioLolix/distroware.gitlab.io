@@ -44,14 +44,14 @@
 
 # Category
 
-- [64 Bit](#64-bit-distribution))
+- [64 Bit](#64-bit-distribution)
 - [Audio / Music](#audio)
 - [Mediacenter](#mediacenter)
-- [Gaming / Emulators](#gaming/emulators)
+- [Gaming / Emulators](#gaming-/-emulators)
 - [Desktop/Server/Self-hosting/General Purpose](#desktop/server/self-hosting/general-purpose)
 - [BSD](#bsd-os)
 - [Other OS](#other,-non-linux or *BSD OSes)
-- [Mobile OS](#-mobile-os)
+- [Mobile OS](#mobile-os)
 - [Dormant](#dormant)
 - [Discontinued](#discontinued)
 - [Sources and inspiration](#sources-and-inspiration)
@@ -1100,7 +1100,7 @@ VPNBian
 
 
 
-# Notable Linux OS listing
+## Notable Linux OS listing
 
 * http://distrowatch.com/
 
@@ -1114,7 +1114,7 @@ VPNBian
 
 
 
-# Linux and *BSD Timelines
+## Linux and *BSD Timelines
 
 * https://github.com/FabioLolix/linuxtimeline
 
