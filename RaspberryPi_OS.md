@@ -44,13 +44,13 @@
 
 # Category
 
-- [64 Bit](#64-bit-distribution)
-- [Audio / Music](#audio)
+- [64 Bit](#64-bit-distribution-rpi-3-only)
+- [Audio / Music](#audio-music)
 - [Mediacenter](#mediacenter)
-- [Gaming / Emulators](#gaming-/-emulators)
-- [Desktop/Server/Self-hosting/General Purpose](#desktop/server/self-hosting/general-purpose)
+- [Gaming / Emulators](#gaming-emulators)
+- [Desktop/Server/Self-hosting/General Purpose](#desktop-server-self-hosting-general-purpose)
 - [BSD](#bsd-os)
-- [Other OS](#other,-non-linux or *BSD OSes)
+- [Other OS](#other-os)
 - [Mobile OS](#mobile-os)
 - [Dormant](#dormant)
 - [Discontinued](#discontinued)
@@ -58,7 +58,7 @@
 
 <!-- BEGIN SOFTWARE LIST -->
 
-## 64 Bit distribution (Rpi3 only, of course)
+## 64 Bit distribution, RPi 3 only
 
 **[`^        back to top        ^`](#)**
 
@@ -142,7 +142,7 @@
 
 
 
-## Audio / Music
+## Audio, Music
 
 **[`^        back to top        ^`](#)**
 
@@ -279,7 +279,7 @@
 
 
 
-## Gaming / Emulators
+## Gaming, Emulators
 
 **[`^        back to top        ^`](#)**
 
@@ -317,7 +317,7 @@
 
 
 
-## Desktop/Server/Self-hosting/General Purpose
+## Desktop, Server, Self-hosting, General Purpose
 
 **[`^        back to top        ^`](#)**
 
@@ -876,7 +876,7 @@
 
 
 
-## Other, not Linux or not *BSD OSes
+## Other OS
 
 **[`^        back to top        ^`](#)**
 
@@ -1094,13 +1094,13 @@ VPNBian
 <!-- END SOFTWARE LIST -->
 
 
-####Originally posted on:
+### Originally posted on:
 
 * https://fabiololix.blogspot.it/ 
 
 
 
-## Notable Linux OS listing
+### Notable Linux OS listing
 
 * http://distrowatch.com/
 
@@ -1114,7 +1114,7 @@ VPNBian
 
 
 
-## Linux and *BSD Timelines
+### Linux and *BSD Timelines
 
 * https://github.com/FabioLolix/linuxtimeline
 
