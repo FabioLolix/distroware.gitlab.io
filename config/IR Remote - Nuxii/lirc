@@ -37,6 +37,8 @@ copy nuxii's lircd.conf in:
 
 In piCorePlayer - incomplete
 
+Install lirc from webui
+
 in PCP parttion add following to /config.txt
 
 dtoverlay=lirc-rpi,gpio_in_pin=18
