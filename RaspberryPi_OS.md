@@ -407,6 +407,14 @@
 
 ***
 
+**Flint OS**
+
+    A Chromium OS fork
+
+* https://flintos.io/download/
+
+***
+
 **Gentoo**
 
 	Check instructions. Cross compilation is an option
