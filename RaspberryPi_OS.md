@@ -42,6 +42,19 @@
 * https://www.raspbian.org/
 * https://www.raspberrypi.org/downloads/raspbian/
 
+# Category
+
+- [64 Bit](## 64 Bit distribution (Rpi3 only, of course))
+- [Audio / Music](## Audio / Music)
+- [Mediacenter](# Mediacenter)
+- [Gaming / Emulators](## Gaming / Emulators)
+- [Desktop/Server/Self-hosting/General Purpose](## Desktop/Server/Self-hosting/General Purpose)
+- [BSD](## BSD OS)
+- [Other OS](## Other, non Linux or *BSD OSes)
+- [Mobile OS](## Mobile OS)
+- [Dormant](## Dormant)
+- [Discontinued](## Discontinued)
+- [Sources and inspiration](## Sources and inspiration)
 
 
 
