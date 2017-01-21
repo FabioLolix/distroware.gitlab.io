@@ -56,9 +56,11 @@
 - [Discontinued](## Discontinued)
 - [Sources and inspiration](## Sources and inspiration)
 
-
+<!-- BEGIN SOFTWARE LIST -->
 
 ## 64 Bit distribution (Rpi3 only, of course)
+
+**[`^        back to top        ^`](#)**
 
 **Arch Linux ARM**
 
@@ -141,6 +143,8 @@
 
 
 ## Audio / Music
+
+**[`^        back to top        ^`](#)**
 
 **Archphile** *beta*
 
@@ -227,6 +231,8 @@
 
 ## Mediacenter
 
+**[`^        back to top        ^`](#)**
+
     All mediacenter OS use Kodi except Rasplex which use OpenPHT
     Also Sabayon on ARM and Manjaro ARM have a media edition with Kodi
     Kodi is installable on DietPi and Max2Play as on most of general OSes
@@ -275,6 +281,8 @@
 
 ## Gaming / Emulators
 
+**[`^        back to top        ^`](#)**
+
 **Lakka**
 
 	OpenElec based, official Retroarch distro for gaming, libretro cool XMB ui
@@ -310,6 +318,8 @@
 
 
 ## Desktop/Server/Self-hosting/General Purpose
+
+**[`^        back to top        ^`](#)**
 
 **Alpine**
 
@@ -827,6 +837,8 @@
 
 ## BSD OS
 
+**[`^        back to top        ^`](#)**
+
 **FreeBSD**
 
 * https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi
@@ -865,6 +877,8 @@
 
 
 ## Other, not Linux or not *BSD OSes
+
+**[`^        back to top        ^`](#)**
 
 **RiscOS**
 
@@ -927,6 +941,8 @@
 
 ## Mobile OS
 
+**[`^        back to top        ^`](#)**
+
 **Unofficial Android Rpi3**
 
 	Unofficial Android brought by Peter Yoon (code) and Sahaj Sarup (compiling)
@@ -975,6 +991,8 @@
 
 ## Dormant
 
+**[`^        back to top        ^`](#)**
+
 GeexBox snapshots are active, last stable 2013/11/03
 
     Indipendent, stable iso/img are old, snapshots are active
@@ -985,6 +1003,8 @@ GeexBox snapshots are active, last stable 2013/11/03
 
 
 ## Discontinued
+
+**[`^        back to top        ^`](#)**
 
 Chromium for SBC
 Chromium OS for raspberry
@@ -1063,12 +1083,15 @@ VPNBian
 
 ## Sources and inspiration
 
+**[`^        back to top        ^`](#)**
+
 * http://forum.xda-developers.com/raspberry-pi/development/distro-list-little-pi-t3136751
 
 * http://elinux.org/RPi_Distributions
 
 * [Distrowatch Raspberry Pi](https://distrowatch.com/search.php?ostype=All&category=Raspberry+Pi)
 
+<!-- END SOFTWARE LIST -->
 
 
 ####Originally posted on:
