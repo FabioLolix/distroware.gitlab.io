@@ -65,6 +65,14 @@
 
 ***
 
+**HardnedBSD** *in development*
+
+    HardenedBSD is a security-enhanced fork of FreeBSD
+
+* https://hardenedbsd.org/~shawn/rpi3/
+
+***
+
 **OpenSUSE Leap**
 
 	Official Opensuse Leap , stable release
@@ -783,6 +791,14 @@
 **FreeBSD**
 
 * https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi
+
+***
+
+**HardnedBSD** *in development*
+
+    HardenedBSD is a security-enhanced fork of FreeBSD
+
+* https://hardenedbsd.org/~shawn/rpi3/
 
 ***
 
