@@ -178,7 +178,8 @@
 **Roon Output Bridge** *beta *
 
 	Roon pricing: 119 $/year or 499 $ Lifetime, 15 days free trial
-	
+	Pre-configured Raspbian for Roon client software
+
 * https://roonlabs.com/
 * https://www.hifiberry.com/2016/08/new-roon-for-hifiberry-release/
 * http://downloads.hifiberry.com/images/roon.zip
