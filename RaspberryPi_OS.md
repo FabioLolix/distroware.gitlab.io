@@ -468,7 +468,10 @@
 
 ***
 
-**Manjaro ARM** *in development*
+**Manjaro ARM**
+
+    Manjaro ARM comes in minimal, base, server and media editions
+    Like main system there are community editions: Mate, LXQT and KDE
 
 * http://manjaro-arm.org/
 * http://manjaro-arm.org/downloads.php
