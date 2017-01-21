@@ -46,10 +46,10 @@
 
 - [64 Bit](## 64 Bit distribution (Rpi3 only, of course))
 - [Audio / Music](## Audio / Music)
-- [Mediacenter](# Mediacenter)
+- [Mediacenter](#Mediacenter)
 - [Gaming / Emulators](## Gaming / Emulators)
 - [Desktop/Server/Self-hosting/General Purpose](## Desktop/Server/Self-hosting/General Purpose)
-- [BSD](## BSD OS)
+- [BSD](#BSD-OS)
 - [Other OS](## Other, non Linux or *BSD OSes)
 - [Mobile OS](## Mobile OS)
 - [Dormant](## Dormant)
