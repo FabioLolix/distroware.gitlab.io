@@ -44,7 +44,8 @@
 
 
 
-# 64 Bit distribution (Rpi3 only, of course)
+
+## 64 Bit distribution (Rpi3 only, of course)
 
 **Arch Linux ARM**
 
@@ -126,7 +127,7 @@
 
 
 
-# Audio / Music
+## Audio / Music
 
 **Archphile** *beta*
 
@@ -211,7 +212,7 @@
 
 
 
-#Mediacenter
+## Mediacenter
 
     All mediacenter OS use Kodi except Rasplex which use OpenPHT
     Also Sabayon on ARM and Manjaro ARM have a media edition with Kodi
@@ -259,7 +260,7 @@
 
 
 
-# Gaming / Emulators
+## Gaming / Emulators
 
 **Lakka**
 
@@ -295,7 +296,7 @@
 
 
 
-# Desktop/Server/Self-hosting/General Purpose
+## Desktop/Server/Self-hosting/General Purpose
 
 **Alpine**
 
@@ -305,6 +306,14 @@
 
 ***
 
+**Android Things** *preview*
+
+    Build connected devices for a wide variety of consumer, retail, and industrial applications. IoT
+
+* https://developer.android.com/things/hardware/raspberrypi.html
+* http://arstechnica.com/gadgets/2016/12/google-brillo-rebrands-as-android-things-googles-internet-of-things-os/
+
+***
 
 **Angstrom**
 
@@ -622,6 +631,8 @@
 
 * http://distro.ibiblio.org/quirky/quirky6/armv7/releases/
 
+***
+
 **Rachel-Pi**
 
 	Educational server, a World Possible initiative
@@ -664,7 +675,7 @@
 
 **resinOS** registration required, free 1 to 5 device
 
-	A host OS tailored for containers, a Yocto Project
+	A host OS tailored for containers, a Yocto Project. IoT
 
 * https://resin.io/
 * https://github.com/resin-io
@@ -801,7 +812,7 @@
 
 
 
-# *BSDs
+## BSD OS
 
 **FreeBSD**
 
@@ -840,7 +851,7 @@
 
 
 
-# Other, non Linux or *BSD OSes
+## Other, not Linux or not *BSD OSes
 
 **RiscOS**
 
@@ -901,18 +912,7 @@
 
 
 
-# Internet of Things
-
-**Android Things** preview
-
-    Build connected devices for a wide variety of consumer, retail, and industrial applications
-
-* https://developer.android.com/things/hardware/raspberrypi.html
-* http://arstechnica.com/gadgets/2016/12/google-brillo-rebrands-as-android-things-googles-internet-of-things-os/
-
-
-
-# Mobile OS
+## Mobile OS
 
 **Unofficial Android Rpi3**
 
@@ -960,7 +960,7 @@
 
 
 
-# Dormant
+## Dormant
 
 GeexBox snapshots are active, last stable 2013/11/03
 
@@ -971,7 +971,7 @@ GeexBox snapshots are active, last stable 2013/11/03
 
 
 
-# Discontinued
+## Discontinued
 
 Chromium for SBC
 Chromium OS for raspberry
@@ -1048,7 +1048,7 @@ VPNBian
 
 
 
-# Sources and inspiration
+## Sources and inspiration
 
 * http://forum.xda-developers.com/raspberry-pi/development/distro-list-little-pi-t3136751
 
