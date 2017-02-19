@@ -107,14 +107,20 @@ sudo add-apt-repository ppa:me-davidsansome/clementine
 ## Clementine development, official
 sudo add-apt-repository ppa:me-davidsansome/clementine-dev
 
-## Cantata MPD player,QT version, unofficial
-sudo add-apt-repository ppa:ubuntuhandbook1/cantata-qt
-
 ## Deadbeef music player
 sudo add-apt-repository ppa:starws-box/deadbeef-player
 
 ## Rhythmbox
 sudo add-apt-repository ppa:fossfreedom/rhythmbox
+
+## Cantata MPD player, QT version, unofficial
+sudo add-apt-repository ppa:ubuntuhandbook1/cantata-qt
+
+## Latest MPD, unofficial
+sudo add-apt-repository ppa:jean-francois-dockes/mpd
+
+## Upplay, upmpdcli, libupnpp. Upplay upnp control point
+sudo add-apt-repository ppa:jean-francois-dockes/upnpp1
 
 ## SMP video player
 sudo add-apt-repository ppa:rvm/smplayer
@@ -253,21 +259,23 @@ sudo add-apt-repository ppa:ravefinity-project/ppa
 ## Canonical proprietary video drivers
 sudo add-apt-repository ppa:graphics-drivers/ppa
 
+## Mesa 13, updated versions of X.org drivers, libraries, etc. for Ubuntu. Ubuntu does not "officially/formally" support these packages
+sudo add-apt-repository ppa:ubuntu-x-swat/updates
+
 ## Oibaf is a PPA that includes the very latest graphics drivers, and is updated virtually every day. This PPA is only helpful if you’re using the open source drivers rather than the proprietary nVidia or AMD drivers, proprietary drivers are not included. However, there are constant updates to the major open source drivers that can add support or improve performance, so this is the best way to try them out. You can add it with the command
 sudo add-apt-repository ppa:oibaf/graphics-drivers
 
 ## Similarly, you can also add the X.org-Edgers PPA if you’re concerned about your graphics performance. This PPA will give you the absolute latest version of the X.org X display server, which is a part of the entire graphics stack. If you want better graphics performance, it’s important to keep the entire stack updated. You shouldn’t use this PPA if you use the proprietary graphics drivers, as they sometimes lag with support for newer kernel and X.org versions. You can add it with the command
 sudo add-apt-repository ppa:xorg-edgers/ppa
 
-## Latest Mesa git and others
+## Padoka PPA, latest Mesa (17) git and others, unofficial
 sudo add-apt-repository ppa:paulo-miguel-dias/mesa
 
 
 
 ### Games | Giochi
 
-## Antimicro, map keyboard keys and mouse controls to a gamepad
-# It's in ppa:nilarimogard/webupd8
+## Antimicro, map keyboard keys and mouse controls to a gamepad, included in ppa:nilarimogard/webupd8
 
 ## Flightgear
 sudo add-apt-repository ppa:saiarcot895/flightgear

@@ -110,14 +110,20 @@ sudo add-apt-repository ppa:me-davidsansome/clementine
 ## Clementine development, official
 sudo add-apt-repository ppa:me-davidsansome/clementine-dev
 
-## Cantata MPD player, unofficial
-sudo add-apt-repository ppa:ubuntuhandbook1/cantata-qt
-
 ## Gmusicbrowser
 sudo add-apt-repository ppa:shimmerproject/ppa
 
 ## Deadbeef music player
 sudo add-apt-repository ppa:starws-box/deadbeef-player
+
+## Cantata MPD player, QT version, unofficial
+sudo add-apt-repository ppa:ubuntuhandbook1/cantata-qt
+
+## Latest MPD, unofficial
+sudo add-apt-repository ppa:jean-francois-dockes/mpd
+
+## Upplay, upmpdcli, libupnpp. Upplay upnp control point
+sudo add-apt-repository ppa:jean-francois-dockes/upnpp1
 
 ## Ffmpeg, unofficial
 sudo add-apt-repository ppa:kirillshkrogalev/ffmpeg-next
