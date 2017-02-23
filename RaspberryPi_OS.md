@@ -89,6 +89,19 @@
 
 ***
 
+***OpenBSD** *in development*
+
+    OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
+    Due to the fact that there are many System on a Chips (SoC) around
+    OpenBSD/arm64 differentiates between various SoCs and may have a different level of support between them
+    The current target platforms are the Pine64 and the Raspberry Pi 3
+
+* https://www.openbsd.org/arm64.html
+* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64
+* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64/INSTALL.arm64
+
+***
+
 **OpenSUSE Leap**
 
 	Official Opensuse Leap , stable release
@@ -146,6 +159,9 @@
 
 **[`^        back to top        ^`](#)**
 
+    IQaudio offer several pre-configured SD card images & tools for IQaudIO products
+    http://www.iqaudio.com/downloads/
+
 **Archphile** *beta*
 
 	ArchLinuxARM based, ympd webui
@@ -193,7 +209,7 @@
 
 ***
 
-**Roon Output Bridge** *beta *
+**Roon Output Bridge** *beta*
 
 	Roon pricing: 119 $/year or 499 $ Lifetime, 15 days free trial
 	Pre-configured Raspbian for Roon client software
@@ -235,6 +251,7 @@
 
     All mediacenter OS use Kodi except Rasplex which use OpenPHT
     Also Sabayon on ARM and Manjaro ARM have a media edition with Kodi
+    Recalbox have Kodi preinstalled
     Kodi is installable on DietPi and Max2Play as on most of general OSes
 
 **LibreELEC** *beta* favourite
@@ -283,7 +300,7 @@
 
 **[`^        back to top        ^`](#)**
 
-**Lakka**
+**Lakka** *in development*
 
 	OpenElec based, official Retroarch distro for gaming, libretro cool XMB ui
 
@@ -293,7 +310,7 @@
 ***
 
 
-**Recalbox** *beta*
+**Recalbox**
 
 	EmulatioStation, Libretro, Kodi, Mame
 	
@@ -362,6 +379,15 @@
 	Arch Linix ARM based, self-hosting
 	
 * https://arkos.io/
+***
+
+**Automotive Grade Linux (AGL)** *demo platform*
+
+    A Linux Foundation project dedicated to creating open source software solutions for automotive applications
+    Raspberry Pi 3 only
+
+* https://www.automotivelinux.org/
+* https://download.automotivelinux.org/AGL/snapshots/master/latest/raspberrypi3/deploy/images/raspberrypi3/
 
 ***
 
@@ -591,6 +617,15 @@
 	Raspbian based
 	
 * https://sourceforge.net/projects/pearlpi-lxde-kodi/
+
+***
+
+**Picroft**
+
+    Raspbian Jessie Lite with preconfigure Mycroft AI
+
+* https://mycroft.ai/mycroft-now-available-raspberry-pi-image/
+* https://rebrand.ly/Picroft-0_8
 
 ***
 
@@ -850,6 +885,15 @@
     HardenedBSD is a security-enhanced fork of FreeBSD
 
 * https://hardenedbsd.org/~shawn/rpi3/
+
+***
+
+***OpenBSD** *in development*
+
+    OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
+
+* https://www.openbsd.org/arm64.html
+* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64
 
 ***
 
