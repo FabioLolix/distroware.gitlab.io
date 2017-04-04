@@ -201,9 +201,9 @@
 
 ***
 
-**PiMusicBox** *last release 2015/04/6*
+**PiMusicBox** *0.7 RC out now*
 
-	Raspbian based, Mopidy client
+	Raspbian based, Mopidy client. New version in the making
 	
 * http://www.pimusicbox.com/
 
@@ -376,9 +376,10 @@
 
 **arkOS** *in development*
 
-	Arch Linix ARM based, self-hosting
+	Arch Linux ARM based, self-hosting, owncloud
 	
 * https://arkos.io/
+
 ***
 
 **Automotive Grade Linux (AGL)** *demo platform*
@@ -445,9 +446,9 @@
 
 ***
 
-**Fedberry** Rpi 2 only
+**Fedberry**
 
-	Fedora 23 optimized for Raspberry Pi 2
+	FedBerry is a Fedora Remix specifically built for use with Raspberry Pi 2/3 Model B computers.
 	
 * http://fedberry.org/
 
@@ -463,9 +464,17 @@
 
 **Flint OS**
 
-    A Chromium OS fork
+    Build on Chromium OS for RPi 2/3 and PC
 
 * https://flintos.io/download/
+
+***
+
+**FullPageOS**
+
+    A Raspbian distribution to display one webpage in full screen. It includes Chromium out of the box and the scripts necessary to load it at boot, by guysoft
+
+* https://github.com/guysoft/FullPageOS
 
 ***
 
@@ -561,6 +570,14 @@
 	Indipendent. NixOs for RPi
 	
 * https://nixos.org/wiki/Raspberry_Pi
+
+***
+
+**Octopi**
+
+    A Raspbian distribution for 3d printers, by guysoft
+
+* https://github.com/guysoft/OctoPi
 
 ***
 
@@ -799,7 +816,7 @@
 
 **UBOS** *beta*
 
-	ArchLinuxARM based, self-hosting owncloud nextcloud wordpress etc
+	ArchLinuxARM based, self-hosting, owncloud, nextcloud, wordpress etc
 
 * http://ubos.net/
 
