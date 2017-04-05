@@ -243,6 +243,13 @@
 	
 * https://volumio.org/project/
 
+***
+
+**Justboom Audio Player** *testing on invite*
+
+    Volumio remix from PiSupply/JustBoom
+
+* https://www.justboom.co/
 
 
 ## Mediacenter
@@ -330,7 +337,7 @@
 **Piplay** formerly PiMAME *beta, last image 2015/03/27*
 
 * http://piplay.org/
-* https://sourceforge.net/projects/pimame/files/?source=navbar
+* https://sourceforge.net/projects/pimame/files
 
 
 
@@ -389,6 +396,15 @@
 
 * https://www.automotivelinux.org/
 * https://download.automotivelinux.org/AGL/snapshots/master/latest/raspberrypi3/deploy/images/raspberrypi3/
+
+***
+
+**Benja OS**
+
+    An HW Accelerated IoT oriented Web Kiosk for Makers, based on Arch Linux ARM
+
+* https://benja.io/
+* https://github.com/WebReflection/benja/
 
 ***
 
