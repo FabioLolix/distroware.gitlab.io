@@ -565,6 +565,15 @@
 
 ***
 
+**ModdleBox**
+
+    Raspbian. A Moodle platform on Raspberry Pi
+
+* https://moodlebox.net/en/dl/
+* https://github.com/martignoni/make-moodlebox#release-notes
+
+***
+
 **MotionEyeOs**
 
 	DVR/security cam os
@@ -957,6 +966,15 @@
 
 **[`^        back to top        ^`](#)**
 
+**Minoca OS**
+
+    Minoca OS is a general purpose operating system written from scratch
+
+* http://www.minocacorp.com/
+* https://github.com/minoca/os
+
+***
+
 **RiscOS**
 
 	from the late 80's an OS for RISC/ARM by Acorn
@@ -1039,9 +1057,9 @@
 
 ***
 
-**RaspEnd 6.0.1 Marshmallow** commercial 9$
+**RaspEnd** commercial 9$
 
-	Android Lollipop compiled by Arne Exton
+	Android compiled by Arne Exton
 
 * http://raspex.exton.se/?cat=28
 
