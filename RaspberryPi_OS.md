@@ -821,9 +821,10 @@
 
 ***
 
-**UBOS** *beta*
+**UBOS** *beta 11*
 
 	ArchLinuxARM based, self-hosting, owncloud, nextcloud, wordpress, etc..
+    Expanded support to amd64, Virtualbox, VMWare, Docker, EC2 cloud, Marvell EspressoBin and Beagle Bone Black
 
 * http://ubos.net/
 
@@ -912,7 +913,7 @@
 
 ***
 
-***OpenBSD** *in development*
+**OpenBSD** *in development*
 
     OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
 
