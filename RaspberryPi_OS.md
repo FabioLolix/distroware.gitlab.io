@@ -27,13 +27,13 @@
 
 ***
 
-###Still waiting for:
-* Official Android (not Android Things, formerly Google Brillo)
+### Still waiting for:
+* Official Android, not Android Things
 * ~~64 bit images for Rpi 3~~
 
 ***
 
-###The official distribution
+### The official distribution
 
 **Raspbian** - The official distribution
 
@@ -52,7 +52,6 @@
 - [BSD](#bsd-os)
 - [Other OS](#other-os)
 - [Mobile OS](#mobile-os)
-- [Dormant](#dormant)
 - [Discontinued](#discontinued)
 - [Sources and inspiration](#sources-and-inspiration)
 
@@ -89,7 +88,7 @@
 
 ***
 
-***OpenBSD** *in development*
+**OpenBSD** *in development*
 
     OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
     Due to the fact that there are many System on a Chips (SoC) around
@@ -123,13 +122,13 @@
 	
 * https://en.opensuse.org/HCL:Raspberry_Pi3
 	
-* Non upstream kernel:
+ * Non upstream kernel:
 
-* http://download.opensuse.org/repositories/devel:/ARM:/Factory:/Contrib:/RaspberryPi3/images/
+  * http://download.opensuse.org/repositories/devel:/ARM:/Factory:/Contrib:/RaspberryPi3/images/
 
-* Upstream kernel:
+ * Upstream kernel:
 
-* http://download.opensuse.org/ports/aarch64/tumbleweed/images/
+  * http://download.opensuse.org/ports/aarch64/tumbleweed/images/
 
 ***
 
@@ -162,17 +161,11 @@
     IQaudio offer several pre-configured SD card images & tools for IQaudIO products
     http://www.iqaudio.com/downloads/
 
-**Archphile** *beta*
-
-	ArchLinuxARM based, ympd webui
-	
-* http://archphile.org/
-
 ***
 
-**AudiculaPi**
+**AudiculaPi** v2016-08-18
 
-	OpenWRT based, MPD client
+	OpenWRT based, MPD client, don't support RPi3
 	
 * https://sourceforge.net/projects/audiculapi/
 
@@ -185,7 +178,7 @@
 
 ***
 
-**Moode Audio Player / MoodeOs** favourite for mpd
+**Moode Audio Player / MoodeOs** commercial 10$
 
 	Raspbian based, MPD client, forked Volumio Webui, frequently update, upnp renderer
 	
@@ -193,7 +186,7 @@
 
 ***
 
-**PiCoreplayer** favourite for squeezelite
+**PiCoreplayer**
 
 	Tiny Core based, Squeezelite player, Logitech Media Server, Touchscreen interface Jivelite
 	
@@ -201,18 +194,21 @@
 
 ***
 
-**PiMusicBox** *0.7 RC out now*
+**PiMusicBox** *0.7 RC5* 2017-07-28
 
-	Raspbian based, Mopidy client. New version in the making
+	Raspbian based, Mopidy client.
+    Base system is old
 	
 * http://www.pimusicbox.com/
 
 ***
 
-**Roon Output Bridge** *beta*
+**Roon Bridge output** *Roon is commercial*
 
+    Raspbian base?
 	Roon pricing: 119 $/year or 499 $ Lifetime, 15 days free trial
 	Pre-configured Raspbian for Roon client software
+    Reccomended ditribution is DietPi now
 
 * https://roonlabs.com/
 * https://www.hifiberry.com/2016/08/new-roon-for-hifiberry-release/
@@ -220,32 +216,42 @@
 
 ***
 
-**Rune Audio** *beta*
+**Roopieee**
+
+    Based on?
+    RoPieee provides a ready-to-go image that runs Roon Bridge and enables your USB port for playing audio over an USB DAC. Without *any* intervention. 
+
+* http://www.ropieee.org/
+
+***
+
+**Rune Audio** *beta* 0.3-beta 2016-03-23 RPi 2/3
 
 	ArchLinuxARM based, MPD client, forked Volumio webui
+    Base system is old
 	
 * http://www.runeaudio.com/about/
 
 ***
 
-**Voyage Linux** *last release 2015/06/30*
+**Signalyst images** *HQPlayer is commercial*
 
-	Voyage is a very stripped-down Debian Linux, Voyage MPD for RPi
-	
-* http://linux.voyage.hk/
-* http://mirror.voyage.hk/download/voyage-mubox/rpi/
+    Raspbian based?
+    Signalyst images with HQPlayer NAA support
+
+* https://www.signalyst.eu/bins/naa/images/
 
 ***
 
-**Volumio** formerly Raspify
+**Volumio** *formerly Raspify* 2.246 2017-07-31
 
-	Raspbian based, MPD client, cool webui, new verion 0.976 out now
+	Raspbian based, MPD client, cool webui. Also as i686 live usb
 	
 * https://volumio.org/project/
 
 ***
 
-**Justboom Audio Player** *testing on invite*
+**Justboom Audio Player** 1.014 2017-05-16
 
     Volumio remix from PiSupply/JustBoom
 
@@ -257,21 +263,21 @@
 **[`^        back to top        ^`](#)**
 
     All mediacenter OS use Kodi except Rasplex which use OpenPHT
-    Also Sabayon on ARM and Manjaro ARM have a media edition with Kodi
+    Sabayon on ARM have a media edition with Kodi
     Recalbox have Kodi preinstalled
     Kodi is installable on DietPi and Max2Play as on most of general OSes
 
-**LibreELEC** *beta* favourite
+**LibreELEC**
 
-	New fork of OpenELEC
+	Fork of OpenELEC, embedded Kodi mediacenter, the fast
 	
 * https://libreelec.tv/
 
 ***
 
-**OpenELEC** favourite
+**OpenELEC**
 
-	Indipendent embedded distro
+	Indipendent embedded Kodi mediacenter, the fast
 	
 * http://openelec.tv/get-openelec
 
@@ -279,7 +285,7 @@
 
 **OSMC** formerly RaspBMC
 
-	Raspbian based
+	Raspbian based, the full featured
 	
 * https://osmc.tv/
 
@@ -297,7 +303,7 @@
 
 **Xbian**
 
-	Raspbian based
+	Raspbian based, the bleeding edge
 	
 * http://www.xbian.org/what-is-xbian/
 
@@ -332,14 +338,6 @@
 * https://retropie.org.uk/
 * https://retropie.org.uk/download/
 
-***
-
-**Piplay** formerly PiMAME *beta, last image 2015/03/27*
-
-* http://piplay.org/
-* https://sourceforge.net/projects/pimame/files
-
-
 
 ## Desktop, Server, Self-hosting, General Purpose
 
@@ -371,21 +369,13 @@
 
 ***
 
-**Arch Linux ARM** favourite
+**Arch Linux ARM**
 
 	Alarm continues the philosophy of Arch Linux into new architectures, not affilated with ArchLinux
 	
 * https://archlinuxarm.org/platforms/armv6/raspberry-pi
 * https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
 * https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
-
-***
-
-**arkOS** *in development*
-
-	Arch Linux ARM based, self-hosting, owncloud
-	
-* https://arkos.io/
 
 ***
 
@@ -408,7 +398,7 @@
 
 ***
 
-####Binary Emotions
+#### Binary Emotions
 
 	Donationware
 
@@ -438,15 +428,7 @@
 
 ***
 
-**Crux** *last kernel image 2015/10/25, RPi 1 only (Linux version 3.6.1)*
-
-	Indipendent lightweight targeted at experienced Linux users
-	
-* https://crux-arm.nu/SupportedDevices/Raspberrypi
-
-***
-
-**Devuan** *beta*
+**Devuan**
 
 	Devuan GNU+Linux is a fork of Debian without systemd
 
@@ -454,11 +436,20 @@
 
 ***
 
-**DietPi** favourite
+**DietPi**
 
 	Raspbian based, server with preconfigured and optimized programs, self-hosting
 	
 * http://dietpi.com/
+
+***
+
+**Fatdogarm** beta5 2016-12-07
+
+    FatdogArm is a port of Fatdog64 to the ARM platform. Currently in Beta release, it is based on Fatdog64 and thus shares much of Fatdog64 features.
+    Like Fatdog64, FatdogArm is intended for desktop-style operations but on the lower-cost ARM-based systems.
+
+* http://distro.ibiblio.org/fatdog/web/arm-index.html
 
 ***
 
@@ -467,14 +458,6 @@
 	FedBerry is a Fedora Remix specifically built for use with Raspberry Pi 2/3 Model B computers.
 	
 * http://fedberry.org/
-
-***
-
-**Finnix** *Technology preview*
-
-	ARM support is not officialy supported (sic)
-	
-* http://www.finnix.org/ARM
 
 ***
 
@@ -494,6 +477,14 @@
 
 ***
 
+**Funtoo**
+
+    Funtoo Linux is a Gentoo-based distribution developed by Daniel Robbins
+
+* http://www.funtoo.org/Subarches
+
+***
+
 **Gentoo**
 
 	Check instructions. Cross compilation is an option
@@ -508,6 +499,17 @@
 	Minimal debian based os optimezed for Docker
 	
 * http://blog.hypriot.com/downloads/
+
+***
+
+**info-beamer** *commercial*
+
+    Open Source Digital Signage Tool for Linux
+    Free for personal use only
+
+* https://info-beamer.com/
+* https://info-beamer.com/download/player
+* https://github.com/dividuum/info-beamer
 
 ***
 
@@ -546,16 +548,6 @@
 
 ***
 
-**Manjaro ARM**
-
-    Manjaro ARM comes in minimal, base, server and media editions
-    Like main system there are community editions: Mate, LXQT and KDE
-
-* http://manjaro-arm.org/
-* http://manjaro-arm.org/downloads.php
-
-***
-
 **Minibian**
 
 	Minimal Raspbian
@@ -582,11 +574,20 @@
 
 ***
 
-**Moebius** *last image 2015/03/06*
+**Moebius** 3.0.0 beta1 2017-01-30
 
 	Minimal Linux
 	
 * http://moebiuslinux.sourceforge.net/
+
+***
+
+**NextBerry**
+
+    Ubuntu Server 16.04.x with Nextcloud preconfigured, for RPi2 only (for now)
+
+* https://github.com/techandme/NextBerry
+* https://www.techandme.se/
 
 ***
 
@@ -603,12 +604,6 @@
     A Raspbian distribution for 3d printers, by guysoft
 
 * https://github.com/guysoft/OctoPi
-
-***
-
-**OpenMandriva** *last image 2015/03/04*
-
-* https://sourceforge.net/projects/openmandriva/files/Raspberry_Pi2/
 
 ***
 
@@ -644,21 +639,6 @@
 	Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography.
 	
 * https://www.parrotsec.org/download.fx
-
-***
-
-**Pearl Linux Mate RPi2** *last image 2015/10/29**
-
-	Raspbian based
-* https://sourceforge.net/projects/pearl-linux-mate-raspberry-pi2/
-
-***
-
-**PearlPi LXDE+KODI RPi2** *last image 2015/08/19*
-
-	Raspbian based
-	
-* https://sourceforge.net/projects/pearlpi-lxde-kodi/
 
 ***
 
@@ -708,6 +688,16 @@
 	Access point made easy
 
 * https://www.pi-point.co.uk/
+
+
+***
+
+**Pi-topOS Polaris**
+
+    Raspbian for the pi-top computer
+
+* https://pi-top.com/
+* https://assets.pi-top.com/pi-topOS/2017-02-23-pi-topOS.zip
 
 ***
 
@@ -809,17 +799,9 @@
 
 **Slackware ARM**
 
-	Slackware on ARM for rpi
+	Slackware on ARM for RPi
 
-* http://rpi.fatdog.eu/
-
-***
-
-**SolidX**
-
-	Debian based with XFCE, for RPi 2 and RPi 3
-
-* https://solydxk.com/downloads/solydx-rpi/
+* http://sarpi.fatdog.eu/index.php
 
 ***
 
@@ -841,13 +823,13 @@
 
 **UBOS** *beta*
 
-	ArchLinuxARM based, self-hosting, owncloud, nextcloud, wordpress etc
+	ArchLinuxARM based, self-hosting, owncloud, nextcloud, wordpress, etc..
 
 * http://ubos.net/
 
 ***
 
-**Ubuntu Mate Rpi2 Rpi3** favourite
+**Ubuntu Mate Rpi2 Rpi3**
 
 	Mate desktop, based on the regular Ubuntu armhf
 
@@ -892,7 +874,7 @@
 
 * https://yunohost.org/#/install_on_raspberry
 
-####Linux Repository only
+#### Linux Repository only
 
 **Archstrike**
 
@@ -941,16 +923,18 @@
 
 **RaspBSD**
 
-	Preconfigured FreeBSD 12 images
+	RaspBSD is a image of FreeBSD 11 that is preconfigured in two different images for Raspberry Pi Computers and more.
 	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
 
 * http://raspbsd.org/raspberrypi.html
 
 ***
 
-**NAS4Free** *stable for RPi A/B/A+/B+ / experimental for RPi 2*
+**NAS4Free** *beta*
 
-	NAS4Free for ARM platform, This is test build for ARM platform based on FreeBSD 11-CURRENT
+	NAS4Free for ARM platform, this is test build for ARM platform based on FreeBSD 11-STABLE
+    The image of 11.x will be released for RPi2 and 3 only.
+    10.x is last version for RPi1. 
 
 * https://sourceforge.net/projects/nas4free/files/NAS4Free-ARM/
 
@@ -966,14 +950,6 @@
 
 **[`^        back to top        ^`](#)**
 
-**Minoca OS**
-
-    Minoca OS is a general purpose operating system written from scratch
-
-* http://www.minocacorp.com/
-* https://github.com/minoca/os
-
-***
 
 **RiscOS**
 
@@ -991,9 +967,18 @@
 
 ***
 
-**AROS research/experimental os**
+**Minoca OS**
 
-	Research operating system, images not in the wild?
+    Minoca OS is a general purpose operating system written from scratch
+
+* http://www.minocacorp.com/
+* https://github.com/minoca/os
+
+***
+
+**AROS** *research/experimental*
+
+	Research operating system, genereic armhf image, no install guide
 	
 * http://aros.sourceforge.net/nightly.php
 
@@ -1007,16 +992,17 @@
 
 ***
 
-**Plan9** *research/experimental os*
+**Plan9** *research/experimental*
 
 	Experimental operative system
 
 * http://elinux.org/Plan_9_on_Raspberry_Pi
-* http://plan9.bell-labs.com/sources/contrib/miller/9pi.img.gz
+* https://9p.io/plan9/
+* https://proness.kix.in/plan9/mirror/9pi.img.gz
 
 ***
 
-**Inferno** *research/experimental os*
+**Inferno-rpi** *research/experimental* 0.6 2016-02-08
 
 	Fork of Plan9
 
@@ -1026,11 +1012,21 @@
 
 ***
 
-**9front** *research/experimental os*
+**9front** *research/experimental*
 
-	Fork of Plan9, image not in the wild?
+	Fork of Plan9, to cross compile
 
 * http://fqa.9front.org/fqa8.html#8.9.2
+
+***
+
+**Helen OS** *research/experimental*
+
+    HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch.
+    The system boots to the kernel console. Use the USB-TTL cable and the pinout depicted on the picture to get the console going.
+    For full user experience, a userspace serial driver is needed, in addition to a mechanism for passing boot arguments to HelenOS.
+
+* http://www.helenos.org/wiki/RaspberryPi
 
 
 
@@ -1038,62 +1034,59 @@
 
 **[`^        back to top        ^`](#)**
 
-**Unofficial Android Rpi3**
+**emteria.OS** *commercial*
 
-	Unofficial Android brought by Peter Yoon (code) and Sahaj Sarup (compiling)
+    Superseed RTAndroid, Android for industrial, embedded applications etc.
+    Free evaluation image upon registration, reboot every 48h
+
+* https://emteria.com/
+
+***
+
+**LuneOS** *in development*
+
+    LuneOS is a mobile operating system based on the Linux kernel and currently developed by WebOS Ports community
+    
+* http://webos-ports.org/wiki/RaspberryPi2_Info
+* http://webos-ports.org/wiki/RaspberryPi3_Info
+* http://build.webos-ports.org/releases/chailatte/images/raspberrypi2/
+* http://build.webos-ports.org/releases/chailatte/images/raspberrypi3/
+
+***
+
+**Unofficial Android Rpi3** *in development*
+
+	Unofficial Android brought by Peter Yoon and Sahaj Sarup
 	
-* https://github.com/Android-RPi3/android_releases_rpi3/releases
 * https://github.com/peyo-hd/device_brcm_rpi3
 * http://geektillithertz.com/wordpress/
 
 ***
 
-**RealTime Android N Rpi3**
+**Unofficial LineageOS**
 
+    It is unofficial and unsupported by the LineageOS team. It’s for advanced users only.
+    LineageOS 14.1 (Android 7.1.2) for Raspberry Pi 3
+
+* http://konstakang.com/devices/rpi3/CM14.1/
+* https://www.androidfilehost.com/?fid=961840155545587867
+
+***
+
+**RTAndroid** *Android N RPi3*
+
+    Superseeded by 
 	RTAndroid platform makes real-time Android possible. It provides support for applications with real-time requirements while keeping all benefits of Android
 
-* https://git.embedded.rwth-aachen.de/rtandroid/
-* https://git.embedded.rwth-aachen.de/rtandroid/downloads/raspberry-pi/
+* https://rtandroid.embedded.rwth-aachen.de/downloads/raspberry-pi/
 
 ***
 
 **RaspEnd** commercial 9$
 
-	Android compiled by Arne Exton
+	Android compiled by Arne Exton from github.com/peyo-hd/device_brcm_rpi3 code
 
 * http://raspex.exton.se/?cat=28
-
-***
-
-**Tizen** *last image 2015/08/18*
-
-	Useless, it boot, you can move the mouse but apps don't start (calc, terminal)
-
-* https://blogs.s-osg.org/tizen-on-rpi2/
-* https://files.s-osg.org/tizen-on-rpi2/
-
-***
-
-**Sailfish Os** *last image 2015/11/11*
-
-	Useless, it boot but freeze after 1 minute circa
-	** Rpi 3 devel image not tested 11-Mar-2016
-
-* https://sailpi.wordpress.com/
-* http://images.devaamo.fi/sfa/raspberrypi/
-
-
-
-## Dormant
-
-**[`^        back to top        ^`](#)**
-
-GeexBox snapshots are active, last stable 2013/11/03
-
-    Indipendent, stable iso/img are old, snapshots are active
-
-* http://www.geexbox.org/download/
-* http://download.geexbox.org/snapshots/
 
 
 
@@ -1101,11 +1094,76 @@ GeexBox snapshots are active, last stable 2013/11/03
 
 **[`^        back to top        ^`](#)**
 
-Chromium for SBC
+***
+
+SolidX +2017-07-16
+Debian based with XFCE, for RPi 2 and RPi 3
+* https://solydxk.com/downloads/solydx-rpi/
+
+Archphile +2017-04-28
+ArchLinuxARM based, ympd webui
+* http://archphile.org/
+
+arkOS +2017-04-22
+Arch Linux ARM based, self-hosting, owncloud
+* https://arkos.io/
+
+Manjaro ARM +2017-02
+Manjaro ARM comes in minimal, base, server and media editions
+
+Chromium for SBC +2016-09-5
 Chromium OS for raspberry
 * http://www.chromiumosforsbc.org/
 * https://sourceforge.net/projects/chromnium-os-for-all-sbc/
-* http://news.softpedia.com/news/vintos-promises-to-be-the-chromium-os-fork-you-ve-always-wanted-and-needed-507976.shtml
+
+Sailfish Os *last image 2015/11/11*
+** Rpi 3 devel image not tested 11-Mar-2016
+* https://sailpi.wordpress.com/
+* http://images.devaamo.fi/sfa/raspberrypi/
+
+Pearl Linux Mate RPi2 *last image 2015/10/29*
+Raspbian based
+* https://sourceforge.net/projects/pearl-linux-mate-raspberry-pi2/
+
+Crux *last kernel image 2015/10/25, RPi 1 only (Linux version 3.6.1)*
+Indipendent lightweight targeted at experienced Linux users
+* https://crux-arm.nu/SupportedDevices/Raspberrypi
+
+PearlPi LXDE+KODI RPi2 *last image 2015/08/19*
+Raspbian based	
+* https://sourceforge.net/projects/pearlpi-lxde-kodi/
+
+Tizen *last image 2015/08/18*
+Useless, it boot, you can move the mouse but apps don't start (calc, terminal)
+* https://blogs.s-osg.org/tizen-on-rpi2/
+* https://files.s-osg.org/tizen-on-rpi2/
+
+Voyage Linux *last release 2015/06/30*
+Voyage is a very stripped-down Debian Linux, Voyage MPD for RPi
+* http://linux.voyage.hk/
+* http://mirror.voyage.hk/download/voyage-mubox/rpi/
+
+Finnix *Technology preview* 111 2015-06-03
+Finnix for armhf does not officially support the Raspberry Pi 2, though it has been confirmed as working with it,
+when combined with a third-party >= 3.18 kernel with Raspberry Pi 2 support.
+The original Raspberry Pi uses an ARMv6 CPU, and is not and will never be compatible with Finnix.
+* http://www.finnix.org/ARM
+
+Piplay formerly PiMAME *beta, last image 2015/03/27*
+* http://piplay.org/
+* https://sourceforge.net/projects/pimame/files
+
+OpenMandriva *last image 2015/03/04*
+* https://sourceforge.net/projects/openmandriva/files/Raspberry_Pi2/
+
+Slrpi
+Minimal Slackware, last image 2015-01-01
+* https://sourceforge.net/projects/slrpi/
+
+GeexBox
+Indipendent Kodi media center
+* http://www.geexbox.org/download/
+* http://download.geexbox.org/snapshots/
 
 Adafruit Occidentalis
 * https://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-3
@@ -1163,10 +1221,6 @@ SlaXBMC
 
 Slitaz last image 2014/03/15
 * http://arm.slitaz.org/rpi/
-
-Slrpi
-Minimal Slackware, last image 2015-01-01
-* https://sourceforge.net/projects/slrpi/
 
 Torberry
 * https://code.google.com/archive/p/torberry/downloads

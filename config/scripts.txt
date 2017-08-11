@@ -11,7 +11,7 @@ done
 
 
 ## Mass creating ISO DVD from subfolders, using subfolder name
-## Need: cdrkit
+## Need: cdrkit on Manjaro
 
 #!/bin/bash
 cd -P .
@@ -21,3 +21,16 @@ do cd -P "$dir" ||continue
    genisoimage -dvd-video -udf -o /media/fastraid/DVD_ISO/$(pwd|awk -F'/' '{print $NF}').iso  $(pwd) && cd "$OLDPWD" || 
 ! break; done || ! cd - >&2
 
+
+***
+
+
+# Rip CDs as raw bin + toc + cue
+
+#!/bin/bash          
+ALBUM="name"
+
+cdrdao read-cd --read-raw --datafile $ALBUM.bin $ALBUM.toc && toc2cue $ALBUM.toc $ALBUM.cue && eject /dev/sr0
+
+
+***

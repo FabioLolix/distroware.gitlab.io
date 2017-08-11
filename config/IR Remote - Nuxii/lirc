@@ -14,7 +14,8 @@ In Debian
 
 Add the following to /boot/config.txt:
 
-dtoverlay=lirc-rpilirc-rpi,gpio_in_pin=18
+dtoverlay=lirc-rpi
+dtparam=gpio_in_pin=25
 
 copy nuxii's lircd.conf in:
 

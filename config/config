@@ -1,0 +1,21 @@
+* /etc/default/grub
+    GRUB_CMDLINE_LINUX_DEFAULT="net.ifnames=0 quiet"
+
+* /etc/fstab
+    tmpfs /tmp tmpfs defaults,noatime,mode=1770,size=12G 0 0
+    LABEL=Green2TB /mnt/Green2TB btrfs nosuid,nodev,nofail,noexec,x-gvfs-show 0 0
+
+* /etc/makepkg.conf
+    MAKEFLAGS="-j$(nproc)"
+    PKGDEST=/mnt/Green2TB/PKG
+    PACKAGER="Fabio 'Lolix' <loli_fabio@protonmail.com>"
+
+* /etc/X11/xorg.conf.d/50-joystick.conf
+    Section "InputClass"
+        Identifier "joystick catchall"
+        MatchIsJoystick "on"
+        MatchDevicePath "/dev/input/event*"
+        Driver "joystick"
+        Option "StartKeysEnabled" "False"
+        Option "StartMouseEnabled" "False"
+    EndSection

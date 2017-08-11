@@ -1,7 +1,0 @@
-Ripristinare i "vecchi" nomi delle periferiche di rete (eth0, wlan0, ecc), in particolare per conky/conky manager
-
-in /etc/defailt/grub
-
-aggiungere dopo GRUB_CMDLINE_LINUX=""
-
-GRUB_CMDLINE_LINUX_DEFAULT="net.ifnames=0 quiet"

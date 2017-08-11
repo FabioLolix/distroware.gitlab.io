@@ -1,0 +1,39 @@
+OUTPUT SMILIES
+	 :-)  Normal operation, low/no jitter
+
+	 :-|  Normal operation, considerable jitter
+
+	 :-/  Read drift
+
+	 :-P  Unreported loss of streaming in atomic read operation
+
+	 8-|  Finding read problems at same point during reread; hard to  cor-
+	      rect
+
+	 :-0  SCSI/ATAPI transport error
+
+	 :-(  Scratch detected
+
+	 ;-(  Gave up trying to perform a correction
+
+	 8-X  Aborted read due to known, uncorrectable error
+
+	 :^D  Finished extracting
+
+
+PROGRESS BAR SYMBOLS
+       
+	      No corrections needed
+
+	  -   Jitter correction required
+
+	  +   Unreported loss of streaming/other error in read
+
+	  !   Errors  found  after stage 1 correction; the drive is making the
+	      same error through multiple re-reads, and cdparanoia  is	having
+	      trouble detecting them.
+
+	  e   SCSI/ATAPI transport error (corrected)
+
+	  V   Uncorrected error/skip
+
