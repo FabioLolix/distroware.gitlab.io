@@ -78,29 +78,6 @@
  * **SUSE SLES** 64 bit only
 
 
-***
-
-**RaspBSD**
-
-	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
-
-* http://www.raspbsd.org/raspberrypi.html
-* http://download.raspbsd.org/FreeBSD-aarch64-12.0-GENERIC-UP-308109M.img.gz
-
-***
-
-**SUSE SLES** registration required
-
-	Suse Linux Enterprise Server, 12 Service Pack 2, but please note that SUSE doesn't offer commercial support for it.
-	Uses Btrfs for the root file system and IceWM (ICE Window Manager) is used as default desktop environment.
-	Also GCC 6 is integrated and recommended for compiling programs from sources.
-	(Lolix note, Upstream or downstream kernel?)
-	
-* http://tinyurl.com/slespi
-* https://www.suse.com/communities/blog/suse-linux-enterprise-server-raspberry-pi/
-* http://news.softpedia.com/news/suse-linux-enterprise-server-out-for-raspberry-pi-3-supports-bluetooth-wi-fi-510070.shtml
-
-
 
 ## Audio, Music
 
@@ -1055,7 +1032,7 @@
 
 ***
 
-**Unofficial LineageOS**
+**Unofficial LineageOS** *in development*
 
     It is unofficial and unsupported by the LineageOS team. It’s for advanced users only.
     LineageOS 14.1 (Android 7.1.2) for Raspberry Pi 3
