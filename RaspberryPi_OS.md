@@ -20,7 +20,7 @@
 **OpenSuse Tumbleweed** *Support 67 boards/devices! (including RPis)*
 
 	Official Opensuse Tumbleweed for ARM boards, rolling release
-	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop 
+	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktops
 	
 * https://en.opensuse.org/openSUSE:OpenSUSE_on_your_ARM_board
 * https://en.opensuse.org/openSUSE:Supported_ARM_boards
@@ -48,7 +48,7 @@
 - [Audio / Music](#audio-music)
 - [Mediacenter](#mediacenter)
 - [Gaming / Emulators](#gaming-emulators)
-- [Desktop/Server/Self-hosting/General Purpose](#desktop-server-self-hosting-general-purpose)
+- [Desktop/Server/Self-hosting/General Purpose/Embedded](#desktop-server-self-hosting-general-purpose-embedded)
 - [BSD](#bsd-os)
 - [Other OS](#other-os)
 - [Mobile OS](#mobile-os)
@@ -61,74 +61,22 @@
 
 **[`^        back to top        ^`](#)**
 
-**Arch Linux ARM**
+ * **Arch Linux ARM**
 
-    This provides an installation using the mainline kernel and U-Boot.
-    There is no support for the vendor-provided libraries, extensions, or related software.
-    Some of the hardware on the board may not work, or it may perform poorly.
+ * **Devuan**
 
-* https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
-* http://os.archlinuxarm.org/os/ArchLinuxARM-rpi-3-latest.tar.gz
+ * **HardnedBSD** 64 bit only
 
-***
+ * **OpenBSD** 64 bit only
 
-**Devuan** *beta*
+ * **OpenSUSE Leap**
 
-	Devuan GNU+Linux is a fork of Debian without systemd
+ * **OpenSUSE Tumbleweed**
 
-* https://files.devuan.org/devuan_jessie_beta/embedded/devuan_jessie_1.0.0-beta2_arm64_raspi3.img.xz
+ * **RaspBSD** 64 bit only
 
-***
+ * **SUSE SLES** 64 bit only
 
-**HardnedBSD** *in development*
-
-    HardenedBSD is a security-enhanced fork of FreeBSD
-
-* https://hardenedbsd.org/~shawn/rpi3/
-
-***
-
-**OpenBSD** *in development*
-
-    OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
-    Due to the fact that there are many System on a Chips (SoC) around
-    OpenBSD/arm64 differentiates between various SoCs and may have a different level of support between them
-    The current target platforms are the Pine64 and the Raspberry Pi 3
-
-* https://www.openbsd.org/arm64.html
-* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64
-* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64/INSTALL.arm64
-
-***
-
-**OpenSUSE Leap**
-
-	Official Opensuse Leap , stable release
-	Upstream non Raspberry Pi foundation kernel
-	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop
-	
-* https://en.opensuse.org/HCL:Raspberry_Pi3
-
-* http://download.opensuse.org/ports/aarch64/distribution/leap/42.2/appliances/
-
-* https://news.opensuse.org/2016/12/05/opensuse-leap-42-2-gets-64-bit-raspberry-image/
-
-***
-
-**OpenSUSE Tumbleweed**
-
-	Official Opensuse Tumbleweed , rolling release
-	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktop
-	
-* https://en.opensuse.org/HCL:Raspberry_Pi3
-	
- * Non upstream kernel:
-
-  * http://download.opensuse.org/repositories/devel:/ARM:/Factory:/Contrib:/RaspberryPi3/images/
-
- * Upstream kernel:
-
-  * http://download.opensuse.org/ports/aarch64/tumbleweed/images/
 
 ***
 
@@ -313,7 +261,7 @@
 
 **[`^        back to top        ^`](#)**
 
-**Lakka** *in development*
+**Lakka** 2.0
 
 	OpenElec based, official Retroarch distro for gaming, libretro cool XMB ui
 
@@ -323,7 +271,7 @@
 ***
 
 
-**Recalbox**
+**Recalbox** 4.0.1
 
 	EmulatioStation, Libretro, Kodi, Mame
 	
@@ -331,7 +279,7 @@
 
 ***
 
-**RetroPie**
+**RetroPie** 4.2
 
 	Raspbian, EmulationStation, Libretro
 	
@@ -339,7 +287,7 @@
 * https://retropie.org.uk/download/
 
 
-## Desktop, Server, Self-hosting, General Purpose
+## Desktop, server, self-hosting, general purpose, embedded
 
 **[`^        back to top        ^`](#)**
 
@@ -372,6 +320,10 @@
 **Arch Linux ARM**
 
 	Alarm continues the philosophy of Arch Linux into new architectures, not affilated with ArchLinux
+
+    Armv8 info: provides an installation using the mainline kernel and U-Boot.
+    There is no support for the vendor-provided libraries, extensions, or related software.
+    Some of the hardware on the board may not work, or it may perform poorly.
 	
 * https://archlinuxarm.org/platforms/armv6/raspberry-pi
 * https://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
@@ -431,8 +383,9 @@
 **Devuan**
 
 	Devuan GNU+Linux is a fork of Debian without systemd
+    Support RPi (armel), RPi2/3 (armhf) and RPi3 (arm64) and several other device
 
-* https://files.devuan.org/devuan_jessie_beta/embedded/
+* https://files.devuan.org/devuan_jessie/embedded/
 
 ***
 
@@ -616,13 +569,33 @@
 
 ***
 
+
+**OpenSUSE Leap**
+
+	Official Opensuse Leap , stable release
+	Upstream non Raspberry Pi foundation kernel
+	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktops
+	
+* https://en.opensuse.org/HCL:Raspberry_Pi3
+* http://download.opensuse.org/ports/aarch64/distribution/leap/42.2/appliances/
+* https://news.opensuse.org/2016/12/05/opensuse-leap-42-2-gets-64-bit-raspberry-image/
+
+***
+
 **OpenSUSE Tumbleweed**
 
 	Official Opensuse for ARM boards, Tumbleweed rolling branch
+	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktops
 	
 * https://en.opensuse.org/HCL:Raspberry_Pi
 * https://en.opensuse.org/HCL:Raspberry_Pi2
 * https://en.opensuse.org/HCL:Raspberry_Pi3
+	
+ * Non upstream kernel:
+  * http://download.opensuse.org/repositories/devel:/ARM:/Factory:/Contrib:/RaspberryPi3/images/
+
+ * Upstream kernel:
+  * http://download.opensuse.org/ports/aarch64/tumbleweed/images
 
 ***
 
@@ -813,6 +786,19 @@
 
 ***
 
+**SUSE SLES** registration required
+
+	Suse Linux Enterprise Server, 12 Service Pack 2, but please note that SUSE doesn't offer commercial support for it.
+	Uses Btrfs for the root file system and IceWM (ICE Window Manager) is used as default desktop environment.
+	Also GCC 6 is integrated and recommended for compiling programs from sources.
+	(Lolix note, upstream or downstream kernel?)
+	
+* http://tinyurl.com/slespi
+* https://www.suse.com/communities/blog/suse-linux-enterprise-server-raspberry-pi/
+* http://news.softpedia.com/news/suse-linux-enterprise-server-out-for-raspberry-pi-3-supports-bluetooth-wi-fi-510070.shtml
+
+***
+
 **Tiny Core Linux**
 
 	Very small indipendent Linux system
@@ -905,7 +891,7 @@
 
 ***
 
-**HardnedBSD** *in development*
+**HardnedBSD**
 
     HardenedBSD is a security-enhanced fork of FreeBSD
 
@@ -913,12 +899,16 @@
 
 ***
 
-**OpenBSD** *in development*
+**OpenBSD**
 
     OpenBSD/arm64 bundles various platforms sharing the 64-bit ARM architecture
+    Due to the fact that there are many System on a Chips (SoC) around
+    OpenBSD/arm64 differentiates between various SoCs and may have a different level of support between them
+    The current target platforms are Firefly-RK3399, Pine64, Raspberry Pi 3 and Opteron A1100.
 
 * https://www.openbsd.org/arm64.html
 * https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64
+* https://ftp.openbsd.org/pub/OpenBSD/snapshots/arm64/INSTALL.arm64
 
 ***
 
@@ -928,6 +918,7 @@
 	Currently there are no packages for the 12 (HEAD) branch on arm64, so you will have to use the packages for 11.x (STABLE).
 
 * http://raspbsd.org/raspberrypi.html
+* http://download.raspbsd.org/FreeBSD-aarch64-12.0-GENERIC-UP-308109M.img.gz
 
 ***
 
@@ -1098,53 +1089,65 @@
 ***
 
 SolidX +2017-07-16
+
 Debian based with XFCE, for RPi 2 and RPi 3
 * https://solydxk.com/downloads/solydx-rpi/
 
 Archphile +2017-04-28
+
 ArchLinuxARM based, ympd webui
 * http://archphile.org/
 
 arkOS +2017-04-22
+
 Arch Linux ARM based, self-hosting, owncloud
 * https://arkos.io/
 
 Manjaro ARM +2017-02
+
 Manjaro ARM comes in minimal, base, server and media editions
 
 Chromium for SBC +2016-09-5
+
 Chromium OS for raspberry
 * http://www.chromiumosforsbc.org/
 * https://sourceforge.net/projects/chromnium-os-for-all-sbc/
 
 Sailfish Os *last image 2015/11/11*
-** Rpi 3 devel image not tested 11-Mar-2016
+
+RPi 3 devel image not tested 11-Mar-2016
 * https://sailpi.wordpress.com/
 * http://images.devaamo.fi/sfa/raspberrypi/
 
 Pearl Linux Mate RPi2 *last image 2015/10/29*
+
 Raspbian based
 * https://sourceforge.net/projects/pearl-linux-mate-raspberry-pi2/
 
 Crux *last kernel image 2015/10/25, RPi 1 only (Linux version 3.6.1)*
+
 Indipendent lightweight targeted at experienced Linux users
 * https://crux-arm.nu/SupportedDevices/Raspberrypi
 
 PearlPi LXDE+KODI RPi2 *last image 2015/08/19*
+
 Raspbian based	
 * https://sourceforge.net/projects/pearlpi-lxde-kodi/
 
 Tizen *last image 2015/08/18*
+
 Useless, it boot, you can move the mouse but apps don't start (calc, terminal)
 * https://blogs.s-osg.org/tizen-on-rpi2/
 * https://files.s-osg.org/tizen-on-rpi2/
 
 Voyage Linux *last release 2015/06/30*
+
 Voyage is a very stripped-down Debian Linux, Voyage MPD for RPi
 * http://linux.voyage.hk/
 * http://mirror.voyage.hk/download/voyage-mubox/rpi/
 
 Finnix *Technology preview* 111 2015-06-03
+
 Finnix for armhf does not officially support the Raspberry Pi 2, though it has been confirmed as working with it,
 when combined with a third-party >= 3.18 kernel with Raspberry Pi 2 support.
 The original Raspberry Pi uses an ARMv6 CPU, and is not and will never be compatible with Finnix.
@@ -1158,10 +1161,12 @@ OpenMandriva *last image 2015/03/04*
 * https://sourceforge.net/projects/openmandriva/files/Raspberry_Pi2/
 
 Slrpi
+
 Minimal Slackware, last image 2015-01-01
 * https://sourceforge.net/projects/slrpi/
 
 GeexBox
+
 Indipendent Kodi media center
 * http://www.geexbox.org/download/
 * http://download.geexbox.org/snapshots/
@@ -1196,6 +1201,7 @@ Minepeon
 * https://minepeon.com/
 
 Nos
+
 Ubuntu KDE
 * http://nos.net.nz/
 
@@ -1204,6 +1210,7 @@ Crunchbang for Rpi
 * https://sourceforge.net/projects/pibang/
 
 Pidora
+
 Fedora Remix, last image in 2014
 * http://pidora.ca/
 
@@ -1211,6 +1218,7 @@ PwnPi
 * http://pwnpi.sourceforge.net/index.html
 
 Raspicade
+
 The developer as joined Recalbox
 * https://sourceforge.net/projects/raspicade/
 
