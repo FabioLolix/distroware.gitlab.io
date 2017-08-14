@@ -202,7 +202,7 @@
 
 **OpenELEC**
 
-	Indipendent embedded Kodi mediacenter, the fast
+	Independent embedded Kodi mediacenter, the fast
 	
 * http://openelec.tv/get-openelec
 
@@ -270,7 +270,7 @@
 
 **Alpine**
 
-	Indipendent embedded Linux system
+	Independent embedded Linux system
 	
 * https://alpinelinux.org/downloads/
 
@@ -287,7 +287,7 @@
 
 **Angstrom**
 
-	Indipendent embedded Linux system, Yocto 1.7 compatible
+	Independent embedded Linux system, Yocto 1.7 compatible
 	
 * http://wp.angstrom-distribution.org/introduction/
 * http://dominion.thruhere.net/angstrom/nightlies/
@@ -523,7 +523,7 @@
 
 **NixOs**
 
-	Indipendent. NixOs for RPi
+	Independent. NixOs for RPi
 	
 * https://nixos.org/wiki/Raspberry_Pi
 
@@ -578,7 +578,7 @@
 
 **OpenWRT**
 
-	Indipendent embedded Linux system
+	Independent embedded Linux system
 	
 * https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
 
@@ -653,7 +653,7 @@
 
 **PLOP**
 
-	Indipendent. Plop Linux is a distribution built from scratch. It's designed for advanced Linux users
+	Independent. Plop Linux is a distribution built from scratch. It's designed for advanced Linux users
 
 * https://www.plop.at/en/ploplinux/arm/raspberry-pi.html
 
@@ -683,7 +683,7 @@
 
 **RancherOS**
 
-	Indipendent, RancherOS is a tiny Linux distro that runs the entire OS as Docker containers
+	Independent, RancherOS is a tiny Linux distro that runs the entire OS as Docker containers
 
 * http://rancher.com/rancher-os/
 
@@ -778,7 +778,7 @@
 
 **Tiny Core Linux**
 
-	Very small indipendent Linux system
+	Very small independent Linux system
 
 * http://tinycorelinux.net/7.x/armv6/releases/RPi/
 
@@ -819,7 +819,7 @@
 
 **Void Linux**
 
-	Indipendent Linux system
+	Independent Linux system
 
 * http://www.voidlinux.eu/download/
 
@@ -1103,7 +1103,7 @@ Raspbian based
 
 Crux *last kernel image 2015/10/25, RPi 1 only (Linux version 3.6.1)*
 
-Indipendent lightweight targeted at experienced Linux users
+Independent lightweight targeted at experienced Linux users
 * https://crux-arm.nu/SupportedDevices/Raspberrypi
 
 PearlPi LXDE+KODI RPi2 *last image 2015/08/19*
@@ -1144,7 +1144,7 @@ Minimal Slackware, last image 2015-01-01
 
 GeexBox
 
-Indipendent Kodi media center
+Independent Kodi media center
 * http://www.geexbox.org/download/
 * http://download.geexbox.org/snapshots/
 
