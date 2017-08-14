@@ -238,35 +238,56 @@
 
 **[`^        back to top        ^`](#)**
 
-**Lakka** 2.0
+**Batocera** 5.8 2017-06
 
-	OpenElec based, official Retroarch distro for gaming, libretro cool XMB ui
+    Based on Recalbox, support also Oddroid XU4/C2, x86 and x86_64 computers
+
+* https://batocera-linux.xorhub.com/
+* https://github.com/nadenislamarre/batocera.linux
+
+***
+
+**Lakka** 2.0 2017-06-1 - 2.1-rc4 2017-08-12
+
+	Based on LibreElec based, official Retroarch distro for gaming with XMB user interface
 
 * http://www.lakka.tv/
 * http://www.lakka.tv/get/
+* https://github.com/libretro/Lakka-LibreELEC
 
 ***
 
+**Recalbox** 4.0.1 2016-02-18
 
-**Recalbox** 4.0.1
-
-	EmulatioStation, Libretro, Kodi, Mame
+	Raspbian. EmulatioStation, Libretro, Kodi, Mame
 	
 * http://www.recalbox.com/
+* https://github.com/recalbox
 
 ***
 
-**RetroPie** 4.2
+**RetroPie** 4.2 2017-03-2
 
 	Raspbian, EmulationStation, Libretro
 	
 * https://retropie.org.uk/
 * https://retropie.org.uk/download/
+* https://github.com/RetroPie
 
 
 ## Desktop, server, self-hosting, general purpose, embedded
 
 **[`^        back to top        ^`](#)**
+
+**AIYprojects**
+
+    Raspbian. Google Voice Kits
+
+* https://aiyprojects.withgoogle.com/
+* https://github.com/google/aiyprojects-raspbian
+* https://dl.google.com/dl/aiyprojects/voice/aiyprojects-latest.img.xz
+
+***
 
 **Alpine**
 
@@ -276,7 +297,7 @@
 
 ***
 
-**Android Things** *preview*
+**Android Things** *preview 5*
 
     Build connected devices for a wide variety of consumer, retail, and industrial applications. IoT
 
@@ -289,7 +310,7 @@
 
 	Independent embedded Linux system, Yocto 1.7 compatible
 	
-* http://wp.angstrom-distribution.org/introduction/
+* http://wp.angstrom-distribution.org/
 * http://dominion.thruhere.net/angstrom/nightlies/
 
 ***
@@ -357,6 +378,28 @@
 
 ***
 
+**C-STEMbian**
+
+    Raspbian, comes with C-STEM software including Ch Professional, C-STEM Studio, and Linkbot Labs preinstalled
+    Ch Professional Edition for Raspberry Pi is free for non-commercial use
+
+* http://c-stem.ucdavis.edu/c-stembian/
+* http://c-stembian.org/downloads/image_2017-08-03-c-stembian.zip
+
+
+***
+
+**Debian**
+
+    Can I put Debian on my Raspberry Pi? Yes
+    (Lolix note: I guess mainline Debian kernel so it miss several things)
+
+* https://wiki.debian.org/RaspberryPi
+* https://wiki.debian.org/RaspberryPi2
+* https://wiki.debian.org/RaspberryPi3
+
+***
+
 **Devuan**
 
 	Devuan GNU+Linux is a fork of Debian without systemd
@@ -371,6 +414,7 @@
 	Raspbian based, server with preconfigured and optimized programs, self-hosting
 	
 * http://dietpi.com/
+* https://github.com/Fourdee/DietPi
 
 ***
 
@@ -388,6 +432,18 @@
 	FedBerry is a Fedora Remix specifically built for use with Raspberry Pi 2/3 Model B computers.
 	
 * http://fedberry.org/
+
+***
+
+**Fedora**
+
+    Official support for the Raspberry Pi 2/3 is available in Fedora 26
+    (Lolix note: I guess mainline Fedora kernel so it miss several things)
+
+* https://fedoraproject.org/wiki/Architectures/ARM/Raspberry_Pi
+* https://download.fedoraproject.org/pub/fedora/linux/releases/26/Workstation/armhfp/images/
+* https://download.fedoraproject.org/pub/fedora/linux/releases/26/Server/armhfp/images/
+
 
 ***
 
@@ -601,11 +657,24 @@
 
 ***
 
-**Pignus** ARMv6 Only (A, A+, B, Zero models)
+**PiDeck** 0.1 2016-10-14
 
-	Fedora 23 optimized for ARMv6 BCM2865
+    Putting embedded GNU/Linux and open source DVS into turntables since 2016.
+    The software is based on the armhf (ARM Hard Float) port of Debian GNU/Linux stable (jessie) and xwax
+
+* http://pideck.com/
+* https://github.com/pideck
+
+***
+
+**Pignus** *alpha* 2015?
+
+	Fedora 23 optimized for ARMv6 BCM2865. ARMv6 Only (A, A+, B, Zero models)
+    From thir FAQ: You did an Alpha release. When are you doing a real release?
+    When it's ready. Which likely is Q1 2016
 
 * https://pignus.computer/
+* https://github.com/pignus-project
 
 ***
 
@@ -738,6 +807,15 @@
 
 ***
 
+**Screnly Open Source Edition**
+
+    Digital signage, based on Raspbian. A commercial Screenly Pro exist.
+
+* https://www.screenly.io/ose/
+* https://github.com/screenly/screenly-ose/releases
+
+***
+
 **Syncloud**
 
 	Debian based? owncloud self-hosting, require upnp router for activation (dlna is not enough)
@@ -781,6 +859,15 @@
 	Very small independent Linux system
 
 * http://tinycorelinux.net/7.x/armv6/releases/RPi/
+
+***
+
+**TLXOS-RPi** *commercial*
+
+    ThinLinX's ARM based Thin Client & Digital Signage solution developed and optimized by ThinLinX for the RaspberryPi 2 & 3.
+
+* https://tls.thinlinx.com/store/index.php/
+* https://tls.thinlinx.com/store/index.php/thinclient/tlxos-rpi-firmware-license.html
 
 ***
 
