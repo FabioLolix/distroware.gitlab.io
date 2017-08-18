@@ -65,7 +65,7 @@
 
  * **Devuan**
 
- * **HardnedBSD** 64 bit only
+ * **HardenedBSD** 64 bit only
 
  * **OpenBSD** 64 bit only
 
@@ -955,7 +955,7 @@
 
 ***
 
-**HardnedBSD**
+**HardenedBSD**
 
     HardenedBSD is a security-enhanced fork of FreeBSD
 
