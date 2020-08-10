@@ -8,7 +8,11 @@
 > BBQLinux is released about every half year or when something important happen on Arch Linux.
 > First release was on 4 Nov 2012 with number 2012.11.04
 >
-> Is developed by codeworkx (Daniel Hillenbrand)
+> Developed by codeworkx (Daniel Hillenbrand)
+>
+> Username: bbqlinux
+>
+> Password: bbqlinux 
 
 
 | BBQLinux | http://bbqlinux.org/ |
@@ -23,9 +27,16 @@
 | Release model      | Rolling                             |
 | Init               | Systemd                             |
 | Country            | Germany                             |
-| [Homepage](http://bbqlinux.org/) | [Sourceforge](https://sourceforge.net/projects/bbqlinux/) [Download](https://sourceforge.net/projects/bbqlinux/files) |
-| [Code](https://github.com/bbqlinux) | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) |
-| [Forum](http://bbs.bbqlinux.org/) | [IRC](http://webchat.freenode.net/?channels=bbqlinux) |
+| Code | https://github.com/bbqlinux |
+| Download | https://sourceforge.net/projects/bbqlinux/files |
+| IRC | http://webchat.freenode.net/?channels=bbqlinux |
+| Forum | http://bbs.bbqlinux.org/ |
+| Mailing list |  |
+| Docs |  |
+| Bugtracker | https://bbs.bbqlinux.org/viewforum.php?id=15 |
+| Donations | https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS |
+| Social/contact/etc.. |  |
+
 
 #### Releases
 

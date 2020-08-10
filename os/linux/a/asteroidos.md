@@ -7,8 +7,13 @@
 > libhybris is used as copatibility layer for Bionic GPU drivers
 >
 > Developed by Florent Revest
+>
+> Username:
+>
+> Password:
 
-| [Homepage](https://asteroidos.org/) |  |
+
+| AsteroidOS | https://asteroidos.org/ |
 |--------------------|--|
 | Based on           | independent, build with OpenEmbedded |
 | Architecture       |  |
@@ -20,9 +25,18 @@
 | Release model      |  |
 | Init               |  |
 | Country            |  |
-| [Code](https://github.com/AsteroidOS) | [nightly download](https://release.asteroidos.org/nightlies/) |
-| #asteroid on Freenode IRC | []() |
-| [Mastodon](https://fosstodon.org/@AsteroidOS) [Twitter](https://twitter.com/AsteroidOS) | []() |
+| Code | https://github.com/AsteroidOS |
+| Download (nightly) | https://release.asteroidos.org/nightlies/ |
+| IRC | #asteroid@irc.freenode.net |
+| Mailing list |  |
+| Docs |  |
+| Bugtracker |  |
+| Forum |  |
+| Donations |  |
+| Mastodon | https://fosstodon.org/@AsteroidOS |
+| Twitter | https://twitter.com/AsteroidOS |
+
+Build: https://asteroidos.org/wiki/building-asteroidos/
 
 
 #### Releases
