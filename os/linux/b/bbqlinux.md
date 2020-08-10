@@ -36,6 +36,7 @@
 | Bugtracker | https://bbs.bbqlinux.org/viewforum.php?id=15 |
 | Donations | https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS |
 | Social/contact/etc.. |  |
+| ArchiveOS/Distrowatch/Wikipedia |  |
 
 
 #### Releases

@@ -17,7 +17,7 @@
 |--------------------|--|
 | Based on           | independent, build with OpenEmbedded |
 | Architecture       |  |
-| Category           |  |
+| Category           | smartwatch |
 | Desktop            |  |
 | Language           |  |
 | Packages           |  |
@@ -29,12 +29,13 @@
 | Download (nightly) | https://release.asteroidos.org/nightlies/ |
 | IRC | #asteroid@irc.freenode.net |
 | Mailing list |  |
-| Docs |  |
+| Docs | https://asteroidos.org/wiki/documentation/ |
 | Bugtracker |  |
 | Forum |  |
 | Donations |  |
 | Mastodon | https://fosstodon.org/@AsteroidOS |
 | Twitter | https://twitter.com/AsteroidOS |
+| Wikipedia | https://en.wikipedia.org/wiki/AsteroidOS |
 
 Build: https://asteroidos.org/wiki/building-asteroidos/
 

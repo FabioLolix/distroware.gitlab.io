@@ -30,6 +30,7 @@ Addition sheet template
 | Bugtracker |  |
 | Donations/buy |  |
 | Social/contact/etc.. |  |
+| ArchiveOS/Distrowatch/Wikipedia |  |
 
 #### Releases
 
