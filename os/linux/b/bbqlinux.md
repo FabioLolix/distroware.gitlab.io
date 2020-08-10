@@ -1,4 +1,4 @@
-### [BBQLinux](http://bbqlinux.org/)
+### BBQLinux
 
 > BBQLinux is based on Arch Linux and is fully compatible with it, an additional repository for specific softwares and branding is included.
 > Main edition comes with Cinnamon desktop, other editions are available with Mate, Xfce, Gnome, Plasma desktops respectively.
@@ -7,22 +7,24 @@
 >
 > BBQLinux is released about every half year or when something important happen on Arch Linux.
 > First release was on 4 Nov 2012 with number 2012.11.04
+>
+> Is developed by codeworkx (Daniel Hillenbrand)
 
 
-| BBQLinux | 2018.05.20 |
+| BBQLinux | http://bbqlinux.org/ |
 |--------------------|--|
 | Based on           | Arch Linux                          |
 | Architecture       | x86_64                              |
 | Category           | Desktop, live medium, development   |
 | Desktop            | Cinnamon (main), Mate, Xfce, Gnome, Plasma |
+| Language           | English                             |
 | Packages           | pkg.tar.xz                          |
 | Package management | pacman, packagekit                  |
 | Release model      | Rolling                             |
 | Init               | Systemd                             |
 | Country            | Germany                             |
-| Language           | English                             |
 | [Homepage](http://bbqlinux.org/) | [Sourceforge](https://sourceforge.net/projects/bbqlinux/) [Download](https://sourceforge.net/projects/bbqlinux/files) |
-| [Development](https://github.com/bbqlinux) | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) |
+| [Code](https://github.com/bbqlinux) | [Support](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M4DVE4SNPDDCS) |
 | [Forum](http://bbs.bbqlinux.org/) | [IRC](http://webchat.freenode.net/?channels=bbqlinux) |
 
 #### Releases
