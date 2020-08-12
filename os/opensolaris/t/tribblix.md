@@ -1,13 +1,13 @@
-### $name
+### Tribblix
 
->
->
+> Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos
+> It blends a retro style with modern components.
 >
 > Username:
 >
 > Password:
 
-| $name | $homepage-link |
+| Tribblix | http://tribblix.org/ |
 |--------------------|--|
 | Based on           |  |
 | Architecture       |  |
@@ -18,9 +18,9 @@
 | Package management |  |
 | Release model      |  |
 | Init               |  |
-| Country            |  |
-| Code |  |
-| Download |  |
+| Country            | UK |
+| Source |  |
+| Download | http://tribblix.org/download.html |
 | IRC |  |
 | Forum |  |
 | Mailing list |  |

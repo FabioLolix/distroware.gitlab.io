@@ -9,7 +9,7 @@
 > First release was on 4 Nov 2012 with number 2012.11.04
 >
 > Developed by codeworkx (Daniel Hillenbrand)
->
+
 > Username: bbqlinux
 >
 > Password: bbqlinux 
@@ -27,7 +27,7 @@
 | Release model      | Rolling                             |
 | Init               | Systemd                             |
 | Country            | Germany                             |
-| Code | https://github.com/bbqlinux |
+| Source | https://github.com/bbqlinux |
 | Download | https://sourceforge.net/projects/bbqlinux/files |
 | IRC | http://webchat.freenode.net/?channels=bbqlinux |
 | Forum | http://bbs.bbqlinux.org/ |
