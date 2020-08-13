@@ -3,11 +3,12 @@
 >
 >
 >
+
 > Username:
 >
 > Password:
 
-| $name | $homepage-link |
+| $name | $homepagelink |
 |--------------------|--|
 | Based on           |  |
 | Architecture       |  |
@@ -19,7 +20,7 @@
 | Release model      |  |
 | Init               |  |
 | Country            |  |
-| Code |  |
+| Source |  |
 | Download |  |
 | IRC |  |
 | Forum |  |
