@@ -11,7 +11,7 @@
 > source have a linux-3.6.11 tarball plus zram and aufs3 patches and nothing more
 >
 > packages have the builded linux-3.6.11 kernel, .deb only; no repository
->
+
 > Username:root
 >
 > Password:root
@@ -20,9 +20,12 @@
 >
 > Password:guest
 
+> Freeware
+
 | PureOS | https://web.archive.org/web/20140104161910/http://pureos.org/ |
 |--------------------|--|
 | Based on           | Debian (testing) |
+| Status             | Discontinued |
 | Architecture       | i386 |
 | Category           | desktop, live medium |
 | Desktop            | Gnome, Openbox |

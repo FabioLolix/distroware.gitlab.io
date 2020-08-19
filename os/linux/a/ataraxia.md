@@ -1,38 +1,51 @@
-### $name
+### Ataraxia Linux
 
 >
 >
 >
-> Username:
->
-> Password:
 
-| $name | $homepage-link |
+> Username: root
+>
+> Password: liveUser123
+
+> Type: FOSS, ISC lincese
+
+| Ataraxia Linux | https://ataraxialinux.github.io/ |
 |--------------------|--|
-| Based on           |  |
-| Architecture       |  |
+| Based on           | Independent |
+| Status             | Active |
+| Architecture       | x86_64 |
 | Category           |  |
-| Desktop            |  |
+| Desktop            | cli, Budgie, Gnome, Mate, Xfce |
 | Language           |  |
 | Packages           |  |
-| Package management |  |
+| Package management | neko |
 | Release model      |  |
 | Init               |  |
 | Country            |  |
-| Code |  |
-| Download |  |
-| IRC |  |
+| Source | https://github.com/ataraxialinux |
+| Download | https://github.com/ataraxialinux/ataraxia/releases |
+| IRC | irc://irc.freenode.net/#ataraxialinux |
 | Forum |  |
 | Mailing list |  |
-| Docs |  |
-| Bugtracker |  |
-| Donations/buy |  |
-| Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+| Docs | https://github.com/ataraxialinux/ataraxia/wiki |
+| Bugtracker | https://github.com/ataraxialinux/ataraxia/issues |
+| Donations | https://www.patreon.com/ataraxialinux |
+| Donations | Ethereum wallet: 0xE72931051e4aDB1c79bbAcad1E1427B2D4eD0D01 |
+| Telegram | https://t.me/ataraxialinux |
+| Matrix | https://matrix.to/#/#ataraxialinux:matrix.org |
+| Reddit | https://www.reddit.com/r/ataraxialinux/ |
+| Discord | https://discord.gg/KrrkEEG |
+| ArchiveOS |  |
+| Distrowatch |  |
+| Wikipedia |  |
+| https://lwn.net/Distributions/ | no |
+
+Build: 
 
 #### Releases
 
-* $last
+* snapshot 2020.07.29
 * 
-* $first
+* 1.0 Alpha (2018.04.1) (as januslinux)
 

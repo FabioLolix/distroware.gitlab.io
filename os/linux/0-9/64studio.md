@@ -2,7 +2,7 @@
 
 >
 >
->
+
 > Username:
 >
 > Password:
@@ -10,6 +10,7 @@
 | $name | $homepage-link |
 |--------------------|--|
 | Based on           |  |
+| Status             | Discontinued |
 | Architecture       |  |
 | Category           |  |
 | Desktop            |  |
@@ -28,7 +29,12 @@
 | Bugtracker |  |
 | Donations/buy |  |
 | Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+| ArchiveOS |  |
+| Distrowatch |  |
+| Wikipedia |  |
+| https://lwn.net/Distributions/ | no |
+
+Build: 
 
 #### Releases
 

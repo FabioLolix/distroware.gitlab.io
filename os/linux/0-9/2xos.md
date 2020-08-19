@@ -1,15 +1,16 @@
-### $name
+### 2XOS
 
 >
 >
->
+
 > Username:
 >
 > Password:
 
-| $name | $homepage-link |
+| 2XOS | $homepage-link |
 |--------------------|--|
 | Based on           |  |
+| Status             | Discontinued |
 | Architecture       |  |
 | Category           |  |
 | Desktop            |  |
@@ -28,7 +29,12 @@
 | Bugtracker |  |
 | Donations/buy |  |
 | Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+| ArchiveOS |  |
+| Distrowatch | https://distrowatch.com/table.php?distribution=2x |
+| Wikipedia |  |
+| https://lwn.net/Distributions/ | no |
+
+Build: 
 
 #### Releases
 
