@@ -14,20 +14,20 @@
 |--------------------|--|
 | Based on           | Independent |
 | Status             | Active |
-| Architecture       | x86_64 |
-| Category           |  |
-| Desktop            | cli, Budgie, Gnome, Mate, Xfce |
-| Language           |  |
-| Packages           |  |
-| Package management | neko |
-| Release model      |  |
-| Init               |  |
-| Country            |  |
+| Architecture       | x86_64, i686, aarch64, armv7hnl, armv6hl, ppc64le, ppc64, ppc, riscv64 |
+| Category           | Desktop, Server |
+| Desktop            | cli, Budgie, Gnome, Mate, Xfce, Sway |
+| Language           | English (US) |
+| Packages           | 1000-1500 |
+| Package management | neko, dnf |
+| Release model      | rolling |
+| Init               | sinit + runit |
+| Country            | Russia |
 | Source | https://github.com/ataraxialinux |
 | Download | https://github.com/ataraxialinux/ataraxia/releases |
 | IRC | irc://irc.freenode.net/#ataraxialinux |
-| Forum |  |
-| Mailing list |  |
+| Forum | N/A |
+| Mailing list | N/A |
 | Docs | https://github.com/ataraxialinux/ataraxia/wiki |
 | Bugtracker | https://github.com/ataraxialinux/ataraxia/issues |
 | Donations | https://www.patreon.com/ataraxialinux |
@@ -36,9 +36,9 @@
 | Matrix | https://matrix.to/#/#ataraxialinux:matrix.org |
 | Reddit | https://www.reddit.com/r/ataraxialinux/ |
 | Discord | https://discord.gg/KrrkEEG |
-| ArchiveOS |  |
-| Distrowatch |  |
-| Wikipedia |  |
+| ArchiveOS | N/A |
+| Distrowatch | N/A |
+| Wikipedia | N/A |
 | https://lwn.net/Distributions/ | no |
 
 Build: 
