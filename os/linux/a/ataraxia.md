@@ -40,6 +40,7 @@
 | Distrowatch | N/A |
 | Wikipedia | N/A |
 | https://lwn.net/Distributions/ | no |
+| Repology | https://repology.org/repository/ataraxia |
 
 Build: 
 
