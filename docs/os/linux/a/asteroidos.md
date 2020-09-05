@@ -5,19 +5,18 @@
 > Programs are written in Qt/QML, Asteroid-launcher is a wayland compositor
 >
 > libhybris is used as copatibility layer for Bionic GPU drivers
->
+
 > Developed by Florent Revest
 
 > Username:
->
 > Password:
 
 
 | AsteroidOS | https://asteroidos.org/ |
 |--------------------|--|
-| Based on           | independent, build with OpenEmbedded |
+| Based on           | Independent, build with OpenEmbedded |
 | Architecture       |  |
-| Category           | smartwatch |
+| Category           | Smartwatches |
 | Desktop            |  |
 | Language           |  |
 | Packages           |  |

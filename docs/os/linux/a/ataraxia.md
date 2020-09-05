@@ -1,11 +1,10 @@
 ### Ataraxia Linux
 
->
+> $DESCRIPTION_&_HISTORY
 >
 >
 
 > Username: root
->
 > Password: liveUser123
 
 > Type: FOSS, ISC lincese
@@ -18,7 +17,7 @@
 | Category           | Desktop, Server, Security, Privacy |
 | Desktop            | cli (main), Budgie, Gnome, Mate, Xfce, Sway |
 | Language           | English (US) |
-| Packages           | RPM |
+| Packaging          | RPM |
 | Package management | neko, dnf |
 | Release model      | rolling |
 | Init               | sinit |
@@ -28,14 +27,14 @@
 | IRC | irc://irc.freenode.net/#ataraxialinux |
 | Forum | N/A |
 | Mailing list | N/A |
-| Docs | https://github.com/ataraxialinux/ataraxia/wiki |
-| Bugtracker | https://github.com/ataraxialinux/ataraxia/issues |
-| Donations | https://www.patreon.com/ataraxialinux |
-| Donations | Ethereum wallet: 0xE72931051e4aDB1c79bbAcad1E1427B2D4eD0D01 |
 | Telegram | https://t.me/ataraxialinux |
 | Matrix | https://matrix.to/#/#ataraxialinux:matrix.org |
 | Reddit | https://www.reddit.com/r/ataraxialinux/ |
 | Discord | https://discord.gg/KrrkEEG |
+| Docs | https://github.com/ataraxialinux/ataraxia/wiki |
+| Bugtracker | https://github.com/ataraxialinux/ataraxia/issues |
+| Donations | https://www.patreon.com/ataraxialinux |
+| Donations | Ethereum wallet: 0xE72931051e4aDB1c79bbAcad1E1427B2D4eD0D01 |
 | ArchiveOS | N/A |
 | Distrowatch | N/A |
 | Wikipedia | N/A |
