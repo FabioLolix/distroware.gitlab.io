@@ -1,19 +1,21 @@
-## Now 'developed' at:
+---
+layout: post
+title: List of Operative Systems for ARM64
+---
 
-* https://fabiololix.github.io/RunsOnARM/
-* https://github.com/FabioLolix/fabiololix.github.io/tree/master/_posts
+Last update on:
 
 ## For a comprehensive list of operative systems for Raspberry Pi see
 
-* https://github.com/FabioLolix/Lolix-lists/blob/master/RaspberryPi_OS.md
+* <https://fabiololix.github.io/OS-for-Raspberry-Pi/>
 
 ***
 
 **Alpine**
 
-	Security-oriented, lightweight Linux distribution based on musl libc and busybox
-    Support RaspberryPi with dedicated images and a small variety of other boards with generic armhf tarbal and series of u-boot files
-    Generic aarch64 too, with u-boot for thunderx_88xx
+Security-oriented, lightweight Linux distribution based on musl libc and busybox
+Support RaspberryPi with dedicated images and a small variety of other boards with generic armhf tarbal and series of u-boot files
+Generic aarch64 too, with u-boot for thunderx_88xx
 	
 * https://alpinelinux.org/
 * https://alpinelinux.org/downloads/
@@ -23,8 +25,8 @@
 
 **Angstrom**
 
-    Support a variety of boards with glibc or musl based images
-	Independent embedded Linux system, Yocto 1.7 compatible
+Support a variety of boards with glibc or musl based images
+Independent embedded Linux system, Yocto 1.7 compatible
 	
 * http://wp.angstrom-distribution.org/
 * http://dominion.thruhere.net/angstrom/nightlies/
@@ -33,8 +35,8 @@
 
 **Arch Linux ARM**
 
-    SUpport 49 armv7 boards and 11 armv8 boards
-	Alarm continues the philosophy of Arch Linux into new architectures, not affilated with ArchLinux
+SUpport 49 armv7 boards and 11 armv8 boards
+Alarm continues the philosophy of Arch Linux into new architectures, not affilated with ArchLinux
 	
 * https://archlinuxarm.org/
 * https://archlinuxarm.org/platforms/armv7/
@@ -44,11 +46,11 @@
 
 **Armbian** *Support more then 48 boards!*
 
-    Support 48 boards with stable builds plus 12 in testing, 5 not officially supported and 17 deprecated
-	Lightweight Debian (Wheezy or Jessie) or Ubuntu (Trusty or Xenial) based distribution specialized for ARM developing boards
-	Server or XFCE desktop
-	Legacy or Vanilla kernel.
-	Compiled from scratch by Igor Pečovnik
+Support 48 boards with stable builds plus 12 in testing, 5 not officially supported and 17 deprecated
+Lightweight Debian (Wheezy or Jessie) or Ubuntu (Trusty or Xenial) based distribution specialized for ARM developing boards
+Server or XFCE desktop
+Legacy or Vanilla kernel.
+Compiled from scratch by Igor Pečovnik
 	
 * http://www.armbian.com/
 * http://www.armbian.com/download/
@@ -58,7 +60,7 @@
 
 **CentOs**
 
-	Support for ARM 64-bit and 32-bit is part of Alternate Architectures Special Interest Group (SIG) 
+Support for ARM 64-bit and 32-bit is part of Alternate Architectures Special Interest Group (SIG) 
 	
 * https://wiki.centos.org/SpecialInterestGroup/AltArch/armhfp
 * http://mirror.centos.org/altarch/7/isos/armhfp/
@@ -69,9 +71,9 @@
 
 **Fedora**
 
-    Fedora has a strict adherence to upstream, as a result only support systems supported in the upstream kernel
-    armv7 is a primary architecture while armv8 is an alternative architecture
-    AArch64 images are for “Server Base System Architecture” (SBSA) compliant systems or Single Board Computers.
+Fedora has a strict adherence to upstream, as a result only support systems supported in the upstream kernel
+armv7 is a primary architecture while armv8 is an alternative architecture
+AArch64 images are for “Server Base System Architecture” (SBSA) compliant systems or Single Board Computers.
 
 * https://arm.fedoraproject.org/
 * https://fedoraproject.org/wiki/Architectures/ARM
@@ -83,14 +85,14 @@
 
 **FreeBSD**
 
-    32-bit ARM is officially a Tier 2 architecture, as the FreeBSD project does not provide official releases or pre-built packages for this platform due to it primarily targeting the embedded arena.
-    However, FreeBSD/ARM is being actively developed and maintained, is well supported, and provides an excellent framework for building ARM-based systems.
-    FreeBSD/arm supports ARMv4 and ARMv5 processors
-    FreeBSD/armv6 supports ARMv6 and ARMv7 processors, including SMP on the latter.
+32-bit ARM is officially a Tier 2 architecture, as the FreeBSD project does not provide official releases or pre-built packages for this platform due to it primarily targeting the embedded arena.
+However, FreeBSD/ARM is being actively developed and maintained, is well supported, and provides an excellent framework for building ARM-based systems.
+FreeBSD/arm supports ARMv4 and ARMv5 processors
+FreeBSD/armv6 supports ARMv6 and ARMv7 processors, including SMP on the latter.
 
-    Initial support for 64-bit ARM is complete. 64-bit ARM platforms follow a set of standard conventions, and a single FreeBSD build will work on hardware from multiple vendors.
-    As a result, FreeBSD will provide official releases for FreeBSD/arm64 and packages will be available.
-    FreeBSD/arm64 is on the path to becoming a Tier 1 architecture.
+Initial support for 64-bit ARM is complete. 64-bit ARM platforms follow a set of standard conventions, and a single FreeBSD build will work on hardware from multiple vendors.
+As a result, FreeBSD will provide official releases for FreeBSD/arm64 and packages will be available.
+FreeBSD/arm64 is on the path to becoming a Tier 1 architecture.
 
 * https://www.freebsd.org/platforms/arm.html
 
@@ -98,8 +100,8 @@
 
 **Lakka** 2.1 2017-11-26
 
-	Based on LibreElec, official Retroarch distro for gaming with XMB user interface
-    Support a variety of boards not limited to Rockchip, AllWinner boards and Amlogic S8X2/S802/S805/S905/S912 Tv boxes (including WeTek boxes)
+Based on LibreElec, official Retroarch distro for gaming with XMB user interface
+Support a variety of boards not limited to Rockchip, AllWinner boards and Amlogic S8X2/S802/S805/S905/S912 Tv boxes (including WeTek boxes)
 
 * http://www.lakka.tv/
 * http://www.lakka.tv/get/
@@ -109,8 +111,8 @@
 
 **LibreELEC**
 
-	Embedded, lightweight ‘Just enough OS’ Kodi mediacenter distribution, originally forked from OpenELEC
-    Support 32/64 bit computers, Raspberry Pi, Odroid C2 (aarch64), Solid-Run's Freescale iMX6 based boards  and WeTek boxes
+Embedded, lightweight ‘Just enough OS’ Kodi mediacenter distribution, originally forked from OpenELEC
+Support 32/64 bit computers, Raspberry Pi, Odroid C2 (aarch64), Solid-Run's Freescale iMX6 based boards  and WeTek boxes
 	
 * https://libreelec.tv/
 * https://libreelec.tv/downloads/
@@ -121,9 +123,9 @@
 
 **NetBSD**
 
-    NetBSD/evbarm is the port of NetBSD to various evaluation and prototyping boards based on CPUs implementing the ARM architecture
-    a variety of boards, instructions sets, endianness and hardware floating point are supported in 32 mode as of version 7.1.2
-    evbarm is in Tier I support and is maintained by Matt Thomas
+NetBSD/evbarm is the port of NetBSD to various evaluation and prototyping boards based on CPUs implementing the ARM architecture
+a variety of boards, instructions sets, endianness and hardware floating point are supported in 32 mode as of version 7.1.2
+evbarm is in Tier I support and is maintained by Matt Thomas
 
 * https://wiki.netbsd.org/ports/evbarm/
 
@@ -131,9 +133,9 @@
 
 **nextcloudpi**
 
-    Nextcloud self-hosting solution based on Debian, Apache, MariaDB..
-    Ready to use image for Raspberry Pi, Odroid HC1, rock64 and other boards.
-    Can be installed on any Debian system and images can be created for Armbian and Docker
+Nextcloud self-hosting solution based on Debian, Apache, MariaDB..
+Ready to use image for Raspberry Pi, Odroid HC1, rock64 and other boards.
+Can be installed on any Debian system and images can be created for Armbian and Docker
 
 * https://ownyourbits.com/nextcloudpi/
 * https://github.com/nextcloud/nextcloudpi
@@ -143,11 +145,11 @@
 
 **OpenBSD**
 
-    The current target arm64 platforms are Rockchip RK3328/RK3399, Allwinner A64/H5, Raspberry Pi 3 and Opteron A1100
-    Include Pine64, Rock64, Firefly-RK3399, Pine64+, AMD Seattle Development Board and SoftIron OverDrive 1000
+The current target arm64 platforms are Rockchip RK3328/RK3399, Allwinner A64/H5, Raspberry Pi 3 and Opteron A1100
+Include Pine64, Rock64, Firefly-RK3399, Pine64+, AMD Seattle Development Board and SoftIron OverDrive 1000
 
-    On armv7 the platform is now self hosting, however there is no SMP support
-    a variety of boards powered by AllWinner, NXP i.MX6 and TI OMAP3/4 SoCs are supported
+On armv7 the platform is now self hosting, however there is no SMP support
+a variety of boards powered by AllWinner, NXP i.MX6 and TI OMAP3/4 SoCs are supported
 
 * https://www.openbsd.org/arm64.html
 * https://ftp.openbsd.org/pub/OpenBSD/6.3/arm64/INSTALL.arm64
@@ -158,8 +160,8 @@
 
 **OpenELEC**
 
-	Embedded, lightweight ‘Just enough OS’ Kodi mediacenter distribution
-    Support 32/64 bit computers, Raspberry Pi, Solid-Run's Freescale iMX6 based boards and WeTek boxes
+Embedded, lightweight ‘Just enough OS’ Kodi mediacenter distribution
+Support 32/64 bit computers, Raspberry Pi, Solid-Run's Freescale iMX6 based boards and WeTek boxes
 	
 * https://openelec.tv/
 * http://openelec.tv/get-openelec
@@ -169,10 +171,10 @@
 
 **OpenSuse Tumbleweed** *Support 26 boards/devices!*
 
-    Support 26 boards with stable builds and AArch64 platforms with a standard UEFI boot environment
-    plus other 20 boards at various degree of support
-	Official Opensuse Tumbleweed for ARM boards, rolling release
-	Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktops
+Support 26 boards with stable builds and AArch64 platforms with a standard UEFI boot environment
+plus other 20 boards at various degree of support
+Official Opensuse Tumbleweed for ARM boards, rolling release
+Come as Just Enough Os (JeOS) or with E20, XFCE, LXQT desktops
 	
 * https://en.opensuse.org/openSUSE:OpenSUSE_on_your_ARM_board
 * https://en.opensuse.org/openSUSE:Supported_ARM_boards
