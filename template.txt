@@ -1,0 +1,62 @@
+### $NAME
+
+> $DESCRIPTION_&_HISTORY
+>
+>
+
+> Developed by
+
+> Username:
+>
+> Password:
+
+> Type: 
+
+| $NAME | <$HOMEPAGE_LINK> |
+|-----------------------|--|
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
+| Desktop               |  |
+| Language              |  |
+| Packages              |  |
+| Package management    |  |
+| Release model         |  |
+| Init                  |  |
+| Country               |  |
+| Source                |  |
+| Download              |  |
+| IRC                   |  |
+| Forum                 |  |
+| Mailing list          |  |
+| Docs                  |  |
+| Bugtracker            |  |
+| Donations/buy         |  |
+| Social                |  |
+| Social                |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             |  |
+| on LWN.net            |  |
+| Repology              |  |
+| In the timeline       |  | 
+
+
+Build:
+
+
+#### Releases
+
+* $LAST
+* 
+* $FIRST
+* CODING START
+
+
+#### Media coverage
+
+* $NEWER
+* 
+* $OLDER
