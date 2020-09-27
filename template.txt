@@ -10,7 +10,7 @@
 >
 > Password:
 
-> Type: 
+> License & Type: 
 
 | $NAME | <$HOMEPAGE_LINK> |
 |-----------------------|--|
@@ -20,7 +20,7 @@
 | Category              |  |
 | Desktop               |  |
 | Language              |  |
-| Packages              |  |
+| Packaging             |  |
 | Package management    |  |
 | Release model         |  |
 | Init                  |  |
@@ -52,7 +52,7 @@ Build:
 * $LAST
 * 
 * $FIRST
-* CODING START
+* Coding started on $DATE
 
 
 #### Media coverage
