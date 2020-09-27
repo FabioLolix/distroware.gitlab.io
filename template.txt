@@ -1,4 +1,4 @@
-### $NAME
+# $NAME
 
 > $DESCRIPTION_&_HISTORY
 >
@@ -32,6 +32,7 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
+| Translation           |  |
 | Donations/buy         |  |
 | Social                |  |
 | Social                |  |
@@ -44,10 +45,10 @@
 | In the timeline       |  | 
 
 
-Build:
+## Build
 
 
-#### Releases
+## Releases
 
 * $LAST
 * 
@@ -55,7 +56,7 @@ Build:
 * Coding started on $DATE
 
 
-#### Media coverage
+## Media coverage
 
 * $NEWER
 * 
