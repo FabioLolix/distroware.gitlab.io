@@ -1,16 +1,25 @@
 # $NAME
 
-> $DESCRIPTION_&_HISTORY
->
+## Screenshot
+
+
+## Description and history
+
 >
 
 > Developed by
 
-> Username:
->
-> Password:
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
 
-> License & Type: 
+
+## License & Type
+
+>
+
+
+## Packaging and repositories 
 
 | $NAME | <$HOMEPAGE_LINK> |
 |-----------------------|--|
@@ -24,6 +33,7 @@
 | Package management    |  |
 | Release model         |  |
 | Init                  |  |
+| Installer             |  |
 | Country               |  |
 | Source                |  |
 | Download              |  |
@@ -34,7 +44,7 @@
 | Bugtracker            |  |
 | Translation           |  |
 | Donations/buy         |  |
-| Social                |  |
+| Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -46,6 +56,8 @@
 
 
 ## Build
+
+>
 
 
 ## Releases
