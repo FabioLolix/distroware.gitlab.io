@@ -1,4 +1,4 @@
-# Android Wear
+# PandaOS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| PandaOS | <https://pandaos.github.io/> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -33,7 +33,7 @@
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
-| Source                |  |
+| Source                | <https://github.com/pandaos> |
 | Download              |  |
 | Language              |  |
 | Country               |  |

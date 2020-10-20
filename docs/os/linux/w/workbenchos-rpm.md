@@ -1,4 +1,4 @@
-# Android Wear
+# $NAME
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| $NAME | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |

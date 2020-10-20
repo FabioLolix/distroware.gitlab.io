@@ -1,4 +1,4 @@
-# Android Wear
+# $NAME
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| $NAME | <https://grapheneos.org/> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -33,7 +33,7 @@
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
-| Source                |  |
+| Source                | <https://github.com/GrapheneOS> |
 | Download              |  |
 | Language              |  |
 | Country               |  |
@@ -49,10 +49,10 @@
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/GrapheneOS> |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       |  | 
 
 
 ## Build

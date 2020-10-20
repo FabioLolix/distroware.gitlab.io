@@ -1,4 +1,4 @@
-# Android Wear
+# dahliaOS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| dahliaOS | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -33,8 +33,8 @@
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/dahlia-os> |
+| Download              | <https://github.com/dahlia-os/releases/releases> |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -45,7 +45,7 @@
 | Translation           |  |
 | Donations/buy         |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/realdahliaos> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

@@ -1,4 +1,4 @@
-# Android Wear
+# Android IA
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| Android IA | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |

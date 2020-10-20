@@ -1,4 +1,4 @@
-# Android Wear
+# Remix OS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| Remix OS | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -52,7 +52,7 @@
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       |  | 
 
 
 ## Build

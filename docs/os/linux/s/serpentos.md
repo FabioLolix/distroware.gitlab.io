@@ -1,4 +1,4 @@
-# Android Wear
+# $NAME
 
 ## Screenshot
 
@@ -21,22 +21,22 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| $NAME | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop               |  |
+| Language              |  |
 | Packaging             |  |
 | Package management    |  |
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
+| Country               |  |
 | Source                |  |
 | Download              |  |
-| Language              |  |
-| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -52,7 +52,7 @@
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       |  | 
 
 
 ## Build

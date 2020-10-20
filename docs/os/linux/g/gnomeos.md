@@ -1,4 +1,4 @@
-# Android Wear
+# GNOME OS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| GNOME OS | <$HOMEPAGE_LINK> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -71,5 +71,5 @@
 ## Media coverage
 
 * $NEWER
-* 
+* <https://frontpagelinux.com/news/gnome-os-exists-heres-what-you-need-to-know/>
 * $OLDER

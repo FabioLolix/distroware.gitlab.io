@@ -1,4 +1,4 @@
-# Android Wear
+# Phoenix OS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| Phoenix OS | <http://www.phoenixos.com/en/> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -52,7 +52,7 @@
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       |  | 
 
 
 ## Build

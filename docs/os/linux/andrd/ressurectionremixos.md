@@ -1,4 +1,4 @@
-# Android Wear
+# Ressurrection Remix OS
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging and repositories 
 
-| Android Wear | <$HOMEPAGE_LINK> |
+| Ressurrection Remix OS | <https://resurrectionremix.com/> |
 |-----------------------|--|
 | Based on              |  |
 | Status                |  |
@@ -33,7 +33,7 @@
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
-| Source                |  |
+| Source                | <https://github.com/ResurrectionRemix> |
 | Download              |  |
 | Language              |  |
 | Country               |  |
@@ -49,10 +49,10 @@
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Resurrection_Remix_OS> |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       |  | 
 
 
 ## Build

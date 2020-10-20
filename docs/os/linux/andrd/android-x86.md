@@ -1,39 +1,75 @@
-### $name
+# Android-x86
+
+## Screenshot
+
+
+## Description and history
 
 >
+
+> Developed by
+
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
+
+
+## License & Type
+
 >
+
+
+## Packaging and repositories 
+
+| Android-x86 | <https://www.android-x86.org/> |
+|-----------------------|--|
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
+| Desktop               |  |
+| Packaging             |  |
+| Package management    |  |
+| Release model         |  |
+| Init                  |  |
+| Installer             |  |
+| Source                | <https://osdn.net/projects/android-x86/scm/> |
+| Download              |  |
+| Language              |  |
+| Country               |  |
+| IRC                   |  |
+| Forum                 |  |
+| Mailing list          |  |
+| Docs                  |  |
+| Bugtracker            |  |
+| Translation           |  |
+| Donations/buy         | <https://www.android-x86.org/donate.html> |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             |  |
+| on LWN.net            |  |
+| Repology              |  |
+| In the timeline       |  |
+
+
+## Build
+
 >
 
-> Username:
->
-> Password:
 
-| $name | $homepagelink |
-|--------------------|--|
-| Based on           |  |
-| Architecture       |  |
-| Category           |  |
-| Desktop            |  |
-| Language           |  |
-| Packages           |  |
-| Package management |  |
-| Release model      |  |
-| Init               |  |
-| Country            |  |
-| Source |  |
-| Download |  |
-| IRC |  |
-| Forum |  |
-| Mailing list |  |
-| Docs |  |
-| Bugtracker |  |
-| Donations/buy |  |
-| Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+## Releases
 
-#### Releases
-
-* $last
+* $LAST
 * 
-* $first
+* $FIRST
+* Coding started on $DATE
 
+
+## Media coverage
+
+* $NEWER
+* 
+* $OLDER

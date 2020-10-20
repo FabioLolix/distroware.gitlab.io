@@ -28,15 +28,15 @@
 | Architecture          |  |
 | Category              |  |
 | Desktop               |  |
-| Language              |  |
 | Packaging             |  |
 | Package management    |  |
 | Release model         |  |
 | Init                  |  |
 | Installer             |  |
-| Country               |  |
 | Source                |  |
 | Download              |  |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
