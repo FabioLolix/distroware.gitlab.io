@@ -28,13 +28,15 @@
 | Architecture          |  |
 | Category              |  |
 | Desktop               |  |
-| Packaging             |  |
-| Package management    |  |
-| Release model         |  |
-| Init                  |  |
-| Installer             |  |
 | Source                |  |
 | Download              |  |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Init                  |  |
+| C library             |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
