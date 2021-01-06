@@ -47,7 +47,7 @@
 | Translation           |  |
 | Donations/buy         |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | http://discord.arisblu.com |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
