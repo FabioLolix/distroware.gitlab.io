@@ -30,7 +30,8 @@
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
