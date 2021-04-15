@@ -50,8 +50,8 @@
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 | pay as you want |
+| Commercial            | pay what you want |
+| Price                 | pay what you want |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
