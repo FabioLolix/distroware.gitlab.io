@@ -1,38 +1,79 @@
-### $name
+# elementary OS
+
+## Screenshot
+
+
+## Description and history
 
 >
->
->
-> Username:
->
-> Password:
 
-| $name | $homepage-link |
-|--------------------|--|
-| Based on           |  |
-| Architecture       |  |
-| Category           |  |
-| Desktop            |  |
-| Language           |  |
-| Packages           |  |
-| Package management |  |
-| Release model      |  |
-| Init               |  |
-| Country            |  |
-| Code |  |
-| Download |  |
-| IRC |  |
-| Forum |  |
-| Mailing list |  |
-| Docs |  |
-| Bugtracker |  |
-| Donations/buy |  |
-| Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+> Developed by
 
-#### Releases
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
 
-* $last
+
+## License & Type
+
+>
+
+
+## Packaging and repositories 
+
+
+| elementary OS |                  |
+|-----------------------|--|
+| Homepage              | <https://elementary.io/#> |
+| Homepage backup       |  |
+| Based on              | Ubuntu LTS |
+| Status                | active |
+| Architecture          |  |
+| Category              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/elementary> |
+| Download              | <https://elementary.io/#> |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Init                  |  |
+| C library             |  |
+| Compiler              |  |
+| Language              |  |
+| Country               |  |
+| IRC                   |  |
+| Forum                 | <https://elementaryos.stackexchange.com/> |
+| Mailing list          |  |
+| Docs                  |  |
+| Bugtracker            |  |
+| Translation           |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 | pay as you want |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Elementary_OS> |
+| on LWN.net            |  |
+| Repology              |  |
+| In the timeline       |  |
+
+
+## Build
+
+>
+
+
+## Releases
+
 * 
-* $first
+* Coding started on $DATE
 
+
+## Media coverage
+
+* 
