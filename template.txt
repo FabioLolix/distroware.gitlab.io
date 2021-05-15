@@ -77,3 +77,10 @@
 ## Media coverage
 
 * 
+
+
+## About this page
+
+> this page code can be found here:
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
