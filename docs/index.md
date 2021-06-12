@@ -17,6 +17,8 @@ This site is builded with MkDocs and can be builded and tested locally.
 * <https://www.mkdocs.org/#installation>
 * <https://www.mkdocs.org/#building-the-site>
 
+Command for quick reload for local development: mkdocs serve --dirtyreload
+
 ## Contributing
 
 Contributions and informations gathering are very welcome, especially for sources in not English or Italian languages.  
