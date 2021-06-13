@@ -5,7 +5,7 @@
 
 ## Description and history
 
-> Freeware pretending to be open source
+> Freeware claiming to be open source
 
 > Developed by Denys Kulbii
 
