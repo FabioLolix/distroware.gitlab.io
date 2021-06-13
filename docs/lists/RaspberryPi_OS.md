@@ -7,7 +7,7 @@ Last update on:
 
 ## For a comprehensive list of operative systems for ARM boards and servers see
 
-* <https://fabiololix.github.io/RunsOnARM/>
+* <https://fabiololix.gitlab.io/RunsOnARM/>
 
 ***
 

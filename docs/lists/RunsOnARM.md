@@ -7,7 +7,7 @@ Last update on:
 
 ## For a comprehensive list of operative systems for Raspberry Pi see
 
-* <https://fabiololix.github.io/OS-for-Raspberry-Pi/>
+* <https://fabiololix.gitlab.io/OS-for-Raspberry-Pi/>
 
 ***
 
