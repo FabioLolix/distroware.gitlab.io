@@ -1,4 +1,4 @@
-# XigmaNAS
+# $NAME
 
 ## Screenshot
 
@@ -11,7 +11,7 @@
 
 | username | password |  |
 |----------|----------|--|
-| admin | xigmanas |  |
+|  |  |  |
 
 
 ## License & Type
@@ -21,15 +21,19 @@
 
 ## Packaging and repositories 
 
-| $NAME | <$HOMEPAGE_LINK> |
+
+| $NAME |                  |
 |-----------------------|--|
+| Homepage              | <https://plasma-bigscreen.org/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/bigscreen/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -43,10 +47,12 @@
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            |  |
+| Bugtracker            | <https://github.com/blue-systems/mycroft-bigscreen-img/issues> |
 | Translation           |  |
-| Donations/buy         |  |
-| Social/Contact        |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        | <https://t.me/plasma_bigscreen> |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -64,14 +70,17 @@
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
-* 
-* $OLDER
+* <https://www.cnx-software.com/2020/03/27/kde-plasma-bigscreen-for-tvs-and-tv-boxes-offers-a-linux-alternative-to-android-tv/>
+
+
+## About this page
+
+> This page code can be found here:
+
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os

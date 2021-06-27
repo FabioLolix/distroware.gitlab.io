@@ -1,4 +1,4 @@
-# $NAME
+# hello
 
 ## Screenshot
 
@@ -21,14 +21,18 @@
 
 ## Packaging and repositories 
 
-| $NAME | <$HOMEPAGE_LINK> |
+
+| hello |                  |
 |-----------------------|--|
+| Homepage              | <https://hellosystem.github.io/docs/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Source                |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/helloSystem/> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -45,7 +49,9 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
@@ -59,19 +65,22 @@
 
 ## Build
 
->
+> <https://hellosystem.github.io/docs/developer/building.html>
 
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os

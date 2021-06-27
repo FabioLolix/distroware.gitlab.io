@@ -1,4 +1,4 @@
-# XigmaNAS
+# Iglunix
 
 ## Screenshot
 
@@ -11,7 +11,7 @@
 
 | username | password |  |
 |----------|----------|--|
-| admin | xigmanas |  |
+|  |  |  |
 
 
 ## License & Type
@@ -21,14 +21,18 @@
 
 ## Packaging and repositories 
 
-| $NAME | <$HOMEPAGE_LINK> |
+
+| Iglunix |                  |
 |-----------------------|--|
+| Homepage              | <https://iglunix.xyz/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Source                |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/iglunix/iglunix> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -45,7 +49,9 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
@@ -64,14 +70,17 @@
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os

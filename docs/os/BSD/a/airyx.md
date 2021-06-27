@@ -1,4 +1,4 @@
-# XigmaNAS
+# airyx
 
 ## Screenshot
 
@@ -11,7 +11,7 @@
 
 | username | password |  |
 |----------|----------|--|
-| admin | xigmanas |  |
+|  |  |  |
 
 
 ## License & Type
@@ -21,15 +21,19 @@
 
 ## Packaging and repositories 
 
-| $NAME | <$HOMEPAGE_LINK> |
+
+| airyx |                  |
 |-----------------------|--|
+| Homepage              | <https://airyx.org/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Source                |  |
-| Download              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/mszoek/airyx> |
+| Download              | <https://github.com/mszoek/airyx/releases> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -39,14 +43,16 @@
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
-| IRC                   |  |
+| IRC                   | <https://web.libera.chat/?channel=#airyx> |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
-| Social/Contact        |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        | <https://twitter.com/AiryxOS> |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -64,14 +70,17 @@
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
