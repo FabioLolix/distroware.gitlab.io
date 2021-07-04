@@ -1,4 +1,4 @@
-# PureOS
+# glaucus
 
 ## Screenshot
 
@@ -9,9 +9,9 @@
 
 > Developed by
 
-| username | password |  |
+| username | password | note |
 |----------|----------|--|
-|  |  |  |
+| root |  | no password |
 
 
 ## License & Type
@@ -22,19 +22,19 @@
 ## Packaging and repositories 
 
 
-| PureOS |                  |
+| glaucus |                  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.glaucuslinux.org/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Independent |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              | <https://pureos.net/download/> |
-| Release model         |  |
+| Source                | <https://github.com/glaucuslinux/glaucus> |
+| Download              | <https://www.glaucuslinux.org/download.html> |
+| Release model         | Rolling |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
@@ -46,8 +46,8 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://tracker.pureos.net/w/> |
-| Bugtracker            | <https://tracker.pureos.net/> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |

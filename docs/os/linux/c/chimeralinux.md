@@ -1,4 +1,4 @@
-# PureOS
+# Chimera Linux
 
 ## Screenshot
 
@@ -22,9 +22,9 @@
 ## Packaging and repositories 
 
 
-| PureOS |                  |
+| Chimera Linux |                  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://chimera-linux.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -32,8 +32,8 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              | <https://pureos.net/download/> |
+| Source                | <https://github.com/chimera-linux> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -46,8 +46,8 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://tracker.pureos.net/w/> |
-| Bugtracker            | <https://tracker.pureos.net/> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |

@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> Yet to be released distro for Pinephone based on FreeBSD
+> Yet to be released
 
-> Developed by
+> Developed by Fivnex LLC
 
 | username | password |  |
 |----------|----------|--|
@@ -32,7 +32,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/fivnex> |
+| Source                | <https://github.com/Potabi> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -47,12 +47,12 @@
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            |  |
+| Bugtracker            | <https://github.com/Potabi/issues> |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/PotabiMobile> |
+| Social/Contact        | <https://twitter.com/PotabiSystems> |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -71,7 +71,6 @@
 ## Releases
 
 * 
-* Coding started on $DATE
 
 
 ## Media coverage

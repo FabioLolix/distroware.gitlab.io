@@ -1,4 +1,4 @@
-# PureOS
+# $NAME
 
 ## Screenshot
 
@@ -22,7 +22,7 @@
 ## Packaging and repositories 
 
 
-| PureOS |                  |
+| $NAME |                  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
@@ -33,7 +33,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://pureos.net/download/> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -46,8 +46,8 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://tracker.pureos.net/w/> |
-| Bugtracker            | <https://tracker.pureos.net/> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |

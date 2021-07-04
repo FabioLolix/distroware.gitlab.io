@@ -1,4 +1,4 @@
-# PureOS
+# Navy Linux
 
 ## Screenshot
 
@@ -22,9 +22,9 @@
 ## Packaging and repositories 
 
 
-| PureOS |                  |
+| Navy Linux |                  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://navylinux.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -32,8 +32,8 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              | <https://pureos.net/download/> |
+| Source                | <https://git.navylinux.org/explore> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -46,13 +46,13 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://tracker.pureos.net/w/> |
-| Bugtracker            | <https://tracker.pureos.net/> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Social/Contact        | <https://twitter.com/NavyLinux> |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
