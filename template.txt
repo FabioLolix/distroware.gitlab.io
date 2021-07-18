@@ -22,7 +22,7 @@
 ## Packaging and repositories 
 
 
-| $NAME |                  |
+|                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
