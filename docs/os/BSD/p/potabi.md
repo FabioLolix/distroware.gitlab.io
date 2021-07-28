@@ -7,7 +7,7 @@
 
 > Yet to be released
 
-> Developed by Fivnex LLC
+> Developed by Kai Lyons
 
 | username | password |  |
 |----------|----------|--|

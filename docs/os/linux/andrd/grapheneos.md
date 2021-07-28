@@ -1,13 +1,17 @@
-# $NAME
+# GrapheneOS
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> 
 
-> Developed by
+* <https://grapheneos.org/history/#history>
+* <https://grapheneos.org/history/legacy-changelog>
+* <https://grapheneos.org/source>
+
+> Developed by Daniel Micay (thestinger) 
 
 | username | password |  |
 |----------|----------|--|
@@ -21,20 +25,26 @@
 
 ## Packaging and repositories 
 
-| $NAME | <https://grapheneos.org/> |
+
+|                       |  |
 |-----------------------|--|
-| Based on              |  |
+| Homepage              | <https://grapheneos.org/> |
+| Homepage backup       |  |
+| Based on              | AOSP |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/GrapheneOS> |
+| Download              | <https://grapheneos.org/releases> |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
-| Release model         |  |
-| Init                  |  |
 | Installer             |  |
-| Source                | <https://github.com/GrapheneOS> |
-| Download              |  |
+| Init                  |  |
+| C library             |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -43,16 +53,18 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
-| Social/Contact        |  |
-| Social                |  |
+| Donations             | <https://grapheneos.org/donate> |
+| Commercial            | N/A |
+| Price                 | N/A |
+| Social/Contact        | <https://grapheneos.org/contact> |
+| Social                | <https://twitter.com/GrapheneOS> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             | <https://en.wikipedia.org/wiki/GrapheneOS> |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  | 
+| In the timeline       |  |
 
 
 ## Build
@@ -62,14 +74,17 @@
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
+* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
