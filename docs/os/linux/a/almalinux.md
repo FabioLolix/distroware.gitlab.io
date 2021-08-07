@@ -1,4 +1,4 @@
-# Navy Linux
+# AlmaLinux OS
 
 ## Screenshot
 
@@ -22,41 +22,42 @@
 ## Packaging and repositories 
 
 
-| Navy Linux |                  |
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://navylinux.org/> |
+| Homepage              | <https://almalinux.org/> |
 | Homepage backup       |  |
 | Based on              | RHEL |
 | Status                | Active |
-| Architecture          |  |
+| Architecture          | x86_64, aarch64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.navylinux.org/explore> |
-| Download              | <https://navylinux.org/download/> |
+| Source                | <https://github.com/AlmaLinux/> |
+| Download              | <https://mirrors.almalinux.org/isos.html> |
 | Release model         | Fixed |
 | Packaging             | RPM |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
-| Language              | English |
-| Country               | USA |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://navylinux.org/wiki/> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/NavyLinux> |
-| Social                |  |
+| Social/Contact        | hello at almalinux.org |
+| Social                | <https://twitter.com/almalinux> |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=navy> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=alma> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |

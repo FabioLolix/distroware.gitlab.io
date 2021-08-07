@@ -1,11 +1,11 @@
-# Navy Linux
+# VzLinux
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> The dedicated page https://www.virtuozzo.com/vzlinux.html redirect to https://www.virtuozzo.com/
 
 > Developed by
 
@@ -22,41 +22,43 @@
 ## Packaging and repositories 
 
 
-| Navy Linux |                  |
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://navylinux.org/> |
+| Homepage              | <https://www.virtuozzo.com/> |
 | Homepage backup       |  |
 | Based on              | RHEL |
-| Status                | Active |
+| Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.navylinux.org/explore> |
-| Download              | <https://navylinux.org/download/> |
-| Release model         | Fixed |
-| Packaging             | RPM |
+| Source                | src.rpm only |
+| Download              | <http://repo.virtuozzo.com/vzlinux/> |
+| Release model         |  |
+| Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
-| Language              | English |
-| Country               | USA |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://navylinux.org/wiki/> |
+| Docs                  | <https://docs.virtuozzo.com/virtuozzo_linux_8_quick_start_guide/index.html> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/NavyLinux> |
-| Social                |  |
-| Social                |  |
+| Social/Contact        |  |
+| Social                | <https://www.linkedin.com/company/virtuozzo> |
+| Social                | <https://twitter.com/virtuozzoinc> |
+| Social                | <https://www.facebook.com/VirtuozzoInc/> |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=navy> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vz> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |

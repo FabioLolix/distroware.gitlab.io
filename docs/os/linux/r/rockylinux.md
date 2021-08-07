@@ -1,4 +1,4 @@
-# Navy Linux
+# Rocky Linux
 
 ## Screenshot
 
@@ -22,41 +22,43 @@
 ## Packaging and repositories 
 
 
-| Navy Linux |                  |
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://navylinux.org/> |
+| Homepage              | <https://rockylinux.org/> |
 | Homepage backup       |  |
 | Based on              | RHEL |
 | Status                | Active |
-| Architecture          |  |
+| Architecture          | x86_64, aarch64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.navylinux.org/explore> |
-| Download              | <https://navylinux.org/download/> |
+| Source                | <https://github.com/rocky-linux> |
+| Download              | <https://rockylinux.org/download/> |
 | Release model         | Fixed |
 | Packaging             | RPM |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
-| Language              | English |
-| Country               | USA |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://forums.rockylinux.org/> |
 | Mailing list          |  |
-| Docs                  | <https://navylinux.org/wiki/> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/NavyLinux> |
-| Social                |  |
-| Social                |  |
+| Social/Contact        |  |
+| Social                | <https://twitter.com/rocky_linux> |
+| Social                | <https://reddit.com/r/rockylinux> |
+| Social                | <https://chat.rockylinux.org/> |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=navy> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=rocky> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
