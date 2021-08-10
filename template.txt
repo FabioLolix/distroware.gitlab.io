@@ -38,6 +38,7 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
 | Core utils            |  |
