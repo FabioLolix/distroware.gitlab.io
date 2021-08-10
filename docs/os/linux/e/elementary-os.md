@@ -51,7 +51,7 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             | <https://www.patreon.com/elementary> |
+| Donations             | <https://www.patreon.com/elementary> <https://github.com/sponsors/elementary> |
 | Commercial            | pay what you want |
 | Price                 | pay what you want |
 | Social/Contact        |  |
@@ -88,5 +88,5 @@
 
 > This page code can be found here:
 
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os>
