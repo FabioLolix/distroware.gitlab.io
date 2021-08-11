@@ -1,4 +1,4 @@
-# $NAME
+# Mandriva Linux
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Developed by Mandriva S.A.
 
 | username | password |  |
 |----------|----------|--|
@@ -19,37 +19,47 @@
 >
 
 
-## Packaging and repositories 
+## Packaging and repositories
 
-| $NAME | <$HOMEPAGE_LINK> |
+
+|                       |  |
 |-----------------------|--|
-| Based on              |  |
-| Status                |  |
+| Homepage              | - |
+| Homepage backup       | <https://web.archive.org/web/20150523021945/http://www.mandriva.com/en/products-services/mbs/technical-specifications/> |
+| Based on              | Independent (originally forked from Red Hat) |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Packaging             |  |
-| Package management    |  |
-| Release model         |  |
-| Init                  |  |
-| Installer             |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Boot                  |  |
+| Init                  |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | France |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=mandriva> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Mandriva_Linux> |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -62,14 +72,17 @@
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/m/mandriva.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/m/mandriva.m>
