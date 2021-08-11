@@ -88,5 +88,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/e/elementary-os.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/e/elementary-os.md>

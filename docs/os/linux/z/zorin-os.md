@@ -18,6 +18,9 @@
 
 > Commercial (Ultimate) and freeware (Core, Lite, Education)
 
+> The purchase is per major version, offer installation support, premium desktop layouts
+> and offer an Ultimate Lite edition for older computers.
+
 
 ## Packaging and repositories
 
@@ -25,6 +28,7 @@
 * https://launchpad.net/~zorinos/+archive/ubuntu/apps/+packages
 * https://launchpad.net/~zorinos/+archive/ubuntu/patches/+packages
 * https://launchpad.net/~zorinos/+archive/ubuntu/drivers/+packages
+* https://github.com/ZorinOS
 
 
 |                       |  |
@@ -32,10 +36,10 @@
 | Homepage              | <https://zorinos.com/> |
 | Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Status                | Active |
+| Architecture          | x86_64 |
 | Category              | Desktop |
-| Desktop (default)     |  |
+| Desktop (default)     | GNOME, XFCE |
 | Desktop (available)   |  |
 | Source                | <https://launchpad.net/~zorinos> <https://github.com/ZorinOS> |
 | Download              | <https://zorinos.com/download/> <https://sourceforge.net/projects/zorin-os/files/>|
@@ -56,7 +60,7 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           | <https://poeditor.com/join/project?hash=KQlrs233gH> |
-| Donations             |  |
+| Donations             | - |
 | Commercial            | Yes |
 | Price                 | €39 (major version) |
 | Social/Contact        | <https://zorinos.com/about/#contact> |
@@ -65,14 +69,14 @@
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=zorin> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Zorin_OS> |
-| on LWN.net            |  |
+| on LWN.net            | Yes |
 | Repology              |  |
 | In the timeline       | Yes |
 
 
 ## Build
 
->
+> No info found
 
 
 ## Releases
@@ -89,5 +93,5 @@
 
 > This page code can be found here:
 
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/z/zorin-os.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/z/zorin-os.md>
