@@ -14,64 +14,79 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+>
+
+* <https://github.com/joyent/smartos-live/>
+* <https://github.com/joyent/illumos-joyent>
+* <https://github.com/joyent/illumos-extra>
+
+build: <https://github.com/joyent/smartos-live/blob/master/README.md>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              | <https://www.joyent.com/smartos> |
+| Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Status                | Active |
+| Architecture          | x86_64 |
 | Category              |  |
-| Desktop               |  |
-| Source                |  |
-| Download              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/joyent/smartos-live/> |
+| Download              | <https://wiki.smartos.org/download-smartos/> |
 | Release model         |  |
 | Packaging             |  |
-| Package management    |  |
+| Package management    | pkgsrc |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://wiki.smartos.org/> |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| on LWN.net            |  |
+| Distrowatch           | <https://distrowatch.com/smartos> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/SmartOS> |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/s/smartos.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/s/smartos.md>

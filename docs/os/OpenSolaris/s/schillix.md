@@ -1,4 +1,4 @@
-# $NAME
+# SchilliX
 
 ## Screenshot
 
@@ -7,35 +7,45 @@
 
 >
 
-> Developed by
+> Developed by Jörg Schilling
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
+
+> CDDL
+
+
+## Packaging, sources, repositories and building
 
 >
 
 
-## Packaging and repositories 
+## Table
 
-| $NAME | <$HOMEPAGE_LINK> |
+|                       |  |
 |-----------------------|--|
+| Homepage              | <http://schillix.sourceforge.net/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
-| Release model         |  |
+| Download              | <https://sourceforge.net/projects/schillix/files/> |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -45,33 +55,32 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=schillix> |
 | Wikipedia             |  |
-| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/s/schillix.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/s/schillix.md>

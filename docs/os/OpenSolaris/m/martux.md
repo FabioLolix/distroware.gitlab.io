@@ -1,4 +1,4 @@
-# $NAME
+# MartUX
 
 ## Screenshot
 
@@ -14,28 +14,38 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -45,11 +55,13 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
+| ArchiveOS             | <https://archiveos.org/martux/> |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | on LWN.net            |  |
@@ -57,21 +69,19 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/m/martux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/m/martux.md>

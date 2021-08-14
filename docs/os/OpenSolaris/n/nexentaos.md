@@ -1,41 +1,51 @@
-# $NAME
+# Nexenta OS
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Also know as Nexenta Core Platform
 
-> Developed by
+> Developed by Nexenta Systems
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              | www.nexenta.org |
+| Homepage backup       | <https://web.archive.org/web/20110923152417/http://www.nexenta.org/> |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -45,33 +55,32 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| on LWN.net            |  |
+| ArchiveOS             | <https://archiveos.org/nexentaos/> |
+| Distrowatch           | <https://distrowatch.com/nexenta> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Nexenta_OS> |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/n/nexentaos.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/n/nexentaos.md>

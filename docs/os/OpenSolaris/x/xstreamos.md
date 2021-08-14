@@ -1,4 +1,4 @@
-# $NAME
+# XStreamOS
 
 ## Screenshot
 
@@ -7,71 +7,80 @@
 
 >
 
-> Developed by
+> Developed by Sonicle S.r.l.
 
 | username | password |  |
 |----------|----------|--|
-|  |  |  |
+| sonicle | sonicle |  |
 
 
-## License & Type
+## License and type
+
+> CDDL
+
+
+## Packaging, sources, repositories and building
 
 >
 
 
-## Packaging and repositories 
+## Table
 
-| $NAME | <$HOMEPAGE_LINK> |
+|                       |  |
 |-----------------------|--|
+| Homepage              | <http://www.sonicle.com/xstreamos/> |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Source                |  |
-| Download              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://github.com/sonicle/xstreamos-illumos-gate> |
+| Download              | <https://sourceforge.net/projects/xstreamos/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Italy |
 | IRC                   |  |
 | Forum                 |  |
-| Mailing list          |  |
+| Mailing list          | <http://lists.sonicle.com/> |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=xstreamos> |
 | Wikipedia             |  |
-| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/x/xstreamos.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/x/xstreamos.md>

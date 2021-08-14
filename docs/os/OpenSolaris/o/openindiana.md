@@ -1,4 +1,4 @@
-# $NAME
+# OpenIndiana
 
 ## Screenshot
 
@@ -14,64 +14,73 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop               |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
-| Packaging             |  |
-| Package management    |  |
+| Homepage              | <https://www.openindiana.org/> |
+| Homepage backup       |  |
+| Based on              | illumos |
+| Status                | Active |
+| Architecture          | x86_64 |
+| Category              | Desktop, Server |
+| Desktop (default)     | Mate, cli |
+| Desktop (available)   |  |
+| Source                | <https://github.com/OpenIndiana> |
+| Download              | <https://dlc.openindiana.org/> |
+| Release model         | Fixed |
+| Packaging             | IPS |
+| Package management    | pkg5 |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
-| Compiler              |  |
+| Core utils            |  |
+| Compiler              | GCC |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
+| Country               | USA |
+| IRC                   | <irc://irc.libera.chat/openindiana> |
 | Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
+| Mailing list          | <https://openindiana.org/mailman/listinfo> |
+| Docs                  | <https://docs.openindiana.org/handbook/getting-started/> |
+| Bugtracker            | <https://www.illumos.org/projects/openindiana/issues> |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            | No |
+| Price                 | - |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/openindiana> |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| on LWN.net            |  |
+| Distrowatch           | <https://distrowatch.com/openindiana> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/OpenIndiana> |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/o/openindiana.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/o/openindiana.md>

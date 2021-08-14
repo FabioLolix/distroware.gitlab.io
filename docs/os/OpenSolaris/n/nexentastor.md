@@ -1,77 +1,86 @@
-# $NAME
+# NexentaStor
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Require registration for trial license key
 
-> Developed by
+> Developed by Nexenta Systems
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
+
+> Commercial proprietary
+
+
+## Packaging, sources, repositories and building
 
 >
 
 
-## Packaging and repositories 
+## Table
 
-| $NAME | <$HOMEPAGE_LINK> |
+|                       |  |
 |-----------------------|--|
+| Homepage              | <https://nexenta.com/products/nexentastor> |
+| Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
+| Status                | Active |
 | Architecture          |  |
-| Category              |  |
-| Desktop               |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
+| Category              | NAS |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | No |
+| Download              | <https://nexenta.com/downloads> |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://nexenta.com/products/documentation> |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             | - |
+| Commercial            | Yes |
+| Price                 | Contact sales |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://www.youtube.com/watch?v=gbIWB1QK7qA&list=PLlXP6v5WL0ZQRIzhF5ERIq22ReWAmIESW> |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| on LWN.net            |  |
+| Distrowatch           | <https://distrowatch.com/nexentastor> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/NexentaStor> |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/n/nexentastor.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/n/nexentastor.md>

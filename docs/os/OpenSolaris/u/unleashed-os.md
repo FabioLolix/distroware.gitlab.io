@@ -1,36 +1,75 @@
-### The Unleashed Operating System
+# The Unleashed Operating System
+
+## Screenshot
+
+
+## Description and history
 
 >
->
->
-> Username:
->
-> Password:
 
-| The Unleashed Operating System | https://www.unleashed-os.org/ |
-|--------------------|--|
-| Based on           | Illumos |
-| Architecture       | x86_64 |
-| Category           |  |
-| Desktop            |  |
-| Language           |  |
-| Packages           |  |
-| Package management |  |
-| Release model      |  |
-| Init               |  |
-| Country            |  |
-| Source | https://repo.or.cz/unleashed.git |
-| Download | https://www.unleashed-os.org/releases/ |
-| IRC | ircs://irc.freenode.net:6697/unleashed |
-| Forum |  |
-| Mailing list | [devel](http://lists.31bits.net/listinfo/devel) [commit](http://lists.31bits.net/listinfo/commits) |
-| Docs | https://repo.or.cz/unleashed.git/tree/HEAD:/docs |
-| Bugtracker |  |
-| Donations/buy |  |
-| Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
+> Developed by
 
-#### Releases
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
+
+
+## License and type
+
+>
+
+
+## Packaging, sources, repositories and building
+
+>
+
+
+## Table
+
+|                       |  |
+|-----------------------|--|
+| Homepage              | <https://www.unleashed-os.org/> |
+| Homepage backup       |  |
+| Based on              | illumos |
+| Status                | Discontinued |
+| Architecture          |  |
+| Category              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                | <https://repo.or.cz/unleashed.git> |
+| Download              | <https://www.unleashed-os.org/releases/> |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Boot                  |  |
+| Init                  |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
+| Language              |  |
+| Country               |  |
+| IRC                   |  |
+| Forum                 |  |
+| Mailing list          | [devel](http://lists.31bits.net/listinfo/devel) [commits](http://lists.31bits.net/listinfo/commits) |
+| Docs                  | <https://repo.or.cz/unleashed.git/tree/HEAD:/docs> |
+| Bugtracker            |  |
+| Translation           |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             |  |
+| on LWN.net            |  |
+| Repology              |  |
+| In the timeline       |  |
+
+
+## Releases
 
 * 1.4 (2020.04.04)
 * 1.3
@@ -39,3 +78,15 @@
 * 1.0
 * 1.0-rc1
 
+
+## Media coverage
+
+* 
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>

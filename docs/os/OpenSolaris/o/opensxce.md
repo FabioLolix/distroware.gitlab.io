@@ -1,4 +1,4 @@
-# $NAME
+# OpenSXCE
 
 ## Screenshot
 
@@ -7,71 +7,80 @@
 
 >
 
-> Developed by
+> Created by Martin Bochnig
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+> Website says to be open source there are no sources
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Based on              |  |
+| Homepage              | <http://svr4.opensxce.org/> |
+| Homepage backup       |  |
+| Based on              | OpenSolaris |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  |  |
 | Init                  |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Germany |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
+| ArchiveOS             | <https://archiveos.org/opensxce/> |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/o/opensxce.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/o/opensxce.md>
