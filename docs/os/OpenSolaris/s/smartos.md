@@ -65,7 +65,7 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/JoyentSmartOS> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/smartos> |
