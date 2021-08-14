@@ -89,5 +89,5 @@ Build: <https://omnios.org/dev/build_instructions.html>
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/o/omnios.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/o/omnios.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/o/omnios.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/o/omnios.md>

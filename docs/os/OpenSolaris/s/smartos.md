@@ -88,5 +88,5 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/s/smartos.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/s/smartos.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/s/smartos.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/s/smartos.md>

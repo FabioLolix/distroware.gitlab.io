@@ -84,6 +84,5 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/d/dilos.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/d/dilos.md>
-
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/d/dilos.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/d/dilos.md>

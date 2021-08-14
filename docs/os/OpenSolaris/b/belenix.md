@@ -82,5 +82,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/b/belenix.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/b/belenix.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/b/belenix.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/b/belenix.md>

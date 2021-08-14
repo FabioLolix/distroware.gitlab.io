@@ -86,5 +86,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/t/tribblix.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/t/tribblix.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/blob/master/docs/os/OpenSolaris/t/tribblix.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/t/tribblix.md>

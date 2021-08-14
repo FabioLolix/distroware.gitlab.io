@@ -92,5 +92,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/e/eon-zfs-storage.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/e/eon-zfs-storage.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/e/eon-zfs-storage.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/e/eon-zfs-storage.md>

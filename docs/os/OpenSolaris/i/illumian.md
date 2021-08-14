@@ -82,5 +82,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/i/illumian.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/i/illumian.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/i/illumian.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/i/illumian.md>

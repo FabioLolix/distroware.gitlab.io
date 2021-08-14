@@ -82,5 +82,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/o/opensxce.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/o/opensxce.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/o/opensxce.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/o/opensxce.md>

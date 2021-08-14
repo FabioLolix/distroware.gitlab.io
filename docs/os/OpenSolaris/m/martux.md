@@ -83,5 +83,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/m/martux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/m/martux.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/m/martux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/m/martux.md>
