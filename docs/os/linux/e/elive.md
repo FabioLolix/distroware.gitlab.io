@@ -71,7 +71,7 @@
 
 ## Releases
 
-* 
+* 3.8.22 beta <https://www.elivecd.org/releases/beta/elive-3-8-22-beta-released/>
 
 
 ## Media coverage
