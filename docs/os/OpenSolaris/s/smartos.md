@@ -1,4 +1,4 @@
-# $NAME
+# SmartOS
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Developed by Joyent (now part of Samsung)
 
 | username | password |  |
 |----------|----------|--|
