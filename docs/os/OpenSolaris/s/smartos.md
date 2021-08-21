@@ -50,6 +50,7 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 | Installer             |  |
 | Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |

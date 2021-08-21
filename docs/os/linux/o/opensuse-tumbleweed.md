@@ -1,4 +1,4 @@
-# MartUX
+# $NAME
 
 ## Screenshot
 
@@ -31,7 +31,7 @@
 | Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
-| Status                | Discontinued |
+| Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -62,7 +62,7 @@
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             | <https://archiveos.org/martux/> |
+| ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | on LWN.net            |  |
@@ -84,5 +84,5 @@
 
 > This page code can be found here:
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/m/martux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/m/martux.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>

@@ -46,6 +46,7 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 | Installer             |  |
 | Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              | GCC |

@@ -14,27 +14,40 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| $NAME | <$HOMEPAGE_LINK> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
-| Packaging             |  |
-| Package management    |  |
-| Release model         |  |
-| Init                  |  |
-| Installer             |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Boot                  |  |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -43,7 +56,9 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
@@ -52,24 +67,22 @@
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  | 
-
-
-## Build
-
->
+| In the timeline       |  |
 
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+> This page code can be found here:
+
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>

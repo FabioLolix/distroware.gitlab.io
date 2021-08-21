@@ -50,6 +50,7 @@ Build: <https://omnios.org/dev/build_instructions.html>
 | Installer             | Kayak |
 | Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |

@@ -54,6 +54,7 @@
 | Installer             |  |
 | Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
@@ -71,7 +72,7 @@
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
+| ArchiveOS             | <https://archiveos.org/eon/> |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | Repology              |  |
