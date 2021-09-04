@@ -7,7 +7,7 @@
 
 >
 
-> Development oversee by The AlmaLinux OS Foundation a 501(c)(6) non-profit backed by CloudLinux Inc. and several others
+> Development oversee by The AlmaLinux OS Foundation a 501(c)(6) non-profit, backed by CloudLinux Inc. and several others
 
 | username | password |  |
 |----------|----------|--|
@@ -17,6 +17,8 @@
 ## License and type
 
 > FOSS
+
+> Subject to the U.S. Export Administration Regulations (the “EAR”) 
 
 
 ## Packaging, sources, repositories and building
@@ -52,8 +54,8 @@
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | English |
+| Country               | USA |
 | IRC                   | <ircs://irc.libera.chat:6697/almalinux> |
 | Forum                 | <https://almalinux.discourse.group/> |
 | Mailing list          |  |

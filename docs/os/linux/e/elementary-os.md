@@ -14,13 +14,19 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
+>
+
+> build scripts at <https://github.com/elementary/os>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
@@ -40,6 +46,7 @@
 | Installer             | elementary Installer (pre 6.0 ubiquity) |
 | Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
@@ -67,11 +74,6 @@
 | on LWN.net            | Yes |
 | Repology              |  |
 | In the timeline       | Yes |
-
-
-## Build
-
->
 
 
 ## Releases
