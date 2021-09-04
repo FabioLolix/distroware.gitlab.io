@@ -88,5 +88,5 @@
 ## About this page
 
 * This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/a/almalinux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/a/almalinux.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/a/almalinux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/a/almalinux.md>
