@@ -80,9 +80,9 @@
 
 ## Media coverage
 
-* https://www.theregister.com/2021/06/16/hellosystem_maclike_freebsd_project_05/
-* https://www.osnews.com/story/133003/hellosystem-aims-to-bring-some-macos-to-freebsd/
-* https://www.phoronix.com/scan.php?page=news_item&px=helloSystem-BSD
+* <https://www.theregister.com/2021/06/16/hellosystem_maclike_freebsd_project_05/>
+* <https://www.osnews.com/story/133003/hellosystem-aims-to-bring-some-macos-to-freebsd/>
+* <https://www.phoronix.com/scan.php?page=news_item&px=helloSystem-BSD>
 
 
 ## About this page
