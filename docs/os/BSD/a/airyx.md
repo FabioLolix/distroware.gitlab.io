@@ -16,7 +16,7 @@
 
 ## License and type
 
-> BSD 3-Clause License
+> BSD 2-Clause License
 
 
 ## Packaging, sources, repositories and building
