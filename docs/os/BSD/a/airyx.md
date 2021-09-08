@@ -7,22 +7,27 @@
 
 >
 
-> Developed by
+> Developed by Zoe Knox
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
+
+> BSD 3-Clause License
+
+
+## Packaging, sources, repositories and building
 
 >
 
 
-## Packaging and repositories 
+## Table
 
 
-| airyx |                  |
+|                       |  |
 |-----------------------|--|
 | Homepage              | <https://airyx.org/> |
 | Homepage backup       |  |
@@ -38,10 +43,12 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
+| Boot                  | rc |
 | Init                  |  |
-| C library             |  |
+| Shell                 |  |
+| C library             | FreeBSD libc |
 | Compiler              |  |
-| Language              |  |
+| Language              | English |
 | Country               |  |
 | IRC                   | <https://web.libera.chat/?channel=#airyx> |
 | Forum                 |  |
@@ -50,8 +57,8 @@
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | No |
+| Price                 | - |
 | Social/Contact        | <https://twitter.com/AiryxOS> |
 | Social                |  |
 | Social                |  |
@@ -63,11 +70,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -75,12 +77,11 @@
 
 ## Media coverage
 
-* 
+* https://console.substack.com/p/console-67
 
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found here:
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/BSD/a/airyx.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/BSD/a/airyx.md>

@@ -9,43 +9,55 @@
 
 > Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
+> Filer file manager is used for managing [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles)
+
 > Developed by [probonopd](https://github.com/probonopd) and [contributors](https://hellosystem.github.io/docs/developer/acknowledgements.html)
 
 
 ## License & Type
 
-[BSD 3-Clause License](https://github.com/helloSystem/ISO/blob/experimental/LICENSE)
+> [BSD 3-Clause License](https://github.com/helloSystem/ISO/blob/experimental/LICENSE)
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
+
+> <https://hellosystem.github.io/docs/developer/building>
+
+> Build instruction for aarch64 are [available](https://hellosystem.github.io/docs/developer/rpi))
+
+## Table
 
 
-| hello |                  |
+|                       |  |
 |-----------------------|--|
 | Homepage              | <https://hellosystem.github.io/> |
 | Homepage backup       |  |
-| Based on              | <https://www.freebsd.org/>, <https://github.com/furybsd/furybsd-livecd>, and other components |
+| Based on              | FreeBSD, FuryBSD |
 | Status                | Active |
-| Architecture          | x86_64 (instructions for aarch64 [available](https://hellosystem.github.io/docs/developer/rpi)) |
-| Category              |  |
+| Architecture          | x86_64 |
+| Category              | Desktop |
 | Desktop (default)     | helloDesktop |
 | Desktop (available)   | All desktops available in FreeBSD ports and packages |
 | Source                | <https://github.com/helloSystem/> |
 | Download              | <https://github.com/helloSystem/ISO/releases> |
 | Release model         |  |
-| Packaging             | Operating system: Installable Live ISOs, applications: [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles) (in addition to FreeBSD ports and packages) |
-| Package management    | Filer file manager for managing [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles) (in addition to FreeBSD ports and packages) |
+| Packaging             | [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles) |
+| Package management    | Filer,  |
 | Installer             | [Install FreeBSD](https://hellosystem.github.io/docs/user/components/utilities/install) graphical installer |
-| Init                  |  |
+| Boot                  |  |
+| Init                  | rc |
+| Shell                 |  |
 | C library             | FreeBSD libc |
 | Compiler              | Like FreeBSD |
-| Language              | Like FreeBSD; Python and C++ with Qt |
+| Language              | English |
 | Country               | Global |
 | IRC                   | #helloSystem on irc.libera.chat, bridged to [Matrix](https://matrix.to/#/%23helloSystem:matrix.org) |
 | Forum                 | n/a |
 | Mailing list          | n/a |
 | Docs                  | <https://hellosystem.github.io/docs/> |
-| Bugtracker            | https://github.com/helloSystem/ISO/issues |
+| Bugtracker            | <https://github.com/helloSystem/ISO/issues> |
 | Translation           | <https://hosted.weblate.org/projects/hellosystem/> |
 | Donations             | n/a |
 | Commercial            | No |
@@ -55,15 +67,10 @@
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/List_of_BSD_operating_systems> |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
-
-
-## Build
-
-> <https://hellosystem.github.io/docs/developer/building>
 
 
 ## Releases
@@ -80,7 +87,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found here:
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/BSD/h/hellosystem.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/BSD/h/hellosystem.md>
