@@ -46,7 +46,7 @@
 | Packaging             | .deb, AppImage |
 | Package management    | dpkg, apt, NX Software Center |
 | Installer             | Calamares |
-| Boot                  | BIOS,UEFI  |
+| Boot                  | BIOS, UEFI  |
 | Init                  |  |
 | Shell                 | zsh |
 | C library             | glibc |
