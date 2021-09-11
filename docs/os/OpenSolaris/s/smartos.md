@@ -27,6 +27,9 @@
 * <https://github.com/joyent/illumos-joyent>
 * <https://github.com/joyent/illumos-extra>
 
+* Latest download: <https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/latest.html>
+* All release, with changelog: <http://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html>
+
 build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 
 
@@ -44,7 +47,7 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 | Desktop (available)   |  |
 | Source                | <https://github.com/joyent/smartos-live/> |
 | Download              | <https://wiki.smartos.org/download-smartos/> |
-| Release model         |  |
+| Release model         | Rolling |
 | Packaging             |  |
 | Package management    | pkgsrc |
 | Installer             |  |
@@ -87,7 +90,6 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 
 ## About this page
 
-> This page code can be found here:
-
+* This page code can be found here:
 * <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/s/smartos.md>
 * <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/s/smartos.md>
