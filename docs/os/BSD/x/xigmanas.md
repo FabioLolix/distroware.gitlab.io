@@ -12,6 +12,7 @@
 | username | password |  |
 |----------|----------|--|
 | admin | xigmanas |  |
+| admin | admin    | phpVitualBox login |
 
 
 ## License & Type
