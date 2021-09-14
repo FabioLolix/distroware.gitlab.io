@@ -36,7 +36,7 @@
 | Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://midnightbsd.org/cgi-bin/viewvc.cgi/> |
+| Source                | <https://github.com/midnightbsd/src/> |
 | Download              | <https://midnightbsd.org/download/> |
 | Release model         | Fixed |
 | Packaging             |  |
@@ -47,10 +47,10 @@
 | Shell                 |  |
 | C library             | FreeBSD libc |
 | Core utils            |  |
-| Compiler              |  |
+| Compiler              | LLVM |
 | Language              | English |
 | Country               | USA |
-| IRC                   |  |
+| IRC                   | Libera Chat #midnightbsd |
 | Forum                 |  |
 | Mailing list          | <https://midnightbsd.org/mailman/listinfo/> |
 | Docs                  | <https://midnightbsd.org/documentation/> |
