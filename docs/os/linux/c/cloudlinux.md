@@ -40,7 +40,7 @@
 | Architecture          | x86_64 |
 | Category              | Server |
 | Desktop (default)     |  |
-| Desktop (available)   |  |
+| Desktop (available)   | same as parent |
 | Source                | <https://repo.cloudlinux.com/cloudlinux/sources/> |
 | Download              | <https://repo.cloudlinux.com/cloudlinux/8/iso/x86_64/> |
 | Release model         | Fixed |

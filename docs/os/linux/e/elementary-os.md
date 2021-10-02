@@ -88,7 +88,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/e/elementary-os.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/e/elementary-os.md>
+* This page code can be found here:
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/e/elementary-os.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/e/elementary-os.md>

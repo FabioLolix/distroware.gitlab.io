@@ -1,4 +1,4 @@
-# Ubuntu Kylin
+# COSIX Linux
 
 ## Screenshot
 
@@ -83,5 +83,5 @@
 ## About this page
 
 * This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/u/ubuntu-kylin.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/u/ubuntu-kylin.md>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/c/cosix-linux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/c/cosix-linux.md>
