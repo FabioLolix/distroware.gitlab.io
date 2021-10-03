@@ -5,7 +5,9 @@
 
 ## Description and history
 
-> Initially based on Scientific, later rebased on RHEL with full binary compatibility.
+> Based on Scientific for version 6 and 7
+
+> Based on RHEL since version 8 with full binary compatibility.
 
 > Developed by EuroLinux Sp. z o.o
 
@@ -36,7 +38,7 @@
 |-----------------------|--|
 | Homepage              | <https://en.euro-linux.com/eurolinux/> |
 | Homepage backup       |  |
-| Based on              | RHEL |
+| Based on              | RHEL, Scientific (v7) |
 | Status                | Active |
 | Architecture          | x86_64 |
 | Category              | Server |
@@ -48,21 +50,23 @@
 | Packaging             | RPM |
 | Package management    | yum/dnf |
 | Installer             | anaconda |
+| Boot                  |  |
 | Init                  | systemd |
+| Shell                 |  |
 | C library             | glibc |
 | Core utils            | GNU |
 | Compiler              | GCC |
 | Language              | English |
 | Country               | Poland |
 | IRC                   | - |
-| Forum                 | <https://community.euro-linux.com/> |
+| Forum                 | - |
 | Mailing list          | - |
 | Docs                  | <https://docs.euro-linux.com/> |
 | Bugtracker            | <https://github.com/EuroLinux/eurolinux-distro-bugs-and-rfc> |
 | Translation           | - |
 | Donations             | - |
 | Commercial            | Yes |
-| Price                 | Contact at <https://en.euro-linux.com/eurolinux/pricing-and-orders/> |
+| Price                 | Contact at <https://en.euro-linux.com/eurolinux/pricing-and-orders/>, starting from 139€ per server, 1 year |
 | Social/Contact        | <https://en.euro-linux.com/company/contact/> |
 | Social                | <https://pl.linkedin.com/company/eurolinux-sp.-z-o.o.> |
 | Social                | <https://www.youtube.com/channel/UCwHwxWySqqWlB4YajqTBPTg> |
@@ -73,7 +77,7 @@
 | Wikipedia             | - |
 | on LWN.net            | Yes |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       | Yes |
 
 
 ## Releases
