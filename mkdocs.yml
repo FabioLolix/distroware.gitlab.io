@@ -1,4 +1,4 @@
-site_name: Linux, BSD, OpenSolaris info archive
-site_url: https://fabiololix.gitlab.io/
+site_name: Distroware: Linux, BSD, OpenSolaris info archive
+site_url: https://distroware.gitlab.io/
 site_dir: public
 theme: readthedocs
