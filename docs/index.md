@@ -1,6 +1,8 @@
-# Welcome
+# Welcome to the Distroware Archive
 
 > Welcome to this open archive of Linux, BSD and OpenSolaris based systems and distributions.
+
+* https://distroware.gitlab.io/
 
 ## License
 
@@ -21,11 +23,11 @@ Command for quick reload for local development: mkdocs serve --dirtyreload
 
 ## Contributing
 
-Contributions and informations gathering are very welcome, especially for sources in not English or Italian languages.  
+Contributions and informations gathering are very welcome, especially for sources in not English or Italian languages.
 The site code hosted both on Gitlab and Github (manual bidirectional mirror)
 
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io>
+* <https://gitlab.com/Distroware/distroware.gitlab.io>
+* <https://github.com/FabioLolix/distroware.gitlab.io>
 
 ## Donations
 
