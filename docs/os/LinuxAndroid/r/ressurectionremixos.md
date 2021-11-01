@@ -1,4 +1,4 @@
-# Ressurrection Remix OS
+# $NAME
 
 ## Screenshot
 
@@ -14,27 +14,39 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| Ressurrection Remix OS | <https://resurrectionremix.com/> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
-| Release model         |  |
-| Init                  |  |
 | Installer             |  |
-| Source                | <https://github.com/ResurrectionRemix> |
-| Download              |  |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -43,33 +55,32 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Resurrection_Remix_OS> |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  | 
-
-
-## Build
-
->
+| In the timeline       |  |
 
 
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid//>

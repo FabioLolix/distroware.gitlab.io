@@ -1,4 +1,4 @@
-# Android-x86
+# $NAME
 
 ## Screenshot
 
@@ -14,27 +14,39 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| Android-x86 | <https://www.android-x86.org/> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
-| Release model         |  |
-| Init                  |  |
 | Installer             |  |
-| Source                | <https://osdn.net/projects/android-x86/scm/> |
-| Download              |  |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -43,7 +55,9 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         | <https://www.android-x86.org/donate.html> |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
@@ -55,21 +69,18 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid//>
