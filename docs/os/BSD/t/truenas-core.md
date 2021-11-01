@@ -1,4 +1,4 @@
-# TrueNAS CORE
+# $NAME
 
 ## Screenshot
 
@@ -14,15 +14,19 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| $NAME |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
@@ -30,7 +34,8 @@
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
@@ -38,7 +43,9 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -62,17 +69,18 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
-* Coding started on $DATE
 
 
 ## Media coverage
 
 * 
+
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>

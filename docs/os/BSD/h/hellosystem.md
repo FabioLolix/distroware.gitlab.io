@@ -46,7 +46,6 @@
 | Packaging             | [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles) |
 | Package management    | Filer,  |
 | Installer             | [Install FreeBSD](https://hellosystem.github.io/docs/user/components/utilities/install) graphical installer |
-| Boot                  |  |
 | Init                  | rc |
 | Shell                 |  |
 | C library             | FreeBSD libc |
@@ -87,6 +86,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/BSD/h/hellosystem.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/BSD/h/hellosystem.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>

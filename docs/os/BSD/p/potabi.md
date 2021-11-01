@@ -1,30 +1,34 @@
-# Potabi
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Yet to be released
+>
 
-> Developed by Kai Lyons
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| Potabi |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://potabi.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -32,14 +36,16 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/Potabi> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -47,12 +53,12 @@
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            | <https://github.com/Potabi/issues> |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/PotabiSystems> |
+| Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -61,11 +67,6 @@
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
-
-
-## Build
-
->
 
 
 ## Releases
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>

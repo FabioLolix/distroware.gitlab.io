@@ -47,6 +47,7 @@
 | Init                  |  |
 | Shell                 |  |
 | C library             | FreeBSD libc |
+| Core utils            |  |
 | Compiler              |  |
 | Language              | English |
 | Country               |  |
@@ -82,6 +83,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/BSD/a/airyx.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/BSD/a/airyx.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
