@@ -44,7 +44,6 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 | Packaging             | deb |
 | Package management    | apt, dpkg |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -83,7 +82,6 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/d/dilos.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/d/dilos.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>

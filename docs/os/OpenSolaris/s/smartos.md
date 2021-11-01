@@ -51,7 +51,6 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 | Packaging             |  |
 | Package management    | pkgsrc |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -90,6 +89,6 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-blob/master/docs/os/OpenSolaris/s/smartos.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/blob/master/docs/os/OpenSolaris/s/smartos.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
