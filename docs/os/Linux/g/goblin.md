@@ -1,4 +1,4 @@
-# GobLin GNU/Linux
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Created by Carlos Brys
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,16 +28,16 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://sourceforge.net/p/goblin-gnu-linux/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Devuan |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://sourceforge.net/projects/goblin-gnu-linux/files/> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -71,7 +71,7 @@
 
 ## Releases
 
-* goblin-v1.0.0-mate-amd64.iso (202106101521)
+* 
 
 
 ## Media coverage
@@ -81,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os//>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

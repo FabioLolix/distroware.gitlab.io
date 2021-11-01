@@ -1,4 +1,4 @@
-# Mageia
+# $NAME
 
 ## Screenshot
 
@@ -14,19 +14,23 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.mageia.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Independent (originally forked from Mandriva Linux) |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -38,13 +42,13 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | France |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -58,16 +62,11 @@
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=mageia> |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Mageia> |
+| Distrowatch           |  |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       | Yes |
-
-
-## Build
-
->
+| In the timeline       |  |
 
 
 ## Releases
@@ -82,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/m/mageia.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/m/mageia.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

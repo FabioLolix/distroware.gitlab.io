@@ -1,4 +1,4 @@
-# Home Assistant OS
+# $NAME
 
 ## Screenshot
 
@@ -14,32 +14,38 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Independent, builded with buildroot |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/home-assistant/operating-system> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -63,11 +69,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -75,12 +76,11 @@
 
 ## Media coverage
 
-* https://www.home-assistant.io/blog/2021/06/11/home-assistant-os-release-6/
+* 
 
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

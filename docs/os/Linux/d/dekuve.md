@@ -1,30 +1,34 @@
-# DEKUVE
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Freeware claiming to be open source
+>
 
-> Developed by Denys Kulbii
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| DEKUVE |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -39,10 +43,12 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | Ukraine |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -52,7 +58,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/dekuve> |
+| Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -63,14 +69,9 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* 0.1 2021/05/26
+* 
 
 
 ## Media coverage
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

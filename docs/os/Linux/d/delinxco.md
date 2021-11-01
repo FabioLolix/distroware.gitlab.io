@@ -1,4 +1,4 @@
-# DeLinuxCo
+# $NAME
 
 ## Screenshot
 
@@ -14,17 +14,21 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| DeLinuxCo |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.delinuxco.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -39,7 +43,9 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -63,11 +69,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

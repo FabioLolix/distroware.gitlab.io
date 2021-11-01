@@ -1,30 +1,34 @@
-# Ufficio Zero Linux
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Freeware claiming to be open source. Group of remixes of various distros (Linux Mint, PCLinuxOS, LMDE4, Devuan, Debian, Ubuntu)
+>
 
-> Developed by SIITE SRLS
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| Ufficio Zero Linux |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.ufficiozero.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -39,10 +43,12 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | Italy |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -63,15 +69,9 @@
 | In the timeline       |  |
 
 
-## Build
-
-> N/A created with remixing tool penguin eggs
-
-
 ## Releases
 
 * 
-* Coding started on $DATE
 
 
 ## Media coverage
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

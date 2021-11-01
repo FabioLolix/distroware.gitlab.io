@@ -1,60 +1,86 @@
-### PureOS
+# $NAME
 
-> Not to be confused with PureOS by Purism
+## Screenshot
+
+
+## Description and history
+
 >
-> Live distro based on Debian testing with multilangual support, built with Linux Live scripts.
+
+> Developed by
+
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
+
+
+## License and type
+
 >
-> Come in two editions: Gnome (642MB) and Openbox (356MB)
+
+
+## Packaging, sources, repositories and building
+
 >
-> In the ftp mirror there are source and packages folder
-> 
-> source have a linux-3.6.11 tarball plus zram and aufs3 patches and nothing more
->
-> packages have the builded linux-3.6.11 kernel, .deb only; no repository
-
-> Username:root
->
-> Password:root
->
-> Username:guest
->
-> Password:guest
-
-> Freeware
-
-| PureOS | https://web.archive.org/web/20140104161910/http://pureos.org/ |
-|--------------------|--|
-| Based on           | Debian (testing) |
-| Status             | Discontinued |
-| Architecture       | i386 |
-| Category           | desktop, live medium |
-| Desktop            | Gnome, Openbox |
-| Language           | multilangual |
-| Packages           | .deb |
-| Package management |  |
-| Release model      |  |
-| Init               |  |
-| Country            |  |
-| Code | - |
-| Download | http://ftp5.gwdg.de/pub/linux/debian/pureos/PureOS-7.0/ |
-| IRC |  |
-| Forum |  |
-| Mailing list |  |
-| Docs |  |
-| Bugtracker |  |
-| Donations/buy |  |
-| Social/contact/etc.. |  |
-| ArchiveOS/Distrowatch/Wikipedia |  |
-
-Build: builded with remixing tools (Linux Live Kit)
 
 
-#### Releases
+## Table
 
-* 7.0 2013.03.03
-* 6.0
-* 4.0
-* 3.0
-* 1.1 2009
-* 1.0 (start date 2006.08.5 according to the timeline)
+|                       |  |
+|-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
+| Language              |  |
+| Country               |  |
+| IRC                   |  |
+| Forum                 |  |
+| Mailing list          |  |
+| Docs                  |  |
+| Bugtracker            |  |
+| Translation           |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             |  |
+| on LWN.net            |  |
+| Repology              |  |
+| In the timeline       |  |
 
+
+## Releases
+
+* 
+
+
+## Media coverage
+
+* 
+
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

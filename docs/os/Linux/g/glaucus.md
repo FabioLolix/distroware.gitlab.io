@@ -1,4 +1,4 @@
-# glaucus
+# $NAME
 
 ## Screenshot
 
@@ -9,37 +9,43 @@
 
 > Developed by
 
-| username | password | note |
+| username | password |  |
 |----------|----------|--|
-| root |  | no password |
+|  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| glaucus |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.glaucuslinux.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Independent |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/glaucuslinux/glaucus> |
-| Download              | <https://www.glaucuslinux.org/download.html> |
-| Release model         | Rolling |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -63,11 +69,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

@@ -1,4 +1,4 @@
-# Crystal Linux
+# $NAME
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <http://getcryst.al/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,13 +36,12 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/crystal-linux/> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -60,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                | <https://twitter.com/crystal_linux> |
+| Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
@@ -82,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

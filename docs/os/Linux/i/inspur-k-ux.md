@@ -1,28 +1,32 @@
-# Inspur K-UX
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Send direct message to @InspurServer (Inspur Information) on 2021/04/18
+>
 
-> Developed by Inspur
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| Inspur K-UX |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
@@ -39,7 +43,9 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -57,21 +63,15 @@
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Inspur_K-UX> |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
-* Coding started on $DATE
 
 
 ## Media coverage
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/i/inspur-k-ux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/i/inspur-k-ux.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

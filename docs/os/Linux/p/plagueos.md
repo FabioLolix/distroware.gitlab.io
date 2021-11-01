@@ -1,4 +1,4 @@
-# plagueOS
+# $NAME
 
 ## Screenshot
 
@@ -36,13 +36,12 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.envs.net/WhichDoc/plagueOS> |
-| Download              | <https://git.envs.net/WhichDoc/plagueOS_ISO> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -82,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

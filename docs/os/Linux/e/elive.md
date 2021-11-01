@@ -1,4 +1,4 @@
-# Elive
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Created by Samuel F. Baggen
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,41 +28,41 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.elivecd.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Debian |
-| Status                | Active |
+| Based on              |  |
+| Status                |  |
 | Architecture          |  |
-| Category              | Desktop |
-| Desktop (default)     | Enlightenment |
+| Category              |  |
+| Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/Elive> |
-| Download              | <https://www.elivecd.org/download/> |
-| Release model         | Fixed |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | Belgium |
-| IRC                   | <https://kiwiirc.com/client/irc.libera.chat/?nick=EliveWeb_?#elive> |
-| Forum                 | <https://forum.elivelinux.org/> |
+| Country               |  |
+| IRC                   |  |
+| Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://www.elivecd.org/faqs/#> |
-| Bugtracker            | <https://bugs.elivecd.org/?rel=nofollow> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
-| Donations             | <https://www.elivecd.org/donate/?id=donate-menutop> |
+| Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://www.elivecd.org/contact/> |
-| Social                | <https://twitter.com/elive_linux> |
-| Social                | <http://www.facebook.com/elive/?rel=nofollow> |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=elive> |
+| Distrowatch           |  |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
@@ -71,7 +71,7 @@
 
 ## Releases
 
-* 3.8.22 beta <https://www.elivecd.org/releases/beta/elive-3-8-22-beta-released/>
+* 
 
 
 ## Media coverage
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/e/elive.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/e/elive.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

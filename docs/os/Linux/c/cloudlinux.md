@@ -1,4 +1,4 @@
-# CloudLinux OS
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by CloudLinux Inc.
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -23,56 +23,47 @@
 
 >
 
-* https://repo.cloudlinux.com/cloudlinux/sources/
-* https://repo.cloudlinux.com/cloudlinux/8.4/BaseOS/Source/
-* https://repo.cloudlinux.com/cloudlinux/7/os/Sources/SPackages/
-* https://repo.cloudlinux.com/cloudlinux/6/os/SRPMS/
-
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.cloudlinux.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | RHEL |
-| Status                | Active |
-| Architecture          | x86_64 |
-| Category              | Server |
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
 | Desktop (default)     |  |
-| Desktop (available)   | same as parent |
-| Source                | <https://repo.cloudlinux.com/cloudlinux/sources/> |
-| Download              | <https://repo.cloudlinux.com/cloudlinux/8/iso/x86_64/> |
-| Release model         | Fixed |
-| Packaging             | RPM |
-| Package management    | yum |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
+| Packaging             |  |
+| Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              | English |
-| Country               | USA |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
-| Forum                 | <https://cloudlinux.zendesk.com/hc/en-us/community/topics> |
+| Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://dev.cloudlinux.com/getting-started-with-cloudlinux-os/> |
-| Docs                  | <https://cloudlinux.zendesk.com/hc/en-us/categories/360002375940-CloudLinux-OS> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             | - |
-| Commercial            | Yes |
-| Price                 | starts from $4 per server per month (CloudLinux OS Solo) |
-| Social/Contact        | <https://www.cloudlinux.com/contact-us/> |
-| Social                | <https://www.facebook.com/CloudLinux/> |
-| Social                | <https://twitter.com/cloudlinuxos> |
-| Social                | <https://www.linkedin.com/company/cloudlinux/> |
-| Social                | <https://www.youtube.com/user/CloudLinuxOS> |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/CloudLinux_OS> |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -80,7 +71,7 @@
 
 ## Releases
 
-* CloudLinux OS Solo 8 	Jun 1, 2021
+* 
 
 
 ## Media coverage
@@ -90,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/c/cloudlinux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/c/cloudlinux.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

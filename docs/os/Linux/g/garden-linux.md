@@ -1,4 +1,4 @@
-# Garden Linux
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by Malte Janduda and contributors
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,27 +28,27 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://gardenlinux.io/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Debian |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/gardenlinux> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | Germany |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/g/garden-linux.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/g/garden-linux.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

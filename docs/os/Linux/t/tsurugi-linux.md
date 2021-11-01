@@ -1,4 +1,4 @@
-# TSURUGI Linux
+# $NAME
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://tsurugi-linux.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -42,7 +42,6 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -60,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                | <https://twitter.com/tsurugi_linux> |
+| Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
@@ -82,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os//>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os//>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

@@ -1,4 +1,4 @@
-# Mandriva Linux
+# $NAME
 
 ## Screenshot
 
@@ -7,27 +7,31 @@
 
 >
 
-> Developed by Mandriva S.A.
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | - |
-| Homepage backup       | <https://web.archive.org/web/20150523021945/http://www.mandriva.com/en/products-services/mbs/technical-specifications/> |
-| Based on              | Independent (originally forked from Red Hat) |
-| Status                | Discontinued |
+| Homepage              |  |
+| Homepage backup       |  |
+| Based on              |  |
+| Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -38,13 +42,13 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | France |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -58,16 +62,11 @@
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=mandriva> |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Mandriva_Linux> |
+| Distrowatch           |  |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
-
-
-## Build
-
->
 
 
 ## Releases
@@ -82,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/m/mandriva.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/m/mandriva.m>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

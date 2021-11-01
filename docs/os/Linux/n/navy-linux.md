@@ -1,4 +1,4 @@
-# Navy Linux
+# $NAME
 
 ## Screenshot
 
@@ -14,58 +14,59 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| Navy Linux |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Homepage              | <https://navylinux.org/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | RHEL |
-| Status                | Active |
+| Based on              |  |
+| Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.navylinux.org/explore> |
-| Download              | <https://navylinux.org/download/> |
-| Release model         | Fixed |
-| Packaging             | RPM |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
+| Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
-| Language              | English |
-| Country               | USA |
+| Language              |  |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://navylinux.org/wiki/> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/NavyLinux> |
+| Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=navy> |
+| Distrowatch           |  |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
-
-
-## Build
-
->
 
 
 ## Releases
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

@@ -1,4 +1,4 @@
-# FyshOS
+# $NAME
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://fyshos.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,13 +36,12 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/fynelabs/fyshos> |
-| Download              | <https://github.com/fynelabs/fyshos/releases/tag/testing> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
@@ -82,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/f/fyshos.md>
-* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/f/fyshos.md>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

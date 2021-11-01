@@ -1,4 +1,4 @@
-# dahliaOS
+# $NAME
 
 ## Screenshot
 
@@ -14,27 +14,39 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
-| dahliaOS | <$HOMEPAGE_LINK> |
+>
+
+
+## Table
+
+|                       |  |
 |-----------------------|--|
+| Homepage              |  |
+| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop               |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
-| Release model         |  |
-| Init                  |  |
 | Installer             |  |
-| Source                | <https://github.com/dahlia-os> |
-| Download              | <https://github.com/dahlia-os/releases/releases> |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
@@ -43,9 +55,11 @@
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations/buy         |  |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
-| Social                | <https://twitter.com/realdahliaos> |
+| Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
@@ -55,21 +69,18 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
-* $LAST
 * 
-* $FIRST
-* Coding started on $DATE
 
 
 ## Media coverage
 
-* $NEWER
 * 
-* $OLDER
+
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

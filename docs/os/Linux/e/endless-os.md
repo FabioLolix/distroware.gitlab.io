@@ -1,11 +1,11 @@
-# Endless OS
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Endless OS is also know for its controversial EULA
+>
 
 > Developed by
 
@@ -14,17 +14,21 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://endlessos.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -39,6 +43,7 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
@@ -64,11 +69,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

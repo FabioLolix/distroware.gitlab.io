@@ -1,4 +1,4 @@
-# PureOS
+# $NAME
 
 ## Screenshot
 
@@ -14,15 +14,19 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| PureOS |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
@@ -33,21 +37,23 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://pureos.net/download/> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://tracker.pureos.net/w/> |
-| Bugtracker            | <https://tracker.pureos.net/> |
+| Docs                  |  |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
@@ -63,11 +69,6 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
@@ -80,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

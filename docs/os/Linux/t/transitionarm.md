@@ -1,11 +1,11 @@
-# Transition Arm
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> Yet to be released distro based on Manjaro ARM
+>
 
 > Developed by
 
@@ -14,15 +14,19 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
+
+>
 
 
-| Transition Arm |                  |
+## Table
+
+|                       |  |
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
@@ -39,7 +43,9 @@
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
+| Core utils            |  |
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
@@ -52,7 +58,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <https://twitter.com/ArmTransition> |
+| Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -63,15 +69,9 @@
 | In the timeline       |  |
 
 
-## Build
-
->
-
-
 ## Releases
 
 * 
-* Coding started on $DATE
 
 
 ## Media coverage
@@ -81,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

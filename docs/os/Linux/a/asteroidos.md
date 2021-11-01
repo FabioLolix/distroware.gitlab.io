@@ -1,66 +1,86 @@
-# AsteroidOS
+# $NAME
 
-> Open source operating system for smartwatches build with OpenEmbedded
+## Screenshot
+
+
+## Description and history
+
 >
-> Programs are written in Qt/QML, Asteroid-launcher is a wayland compositor
+
+> Developed by
+
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
+
+
+## License and type
+
 >
-> libhybris is used as copatibility layer for Bionic GPU drivers
 
-> Developed by Florent Revest et al
 
-> Username:
+## Packaging, sources, repositories and building
+
 >
-> Password:
 
-> License & Type: FOSS
 
-| AsteroidOS | <https://asteroidos.org/> |
+## Table
+
+|                       |  |
 |-----------------------|--|
-| Based on              | Independent, build with OpenEmbedded |
-| Status                | Active |
+| Homepage              |  |
+| Homepage backup       |  |
+| Based on              |  |
+| Status                |  |
 | Architecture          |  |
-| Category              | Smartwatches |
-| Desktop               |  |
-| Language              |  |
+| Category              |  |
+| Desktop (default)     |  |
+| Desktop (available)   |  |
+| Source                |  |
+| Download              |  |
+| Release model         |  |
 | Packaging             |  |
 | Package management    |  |
-| Release model         |  |
+| Installer             |  |
 | Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
+| Language              |  |
 | Country               |  |
-| Source                | <https://github.com/AsteroidOS> |
-| Download (nightly)    | <https://release.asteroidos.org/nightlies/> |
-| IRC                   | #asteroid@irc.freenode.net |
+| IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Mastodon              | <https://fosstodon.org/@AsteroidOS> |
-| Twitter               | <https://twitter.com/AsteroidOS> |
-| Docs                  | <https://asteroidos.org/wiki/documentation/> |
+| Docs                  |  |
 | Bugtracker            |  |
-| Translation           | <https://hosted.weblate.org/projects/asteroidos/> |
+| Translation           |  |
 | Donations             |  |
+| Commercial            |  |
+| Price                 |  |
+| Social/Contact        |  |
+| Social                |  |
+| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/AsteroidOS> |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       | yes | 
-
-
-## Build
-
-* <https://asteroidos.org/wiki/building-asteroidos/>
+| In the timeline       |  |
 
 
 ## Releases
 
-* Stable 1.0 May 2018 ([announcement](https://asteroidos.org/news/1-0-release/index.html))
-* Alpha 1.0 December 2016 ([announcement](https://florentrevest.github.io/2016/12/07/asteroidos-alpha))
-* Coding started on June 2015
+* 
 
 
 ## Media coverage
 
-* <https://itsfoss.com/asteroidos-watch-os/>
-* <https://www.wareable.com/smartwatches/asteroid-os-review>
-* <https://www.xda-developers.com/asteroidos-is-an-open-source-alternative-to-android-wear/>
+* 
 
+
+## About this page
+
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

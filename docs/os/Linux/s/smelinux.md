@@ -1,4 +1,4 @@
-# SMELinux
+# $NAME
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://distro.catamarca.gob.ar/index.php> |
+| Homepage              |  |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -81,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found here:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os//>
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

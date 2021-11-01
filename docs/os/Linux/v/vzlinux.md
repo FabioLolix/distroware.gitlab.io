@@ -1,11 +1,11 @@
-# VzLinux
+# $NAME
 
 ## Screenshot
 
 
 ## Description and history
 
-> The dedicated page https://www.virtuozzo.com/vzlinux.html redirect to https://www.virtuozzo.com/
+>
 
 > Developed by
 
@@ -14,31 +14,36 @@
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories 
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.virtuozzo.com/> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | RHEL |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | src.rpm only |
-| Download              | <http://repo.virtuozzo.com/vzlinux/> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
@@ -47,27 +52,21 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://docs.virtuozzo.com/virtuozzo_linux_8_quick_start_guide/index.html> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                | <https://www.linkedin.com/company/virtuozzo> |
-| Social                | <https://twitter.com/virtuozzoinc> |
-| Social                | <https://www.facebook.com/VirtuozzoInc/> |
+| Social                |  |
+| Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=vz> |
+| Distrowatch           |  |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
-
-
-## Build
-
->
 
 
 ## Releases
@@ -82,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

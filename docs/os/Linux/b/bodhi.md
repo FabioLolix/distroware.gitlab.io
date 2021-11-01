@@ -1,4 +1,4 @@
-# Bodhi Linux 
+# $NAME
 
 ## Screenshot
 
@@ -7,39 +7,43 @@
 
 >
 
-> Started by Jeff Hoogland, Robert “ylee” Wiley is New Lead Developer since 11 June 2019
+> Developed by
 
 | username | password |  |
 |----------|----------|--|
 |  |  |  |
 
 
-## License & Type
+## License and type
 
 >
 
 
-## Packaging and repositories
+## Packaging, sources, repositories and building
 
+>
+
+
+## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.bodhilinux.com/#> |
+| Homepage              |  |
 | Homepage backup       |  |
-| Based on              | Ubuntu LTS |
-| Status                | Active |
-| Architecture          | x86_64, x86(*) |
-| Category              | Desktop |
-| Desktop (default)     | Moksha (originally forked from Enlightenment 17) |
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
+| Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://www.bodhilinux.com/download/> |
-| Release model         | Fixed |
-| Packaging             | deb |
+| Download              |  |
+| Release model         |  |
+| Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  |  |
 | Init                  |  |
+| Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
@@ -48,35 +52,26 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://www.bodhilinux.com/w/wiki> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             | <https://www.bodhilinux.com/donate/> |
-| Commercial            | No |
-| Price                 | N/A |
+| Donations             |  |
+| Commercial            |  |
+| Price                 |  |
 | Social/Contact        |  |
-| Social                | <http://facebook.com/bodhilinux> |
-| Social                | <https://twitter.com/ylee2130> |
-| Social                | <https://discordapp.com/invite/pvB7MSf> |
-| Social                | <https://www.bodhilinux.com/feed/> |
+| Social                |  |
+| Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=bodhi> |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Bodhi_Linux> |
+| Distrowatch           |  |
+| Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       | Yes |
-
-> x86(*) = v 6.x not yet published for 32 bit
-
-
-## Build
-
->
+| In the timeline       |  |
 
 
 ## Releases
 
-* 6.0.0 <https://www.bodhilinux.com/2021/05/12/bodhi-linux-6-0-0-released/>
+* 
 
 
 ## Media coverage
@@ -86,7 +81,6 @@
 
 ## About this page
 
-> This page code can be found here:
-
-* https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/b/bodhi.md
-* https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/b/bodhi.md
+* This page code can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

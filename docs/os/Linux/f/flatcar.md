@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/f/flatcar.md>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/f/flatcar.md>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
