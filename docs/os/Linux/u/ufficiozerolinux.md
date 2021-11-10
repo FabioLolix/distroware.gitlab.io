@@ -1,13 +1,13 @@
-# $NAME
+# Ufficio Zero Linux
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Freeware claiming to be open source. Group of remixes of various distros (Linux Mint, PCLinuxOS, LMDE4, Devuan, Debian, Ubuntu)
 
-> Developed by
+> Created by SIITE SRLS
 
 | username | password |  |
 |----------|----------|--|
@@ -21,14 +21,14 @@
 
 ## Packaging, sources, repositories and building
 
->
+> Created with remixing tool penguin eggs
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.ufficiozero.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Italy |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |

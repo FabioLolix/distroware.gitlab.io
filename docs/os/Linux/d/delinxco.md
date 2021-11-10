@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.delinuxco.com/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |

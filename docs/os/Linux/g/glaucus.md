@@ -9,9 +9,9 @@
 
 > Developed by
 
-| username | password |  |
+| username | password | note |
 |----------|----------|--|
-|  |  |  |
+| root |  | no password |
 
 
 ## License and type
@@ -28,17 +28,17 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.glaucuslinux.org/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Independent |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
+| Source                | <https://github.com/glaucuslinux/glaucus> |
+| Download              | <https://www.glaucuslinux.org/download.html> |
+| Release model         | Rolling |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |

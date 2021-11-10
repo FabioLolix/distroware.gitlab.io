@@ -1,11 +1,11 @@
-# $NAME
+# Inspur K-UX
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Send direct message to @InspurServer (Inspur Information) on 2021/04/18
 
 > Developed by
 
@@ -63,7 +63,7 @@
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Inspur_K-UX> |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/linux/i/inspur-k-ux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/i/inspur-k-ux.md>

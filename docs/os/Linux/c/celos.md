@@ -1,4 +1,4 @@
-# $NAME
+# CelOS
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://celos.cobweb-aclevo.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/Cobweb-Aclevo/celos> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |

@@ -1,4 +1,4 @@
-# $NAME
+# Garden Linux
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Developed by Malte Janduda and contributors
 
 | username | password |  |
 |----------|----------|--|
@@ -28,15 +28,15 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://gardenlinux.io/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Debian |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/gardenlinux> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Germany |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/g/garden-linux.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/g/garden-linux.md>

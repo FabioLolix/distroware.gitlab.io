@@ -1,4 +1,4 @@
-# $NAME
+# Chromium OS
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.chromium.org/chromium-os> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://chromium.googlesource.com/chromiumos/> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -76,7 +76,8 @@
 
 ## Media coverage
 
-* 
+* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
+* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
 
 
 ## About this page

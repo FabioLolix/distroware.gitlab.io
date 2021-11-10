@@ -1,4 +1,4 @@
-# $NAME
+# Rocky Linux
 
 ## Screenshot
 
@@ -7,7 +7,8 @@
 
 >
 
-> Developed by
+> Development oversee by Rocky Enterprise Software Foundation a Public Benefit Corporation (PBC) 
+  formed in Delaware (file number 4429978) backed by CIQ and several others
 
 | username | password |  |
 |----------|----------|--|
@@ -18,28 +19,33 @@
 
 >
 
+> Subject to the U.S. Export Administration Regulations (the “EAR”) 
+
 
 ## Packaging, sources, repositories and building
 
 >
 
+* <https://download.rockylinux.org/pub/rocky/> for srcrpm
+
 
 ## Table
 
+
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://rockylinux.org/> |
 | Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Based on              | RHEL |
+| Status                | Active |
+| Architecture          | x86_64, aarch64 |
+| Category              | Server |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
-| Packaging             |  |
+| Source                | <https://github.com/rocky-linux> |
+| Download              | <https://rockylinux.org/download/> |
+| Release model         | Fixed |
+| Packaging             | RPM |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
@@ -47,25 +53,27 @@
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | English |
+| Country               | USA |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://forums.rockylinux.org/> |
 | Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
+| Docs                  | <https://docs.rockylinux.org/> |
+| Docs                  | <https://wiki.rockylinux.org/> |
+| Bugtracker            | <https://bugs.rockylinux.org/> |
 | Translation           |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Donations             | <https://donate.rockylinux.org/np/clients/rockylinux/donation.jsp> |
+| Commercial            | Commercial support can be bought at CIQ |
+| Price                 | - |
 | Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Social                | <https://twitter.com/rocky_linux> |
+| Social                | <https://reddit.com/r/rockylinux> |
+| Social                | <https://chat.rockylinux.org/> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| on LWN.net            |  |
-| Repology              |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=rocky> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Rocky_Linux> |
+| on LWN.net            | Yes |
+| Repology              | <https://repology.org/repository/rocky_8> |
 | In the timeline       |  |
 
 
@@ -82,5 +90,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/r/rockylinux.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/r/rockylinux.md>

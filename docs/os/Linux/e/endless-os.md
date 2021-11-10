@@ -5,7 +5,7 @@
 
 ## Description and history
 
->
+> Endless OS is also know for its controversial EULA
 
 > Developed by
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://endlessos.com/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |

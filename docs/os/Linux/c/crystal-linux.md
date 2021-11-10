@@ -1,4 +1,4 @@
-# $NAME
+# Crystal Linux
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <http://getcryst.al/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/crystal-linux/> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -59,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/crystal_linux> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

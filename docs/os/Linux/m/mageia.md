@@ -1,4 +1,4 @@
-# $NAME
+# Mageia
 
 ## Screenshot
 
@@ -28,9 +28,9 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.mageia.org/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Independent (originally forked from Mandriva Linux) |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | France |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -62,11 +62,11 @@
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=mageia> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Mageia> |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       | Yes |
 
 
 ## Releases
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/m/mageia.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/m/mageia.md>

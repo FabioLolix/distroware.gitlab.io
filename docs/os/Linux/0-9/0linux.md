@@ -1,4 +1,4 @@
-# $NAME
+# 0Linux
 
 ## Screenshot
 
@@ -30,14 +30,14 @@
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Based on              | Independent |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/0linux/0linux> |
+| Download              | <http://0.tuxfamily.org/doku.php/documentation/telechargements> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | France |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -61,8 +61,8 @@
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| ArchiveOS             | <https://archiveos.org/0linux/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=0linux> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |
@@ -71,7 +71,8 @@
 
 ## Releases
 
-* 
+* theta-04022015-mini-x86_64.iso 2015.02.04 (?) 
+* (start date 2010.3.3 according to the timeline) 
 
 
 ## Media coverage

@@ -1,4 +1,4 @@
-# $NAME
+# TSURUGI Linux
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://tsurugi-linux.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -59,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/tsurugi_linux> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

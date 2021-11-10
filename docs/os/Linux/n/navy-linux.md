@@ -1,4 +1,4 @@
-# $NAME
+# Navy Linux
 
 ## Screenshot
 
@@ -28,18 +28,18 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://navylinux.org/> |
 | Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Based on              | RHEL |
+| Status                | Active |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
-| Packaging             |  |
+| Source                | <https://git.navylinux.org/explore> |
+| Download              | <https://navylinux.org/download/> |
+| Release model         | Fixed |
+| Packaging             | RPM |
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
@@ -47,22 +47,22 @@
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | English |
+| Country               | USA |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://navylinux.org/wiki/> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/NavyLinux> |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=navy> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |

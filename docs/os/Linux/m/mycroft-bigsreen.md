@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://plasma-bigscreen.org/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/bigscreen/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -53,13 +53,13 @@
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            |  |
+| Bugtracker            | <https://github.com/blue-systems/mycroft-bigscreen-img/issues> |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://t.me/plasma_bigscreen> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

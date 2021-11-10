@@ -5,9 +5,9 @@
 
 ## Description and history
 
->
+> Freeware claiming to be open source
 
-> Developed by
+> Created by Denys Kulbii
 
 | username | password |  |
 |----------|----------|--|
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Ukraine |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -59,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/dekuve> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

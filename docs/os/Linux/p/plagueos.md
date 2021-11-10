@@ -1,4 +1,4 @@
-# $NAME
+# plagueOS
 
 ## Screenshot
 
@@ -36,8 +36,8 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://git.envs.net/WhichDoc/plagueOS> |
+| Download              | <https://git.envs.net/WhichDoc/plagueOS_ISO> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |

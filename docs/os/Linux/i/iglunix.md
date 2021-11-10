@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://iglunix.xyz/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/iglunix/iglunix> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |

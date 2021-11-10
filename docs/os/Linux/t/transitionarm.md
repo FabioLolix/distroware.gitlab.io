@@ -1,11 +1,11 @@
-# $NAME
+# Transition Arm
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Yet to be released distro based on Manjaro ARM
 
 > Developed by
 

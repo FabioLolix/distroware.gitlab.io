@@ -1,4 +1,4 @@
-# $NAME
+# COSIX Linux
 
 ## Screenshot
 
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/FabioLolix/fabiololix.gitlab.io/-/tree/master/docs/os/linux/c/cosix-linux.md>
+* <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/c/cosix-linux.md>

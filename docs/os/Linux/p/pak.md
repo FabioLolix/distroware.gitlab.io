@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://sourceforge.net/projects/pakos/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/pakos/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Pakistan |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |

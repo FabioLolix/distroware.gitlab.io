@@ -1,11 +1,11 @@
-# $NAME
+# VzLinux
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> The dedicated page https://www.virtuozzo.com/vzlinux.html redirect to https://www.virtuozzo.com/
 
 > Developed by
 
@@ -28,16 +28,16 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.virtuozzo.com/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | RHEL |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | src.rpm only |
+| Download              | <http://repo.virtuozzo.com/vzlinux/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -52,17 +52,18 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://docs.virtuozzo.com/virtuozzo_linux_8_quick_start_guide/index.html> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Social                | <https://www.linkedin.com/company/virtuozzo> |
+| Social                | <https://twitter.com/virtuozzoinc> |
+| Social                | <https://www.facebook.com/VirtuozzoInc/> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vz> |
 | Wikipedia             |  |
 | on LWN.net            |  |
 | Repology              |  |

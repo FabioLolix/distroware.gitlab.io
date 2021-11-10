@@ -5,7 +5,7 @@
 
 ## Description and history
 
->
+> Yet to be released
 
 > Developed by
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://risi.io/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/risiOS> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -59,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/risi_os> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

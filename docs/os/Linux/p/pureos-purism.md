@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://pureos.net/download/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -52,8 +52,8 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
+| Docs                  | <https://tracker.pureos.net/w/> |
+| Bugtracker            | <https://tracker.pureos.net/> |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |

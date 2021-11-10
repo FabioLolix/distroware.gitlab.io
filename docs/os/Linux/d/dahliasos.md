@@ -1,4 +1,4 @@
-# $NAME
+# dahliaOS
 
 ## Screenshot
 
@@ -36,8 +36,8 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/dahlia-os> |
+| Download              | <https://github.com/dahlia-os/releases/releases> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -59,7 +59,7 @@
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
+| Social                | <https://twitter.com/realdahliaos> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |

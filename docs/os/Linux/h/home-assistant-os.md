@@ -1,4 +1,4 @@
-# $NAME
+# Home Assistant OS
 
 ## Screenshot
 
@@ -30,13 +30,13 @@
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Independent, builded with buildroot |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/home-assistant/operating-system> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -71,7 +71,7 @@
 
 ## Releases
 
-* 
+* https://www.home-assistant.io/blog/2021/06/11/home-assistant-os-release-6/
 
 
 ## Media coverage

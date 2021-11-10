@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://sourceforge.net/projects/roshan-os/> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/roshan-os/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |

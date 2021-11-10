@@ -1,4 +1,4 @@
-# $NAME
+# GobLin GNU/Linux
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Created by Carlos Brys
 
 | username | password |  |
 |----------|----------|--|
@@ -28,16 +28,16 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://sourceforge.net/p/goblin-gnu-linux/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Devuan |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/goblin-gnu-linux/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -71,7 +71,7 @@
 
 ## Releases
 
-* 
+* goblin-v1.0.0-mate-amd64.iso (202106101521) 
 
 
 ## Media coverage

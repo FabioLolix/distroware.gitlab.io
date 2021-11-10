@@ -1,4 +1,4 @@
-# $NAME
+# ROSA
 
 ## Screenshot
 
@@ -21,23 +21,23 @@
 
 ## Packaging, sources, repositories and building
 
->
+> <https://github.com/rosa-abf>
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.rosalinux.ru/en/home-2/> |
 | Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Status                | Active |
+| Architecture          | x86_64, i586 |
+| Category              | Desktop, server |
+| Desktop (default)     | KDE4, KDE Plasma, LXQt, XFCE |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://www.rosalinux.ru/rosa-linux-download-links/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -48,25 +48,25 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Russia |
 | IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
+| Forum                 | <https://forum.rosalinux.ru/> |
+| Mailing list          | <http://lists.rosalab.ru/> |
+| Docs                  | <http://wiki.rosalab.ru/en/index.php/> |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             |  |
-| Commercial            |  |
+| Donations             | - |
+| Commercial            | Yes |
 | Price                 |  |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=rosa> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/ROSA_Linux> |
 | on LWN.net            |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       | Yes |
 
 
 ## Releases
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/r/rosa.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/r/rosa.md>

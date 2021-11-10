@@ -1,4 +1,4 @@
-# $NAME
+# OpenSourceEcology
 
 ## Screenshot
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://wiki.opensourceecology.org/wiki/OSE_Linux> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -71,7 +71,9 @@
 
 ## Releases
 
-* 
+* 2.0
+* 1.0 - 25 Oct 2017
+* 0.3
 
 
 ## Media coverage
@@ -82,5 +84,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/o/opensourceecology.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/o/opensourceecology.md>

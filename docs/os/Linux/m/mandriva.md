@@ -1,4 +1,4 @@
-# $NAME
+# Mandriva Linux
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Developed by Mandriva S.A.
 
 | username | password |  |
 |----------|----------|--|
@@ -28,10 +28,10 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | - |
+| Homepage backup       | <https://web.archive.org/web/20150523021945/http://www.mandriva.com/en/products-services/mbs/technical-specifications/> |
+| Based on              | Independent (originally forked from Red Hat) |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -48,7 +48,7 @@
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | France |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -62,8 +62,8 @@
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=mandriva> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Mandriva_Linux> |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/m/mandriva.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/m/mandriva.md>

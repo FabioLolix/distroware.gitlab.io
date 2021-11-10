@@ -5,7 +5,7 @@
 
 ## Description and history
 
->
+> Announced but never released and discontinued (~May 2021)
 
 > Developed by
 
