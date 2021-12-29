@@ -1,13 +1,15 @@
-# $NAME
+# TENS
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> Trusted End Node Security, previously know as LPS (Lightweight Portable Security)
 
-> Developed by
+> The TENS program have been discontinued in August 2021
+
+> Developed by Air Force Research Laboratory (AFRL) [US Department of Defense]
 
 | username | password |  |
 |----------|----------|--|
@@ -21,18 +23,18 @@
 
 ## Packaging, sources, repositories and building
 
->
+> A source archive have been released for the old 1.7.x branch, no sources for 3.0.x branch
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
+| Homepage              | https://tens.af.mil |
+| Homepage backup       | <https://web.archive.org/web/20210818234357/https://tens.af.mil/> |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Status                | Discontinued |
+| Architecture          | x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
@@ -47,7 +49,7 @@
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
+| Language              | USA |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |

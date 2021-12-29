@@ -1,4 +1,4 @@
-# $NAME
+# Thinstation
 
 ## Screenshot
 
@@ -28,16 +28,16 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://thinstation.github.io/thinstation/> |
 | Homepage backup       |  |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Status                | Active |
+| Architecture          | x86_64 |
+| Category              | Thin client |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/Thinstation/thinstation> |
+| Download              | <https://sourceforge.net/projects/thinstation/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -52,11 +52,11 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://github.com/Thinstation/thinstation/wiki/Getting-Started-with-ThinStation> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
+| Commercial            | No |
 | Price                 |  |
 | Social/Contact        |  |
 | Social                |  |

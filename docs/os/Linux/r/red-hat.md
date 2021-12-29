@@ -23,6 +23,11 @@
 
 >
 
+> <https://ftp.redhat.com/redhat/linux/>
+> RH 6 <https://ftp.redhat.com/redhat/linux/enterprise/6Server/en/os/SRPMS/>
+
+> Older versions of Red Hat Linux have been moved to the following location:
+> <ftp://archive.download.redhat.com/pub/redhat/linux/>
 
 ## Table
 
@@ -76,7 +81,7 @@
 
 ## Media coverage
 
-* 
+* <https://arstechnica.com/information-technology/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business/>
 
 
 ## About this page
