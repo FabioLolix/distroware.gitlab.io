@@ -1,4 +1,4 @@
-# $NAME
+# Yggdrasil Linux/GNU/X
 
 ## Screenshot
 
@@ -21,7 +21,7 @@
 
 ## Packaging, sources, repositories and building
 
->
+> Source of packages provided on the CD-ROM as much as possible
 
 
 ## Table
@@ -56,14 +56,14 @@
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | Yes |
+| Price                 | 99$ stable , 60$ beta |
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X> |
 | on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -76,7 +76,9 @@
 
 ## Media coverage
 
-* 
+* <https://distrowatch.com/weekly.php?issue=20041115#fdow>
+* <https://www.linuxjournal.com/article/111>
+* <https://www.kclug.org/old_archives/linux-activists/1992/dec/0/0044.shtml>
 
 
 ## About this page

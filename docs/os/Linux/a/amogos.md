@@ -1,11 +1,11 @@
-# OpenSourceEcology
+# AmogOS
 
 ## Screenshot
 
 
 ## Description and history
 
->
+> For X86_64 remix created with Linux Live Kit 
 
 > Developed by
 
@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://wiki.opensourceecology.org/wiki/OSE_Linux> |
+| Homepage              | <https://www.amogos.studio/index.html> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://drive.google.com/drive/folders/0B3BMDf7eJE2IenozczVScXA0ZVk?resourcekey=0-NphjPy_3lK_oWxRJPcb9Dg> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -71,9 +71,7 @@
 
 ## Releases
 
-* 2.0
-* 1.0 - 25 Oct 2017
-* 0.3
+* 
 
 
 ## Media coverage
@@ -84,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/o/opensourceecology.md>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/o/opensourceecology.md>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>

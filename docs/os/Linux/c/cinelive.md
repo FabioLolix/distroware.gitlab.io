@@ -1,4 +1,4 @@
-# $NAME
+# Cinelerra LiveDVD
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+> Developed by Danny Schmarsel
 
 | username | password |  |
 |----------|----------|--|
@@ -30,13 +30,13 @@
 |-----------------------|--|
 | Homepage              |  |
 | Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Based on              | Slackware |
+| Status                | discontinued |
+| Architecture          | x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/cinelerra-cv-team/cinelive-schmatzler> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
