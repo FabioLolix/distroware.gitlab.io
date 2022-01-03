@@ -1,4 +1,4 @@
-# $NAME
+# Amarok Linux OS
 
 ## Screenshot
 
@@ -21,34 +21,36 @@
 
 ## Packaging, sources, repositories and building
 
->
+> Amarok never replied to inquiries about the distribution
+
+> Additional repositories hosted on GitLab <https://gitlab.com/users/amaroklinux/projects>, builded packages only, no .dsc, orig.tar.xz and orig.tar.xz of the packages.
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://amaroklinux.org/> |
 | Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
+| Based on              | Debian |
+| Status                | Active |
+| Architecture          | x86_64 |
+| Category              | Desktop |
+| Desktop (default)     | Xfce, GNOME, Cinnamon, MATE |
+| Desktop (available)   | same as parent |
 | Source                |  |
 | Download              |  |
-| Release model         |  |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
-| Installer             |  |
+| Installer             | Calamares |
 | Init                  |  |
 | Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | Portuguese, English, multilang |
+| Country               | Brasil |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -56,11 +58,11 @@
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | - |
+| Price                 | - |
 | Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Social                | <https://twitter.com/AmarokLinuxOS> |
+| Social                | <https://t.me/AmarokLinux> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -82,5 +84,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/a/amarok-linux.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/a/amarok-linux.md>
