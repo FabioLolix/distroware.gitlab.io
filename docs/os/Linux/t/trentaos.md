@@ -9,11 +9,10 @@
 
 > Created by Kenny Stier and KevDoy
 
-| username | password |  |
+| username | password | note |
 |----------|----------|--|
-|  |  |  |
+|  |  | User and password are configured at boot |
 
-> User and password are configured at boot
 
 
 ## License and type
