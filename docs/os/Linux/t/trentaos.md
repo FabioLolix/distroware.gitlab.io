@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> >Remix, GNOME desktop which mimic macOS
+Remix, GNOME desktop which mimic macOS
 
-> Created by Kenny Stier and KevDoy
+Created by Kenny Stier and KevDoy
 
 | username | password | note |
 |----------|----------|--|
@@ -22,9 +22,9 @@
 
 ## Packaging, sources, repositories and building
 
-> Remix created with bodhibuilder, have 6 out of repository packages (bodhi-slideshow, bodhibuilder, reiner-theme, trenta-bootscreen, trenta-icons, trenta-wallpapers) 2 residual config (firefox, popular-contest)
+Remix created with bodhibuilder, have 6 out of repository packages (bodhi-slideshow, bodhibuilder, reiner-theme, trenta-bootscreen, trenta-icons, trenta-wallpapers) 2 residual config (firefox, popular-contest)
 
-> Trenta icons and themes are developed on github (<https://github.com/trenta-io>), no .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
+Trenta icons and themes are developed on github (<https://github.com/trenta-io>), no .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
 
 
 ## Table
