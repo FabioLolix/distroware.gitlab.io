@@ -5,9 +5,7 @@
 
 ## Description and history
 
-> The dedicated page https://www.virtuozzo.com/vzlinux.html redirect to https://www.virtuozzo.com/
-
-> Developed by
+Developed by Virtuozzo International GmbH
 
 | username | password |  |
 |----------|----------|--|
@@ -28,7 +26,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.virtuozzo.com/> |
+| Homepage              | <https://vzlinux.org/> |
 | Homepage backup       |  |
 | Based on              | RHEL |
 | Status                |  |
