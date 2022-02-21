@@ -5,9 +5,9 @@
 
 ## Description and history
 
->
 
-> Developed by Zoe Knox
+
+Developed by Zoe Knox
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,12 @@
 
 ## License and type
 
-> BSD 2-Clause License
+BSD 2-Clause License
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
@@ -30,7 +30,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://airyx.org/> |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -43,8 +42,7 @@
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Boot                  | rc |
-| Init                  |  |
+| Init                  | rc |
 | Shell                 |  |
 | C library             | FreeBSD libc |
 | Core utils            |  |
@@ -60,13 +58,11 @@
 | Donations             |  |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        | <https://twitter.com/AiryxOS> |
-| Social                |  |
+| Contact               | <https://twitter.com/AiryxOS> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 

@@ -7,25 +7,25 @@
 
 ## Description and history
 
-> Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
+Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 
-> Filer file manager is used for managing [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles)
+Filer file manager is used for managing [Application Bundles](https://hellosystem.github.io/docs/developer/application-bundles)
 
-> Developed by [probonopd](https://github.com/probonopd) and [contributors](https://hellosystem.github.io/docs/developer/acknowledgements.html)
+Developed by [probonopd](https://github.com/probonopd) and [contributors](https://hellosystem.github.io/docs/developer/acknowledgements.html)
 
 
 ## License & Type
 
-> [BSD 3-Clause License](https://github.com/helloSystem/ISO/blob/experimental/LICENSE)
+[BSD 3-Clause License](https://github.com/helloSystem/ISO/blob/experimental/LICENSE)
 
 
 ## Packaging, sources, repositories and building
 
->
 
-> <https://hellosystem.github.io/docs/developer/building>
 
-> Build instruction for aarch64 are [available](https://hellosystem.github.io/docs/developer/rpi))
+<https://hellosystem.github.io/docs/developer/building>
+
+Build instruction for aarch64 are [available](https://hellosystem.github.io/docs/developer/rpi))
 
 ## Table
 
@@ -33,7 +33,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://hellosystem.github.io/> |
-| Homepage backup       |  |
 | Based on              | FreeBSD, FuryBSD |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -61,13 +60,11 @@
 | Donations             | n/a |
 | Commercial            | No |
 | Price                 | Free |
-| Social/Contact        | n/a |
-| Social                |  |
+| Contact               | n/a |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 

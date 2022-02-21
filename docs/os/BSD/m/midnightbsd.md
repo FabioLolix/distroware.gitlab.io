@@ -5,9 +5,9 @@
 
 ## Description and history
 
->
 
-> Developed by Lucas Holt and contributors
+
+Developed by Lucas Holt and contributors
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,12 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://midnightbsd.org/> |
-| Homepage backup       |  |
 | Based on              | FreeBSD |
 | Status                | Active |
 | Architecture          | i386, x86_64 |
@@ -45,7 +44,7 @@
 | Init                  |  |
 | Shell                 |  |
 | C library             | FreeBSD libc |
-| Core utils            |  |
+| Core utils            | FreeBSD core utils |
 | Compiler              | LLVM |
 | Language              | English |
 | Country               | USA |
@@ -58,9 +57,8 @@
 | Donations             | <https://midnightbsd.org/donate/> |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        |  |
-| Social                | <https://twitter.com/midnightbsd> |
-| Social                | <https://www.facebook.com/midnightbsd/> |
+| Contact               |  |
+| Social                | <https://twitter.com/midnightbsd> <br> <https://www.facebook.com/midnightbsd/> |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=midnightbsd> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/MidnightBSD> |
