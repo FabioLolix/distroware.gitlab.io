@@ -1,4 +1,4 @@
-# $NAME
+# Bitrig
 
 ## Screenshot
 
@@ -28,9 +28,9 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://www.bitrig.org/> |
+| Based on              | OpenBSD 5.6 |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -79,5 +79,5 @@ Developed by
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/b/bitrig.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/b/bitrig.md>

@@ -1,4 +1,4 @@
-# t1n1wall
+# BSD/OS
 
 ## Screenshot
 
@@ -61,7 +61,8 @@ Developed by
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/BSD/OS> |
+| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -79,5 +80,5 @@ Developed by
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>

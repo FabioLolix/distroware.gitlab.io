@@ -1,4 +1,4 @@
-# $NAME
+# GhostBSD
 
 ## Screenshot
 

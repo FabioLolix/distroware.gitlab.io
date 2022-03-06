@@ -1,4 +1,4 @@
-# t1n1wall
+# NextBSD
 
 ## Screenshot
 
@@ -62,6 +62,7 @@ Developed by
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
+| on LWN.net            |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -79,5 +80,15 @@ Developed by
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

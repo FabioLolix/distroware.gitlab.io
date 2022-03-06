@@ -1,4 +1,4 @@
-# $NAME
+# FreeBSD
 
 ## Screenshot
 

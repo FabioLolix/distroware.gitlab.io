@@ -1,4 +1,4 @@
-# $NAME
+# BSD Router Project
 
 ## Screenshot
 

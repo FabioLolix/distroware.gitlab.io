@@ -1,4 +1,4 @@
-# $NAME
+# FuguIta
 
 ## Screenshot
 

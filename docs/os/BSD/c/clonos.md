@@ -1,4 +1,4 @@
-# $NAME
+# ClonOS
 
 ## Screenshot
 
@@ -28,14 +28,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://clonos.convectix.com/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/clonos> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
