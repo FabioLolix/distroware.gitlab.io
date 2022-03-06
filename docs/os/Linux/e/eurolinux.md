@@ -27,9 +27,9 @@
 
 >
 
-* https://fbi.cdn.euro-linux.com/dist/eurolinux/server/8/x86_64/
-* https://fbi.cdn.euro-linux.com/dist/eurolinux/server/7/x86_64/fbi/Packages/
-* https://fbi.cdn.euro-linux.com/dist/eurolinux/server/6/x86_64/fbi/Packages/
+* <https://fbi.cdn.euro-linux.com/dist/eurolinux/server/8/x86_64/>
+* <https://fbi.cdn.euro-linux.com/dist/eurolinux/server/7/x86_64/fbi/Packages/>
+* <https://fbi.cdn.euro-linux.com/dist/eurolinux/server/6/x86_64/fbi/Packages/>
 
 
 ## Table

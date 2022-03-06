@@ -23,12 +23,13 @@
 
 >
 
+Repository: https://repo.steampowered.com/steamos/
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://store.steampowered.com/steamos> |
 | Homepage backup       |  |
 | Based on              |  |
 | Status                |  |

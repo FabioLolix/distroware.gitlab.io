@@ -39,8 +39,8 @@
 | Source                |  |
 | Download              |  |
 | Release model         |  |
-| Packaging             | deb, flatpak |
-| Package management    | mintinstall, mintupdate, synaptic, apt, dpkg |
+| Packaging             |  |
+| Package management    |  |
 | Installer             |  |
 | Init                  |  |
 | Shell                 |  |
@@ -82,5 +82,5 @@
 ## About this page
 
 * This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/e/endeavouros.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/e/endeavouros.md>

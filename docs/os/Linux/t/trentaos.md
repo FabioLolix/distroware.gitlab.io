@@ -24,7 +24,9 @@ Created by Kenny Stier and KevDoy
 
 Remix created with bodhibuilder, have 6 out of repository packages (bodhi-slideshow, bodhibuilder, reiner-theme, trenta-bootscreen, trenta-icons, trenta-wallpapers) 2 residual config (firefox, popular-contest)
 
-Trenta icons and themes are developed on github (<https://github.com/trenta-io>), no .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
+Trenta icons and themes are developed on github (<https://github.com/trenta-io>)
+
+No .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
 
 
 ## Table
