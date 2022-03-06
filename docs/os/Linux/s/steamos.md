@@ -36,7 +36,7 @@
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/ValveSoftware> <br> <https://repo.steampowered.com/> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
