@@ -1,19 +1,58 @@
+---
+layout: post
+title: Unredestributable software on Linux
+---
+
+### Unredestributable
+
+* ffmpeg with enabled --nonfree
+
+* JDK, JRE, Oracle VM VirtualBox Extension Pack (Oracle)
+
+* Google Chrome, Widevine (Google)
+
+* Spotify
+
+* packettracer (Cisco)
+
+* Mathematica
+
+* Visual Studio Code, the Microsoft proprietary package (Code source is MIT licensed instead)
+
+* Microsoft Edge Browser (Microsoft)
+
+* GitKraken
+
+* Discord (permission granted to Arch Linux)
+
+* Typora (All Rights Reserved)
+
+* TeamViewer
+
+***
 
 
-ffmpeg with enabled --nonfree
+### No license in package or unclear
 
-JDK, JRE, Oracle VM VirtualBox Extension Pack (Oracle)
+* Slack desktop, copyright file (3 copy) contain the list of OSS used and its license but not for the program.
 
-Google Chrome, widevine, chrome remote desktop
+* Zoom, no license included
 
-Spotify
+* Skype, contain the default chromium list of OSS used and its license and another file notice.txt contain the list of OSS used and its license but not for the program.
 
-Discord
+* VueScan, no license included
 
-Unity editor
+* Unity editor, need to re-check
 
-packettracer (Cisco)
+* VmWare Workstation, unclear, need to finish to check
 
-Mathematica
+***
+
+
+### Other packages controlled
+
+* Space Cadet Pinball by k4zmu2a, is a decompilation of the 3D Pinball game for Windows; is not reverse engineered as reported on FlatHub
+
+* ttf-ms-fonts, Microsoft EULA, redestributable
 
 
