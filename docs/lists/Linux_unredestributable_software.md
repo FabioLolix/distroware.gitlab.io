@@ -11,7 +11,7 @@ title: Unredestributable software on Linux
 
 * Google Chrome, Widevine (Google)
 
-* Spotify
+* Spotify (deb and snap are official)
 
 * packettracer (Cisco)
 
