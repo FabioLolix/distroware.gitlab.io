@@ -31,7 +31,9 @@ Developed by
 | Homepage              |  |
 | Based on              |  |
 | Status                |  |
-| Architecture          |  |
+| Architecture Tier 1   |  |
+| Architecture Tier 2   |  |
+| Architecture Tier 3   |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
