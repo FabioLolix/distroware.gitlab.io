@@ -81,7 +81,7 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=nitrux> |
 | Wikipedia             |  |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -105,6 +105,6 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/n/nitrux.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/n/nitrux.md>

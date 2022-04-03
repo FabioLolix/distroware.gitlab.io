@@ -7,7 +7,7 @@
 
 >
 
-> Developed by Joyent (now part of Samsung)
+Developed by Joyent (now part of Samsung)
 
 | username | password |  |
 |----------|----------|--|
@@ -38,7 +38,6 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://www.joyent.com/smartos> |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -67,9 +66,8 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                | <https://twitter.com/JoyentSmartOS> |
-| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/smartos> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/SmartOS> |
@@ -89,6 +87,6 @@ build: <https://github.com/joyent/smartos-live/blob/master/README.md>
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

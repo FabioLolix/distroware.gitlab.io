@@ -83,6 +83,6 @@ Build instruction for aarch64 are [available](https://hellosystem.github.io/docs
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>

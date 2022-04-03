@@ -7,7 +7,7 @@
 
 >
 
-> Created by Martin Bochnig
+Created by Martin Bochnig
 
 | username | password |  |
 |----------|----------|--|
@@ -21,7 +21,7 @@
 
 ## Packaging, sources, repositories and building
 
-> Website says to be open source there are no sources
+Website says to be open source there are no sources
 
 
 ## Table
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <http://svr4.opensxce.org/> |
-| Homepage backup       |  |
 | Based on              | OpenSolaris |
 | Status                |  |
 | Architecture          |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/opensxce/> |
 | Distrowatch           |  |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> Require registration for trial license key
+Require registration for trial license key
 
-> Developed by Nexenta Systems
+Developed by Nexenta Systems
 
 | username | password |  |
 |----------|----------|--|
@@ -16,7 +16,7 @@
 
 ## License and type
 
-> Commercial proprietary
+Commercial proprietary
 
 
 ## Packaging, sources, repositories and building
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://nexenta.com/products/nexentastor> |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                | Active |
 | Architecture          |  |
@@ -58,9 +57,8 @@
 | Donations             | - |
 | Commercial            | Yes |
 | Price                 | Contact sales |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                | <https://www.youtube.com/watch?v=gbIWB1QK7qA&list=PLlXP6v5WL0ZQRIzhF5ERIq22ReWAmIESW> |
-| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/nexentastor> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/NexentaStor> |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

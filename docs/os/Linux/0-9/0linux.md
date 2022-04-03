@@ -64,7 +64,7 @@
 | ArchiveOS             | <https://archiveos.org/0linux/> |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=0linux> |
 | Wikipedia             |  |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -82,6 +82,6 @@
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>

@@ -5,12 +5,12 @@
 
 ## Description and history
 
-> Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos
-> It blends a retro style with modern components.
+Tribblix is an operating system created by Peter Tribble. Derived from OpenSolaris, OpenIndiana, and illumos
+It blends a retro style with modern components.
 
-> Builds of OmniOS with LX Zones, OmniTribblix, are also available
+Builds of OmniOS with LX Zones, OmniTribblix, are also available
 
-> Developed by Peter Tribble
+Developed by Peter Tribble
 
 | username | password |  |
 |----------|----------|--|
@@ -32,7 +32,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <http://www.tribblix.org/> |
-| Homepage backup       |  |
 | Based on              | illumos |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -61,7 +60,7 @@
 | Donations             |  |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        | tribblix a@t gmail.com |
+| Contact               | tribblix a@t gmail.com |
 | Social                | <https://tribblix.blogspot.com/> |
 | Social                | <https://ptribble.blogspot.com/> |
 | Social                | <https://twitter.com/tribblix> |
@@ -84,6 +83,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

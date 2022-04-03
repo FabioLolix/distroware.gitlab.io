@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> Also know as Nexenta Core Platform
+Also know as Nexenta Core Platform
 
-> Developed by Nexenta Systems
+Developed by Nexenta Systems
 
 | username | password |  |
 |----------|----------|--|
@@ -28,8 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | www.nexenta.org |
-| Homepage backup       | <https://web.archive.org/web/20110923152417/http://www.nexenta.org/> |
+| Homepage              | <https://web.archive.org/web/20110923152417/http://www.nexenta.org/> |
 | Based on              |  |
 | Status                | Discontinued |
 | Architecture          |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/nexentaos/> |
 | Distrowatch           | <https://distrowatch.com/nexenta> |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

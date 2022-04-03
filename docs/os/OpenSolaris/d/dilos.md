@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> Illumos based platform with Debian package manager (dpkg+apt) and MIT licensed
+Illumos based platform with Debian package manager (dpkg+apt) and MIT licensed
 
-> Developed by Igor Kozhukhov
+Developed by Igor Kozhukhov
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,11 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
 
 Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 
@@ -31,7 +30,6 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 |                       |  |
 |-----------------------|--|
 | Homepage              | <http://www.dilos.org/> |
-| Homepage backup       |  |
 | Based on              | illumos |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -60,8 +58,7 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 | Donations             | <http://www.dilos.org/donate> |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        | <http://www.dilos.org/conact-me> |
-| Social                |  |
+| Contact               | <http://www.dilos.org/conact-me> |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/dilos/> |
 | Distrowatch           |  |
@@ -82,6 +79,6 @@ Build: <https://bitbucket.org/dilos/site/wiki/how_to_create_ISO>
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>

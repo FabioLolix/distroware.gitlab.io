@@ -5,9 +5,8 @@
 
 ## Description and history
 
->
 
-> Created by Andre Lue
+Created by Andre Lue
 
 | username | password |  |
 |----------|----------|--|
@@ -16,22 +15,22 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
-> Use dropbox for part of the repository??
+Use dropbox for part of the repository??
 >
-> "EON binary kit has been upgraded to pkgsrc package manager with over 13,000 packages"
+"EON binary kit has been upgraded to pkgsrc package manager with over 13,000 packages"
 >
-> "Due changes with dropbox rail operation may be interrupted."
+"Due changes with dropbox rail operation may be interrupted."
 >
-> "To fix this create /usr/local/.repo with the following:"
+"To fix this create /usr/local/.repo with the following:"
 >
-> URL=https://www.dropbox.com/s/npbxydjmg9tyjug/pkg.db
+URL=https://www.dropbox.com/s/npbxydjmg9tyjug/pkg.db
 
-> No sources found
+No sources found
 
 
 ## Table
@@ -39,7 +38,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://eonstorage.blogspot.com/> <https://sites.google.com/site/eonstorage/> |
-| Homepage backup       |  |
 | Based on              | openIndiana |
 | Status                | Discontinued |
 | Architecture          |  |
@@ -68,8 +66,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/eon/> |
 | Distrowatch           |  |
@@ -90,6 +87,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

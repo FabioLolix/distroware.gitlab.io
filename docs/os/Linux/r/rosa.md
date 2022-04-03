@@ -64,7 +64,7 @@
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=rosa> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/ROSA_Linux> |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       | Yes |
 
@@ -81,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/r/rosa.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/r/rosa.md>

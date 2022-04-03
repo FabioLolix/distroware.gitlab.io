@@ -72,7 +72,7 @@
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             | <https://en.wikipedia.org/wiki/CloudLinux_OS> |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -90,6 +90,6 @@
 ## About this page
 
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/c/cloudlinux.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/c/cloudlinux.md>

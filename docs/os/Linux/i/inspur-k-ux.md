@@ -64,7 +64,7 @@
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Inspur_K-UX> |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -81,6 +81,6 @@
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/linux/i/inspur-k-ux.md>
 * <https://github.com/FabioLolix/fabiololix.gitlab.io/tree/master/docs/os/linux/i/inspur-k-ux.md>

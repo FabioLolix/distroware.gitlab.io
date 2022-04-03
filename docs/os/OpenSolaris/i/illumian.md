@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> One time release, uses illumos kernel and Debian’s userland, including APT package manager.
+One time release, uses illumos kernel and Debian’s userland, including APT package manager.
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              | Nexenta OS |
 | Status                | Discontinued |
 | Architecture          |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/illumian/> |
 | Distrowatch           |  |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

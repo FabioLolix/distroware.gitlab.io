@@ -5,9 +5,9 @@
 
 ## Description and history
 
->
 
-> Developed by
+
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,12 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                | Discontinued |
 | Architecture          |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             | <https://archiveos.org/belenix/> |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=belenix> |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>

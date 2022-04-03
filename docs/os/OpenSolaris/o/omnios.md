@@ -5,9 +5,9 @@
 
 ## Description and history
 
-> illumos based server OS with ZFS, DTrace, Crossbow, SMF, Bhyve, KVM and Linux zone support
+illumos based server OS with ZFS, DTrace, Crossbow, SMF, Bhyve, KVM and Linux zone support
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,11 +16,11 @@
 
 ## License and type
 
-> Open source mostly under CDDL license
+Open source mostly under CDDL license
 
-> Commercial support available, the “OmniOS Support Package” includes weekly security 
-> updates as necessary, LTS releases with one year migration overlap and direct 
-> developer access for second level support.
+Commercial support available, the “OmniOS Support Package” includes weekly security 
+updates as necessary, LTS releases with one year migration overlap and direct 
+developer access for second level support.
 
 
 ## Packaging, sources, repositories and building
@@ -35,7 +35,6 @@ Build: <https://omnios.org/dev/build_instructions.html>
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://omnios.org/> |
-| Homepage backup       |  |
 | Based on              | illumos |
 | Status                | Active |
 | Architecture          | x86-64 |
@@ -65,7 +64,7 @@ Build: <https://omnios.org/dev/build_instructions.html>
 | Donations             | <https://omnios.org/patron.html> |
 | Commercial            | Commercial support available |
 | Price                 | Support contract 500 USD per server per year |
-| Social/Contact        | <https://omnios.org/about/contact.html> |
+| Contact               | <https://omnios.org/about/contact.html> |
 | Social                | <https://fb.me/omniosce> |
 | Social                | <https://twitter.com/omniosce> |
 | ArchiveOS             |  |
@@ -88,6 +87,6 @@ Build: <https://omnios.org/dev/build_instructions.html>
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

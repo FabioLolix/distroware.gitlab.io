@@ -69,7 +69,7 @@ No .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -86,6 +86,6 @@ No .dsc, orig.tar.xz and orig.tar.xz of the builded packages available.
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/trentaos.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/trentaos.md>

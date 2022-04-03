@@ -7,7 +7,7 @@
 
 >
 
-> Developed by Jörg Schilling
+Developed by Jörg Schilling
 
 | username | password |  |
 |----------|----------|--|
@@ -16,7 +16,7 @@
 
 ## License and type
 
-> CDDL
+CDDL
 
 
 ## Packaging, sources, repositories and building
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <http://schillix.sourceforge.net/> |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=schillix> |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

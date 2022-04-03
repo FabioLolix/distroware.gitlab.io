@@ -67,7 +67,7 @@ last updated on 28 May 2020.
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| on LWN.net            |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       | No |
 
@@ -85,6 +85,6 @@ last updated on 28 May 2020.
 
 ## About this page
 
-* This page code can be found at:
+* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/s/steamos-arch.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/s/steamos-arch.md>

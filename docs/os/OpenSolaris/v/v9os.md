@@ -7,7 +7,7 @@
 
 >
 
-> Developed by Alexander R. Eremin
+Developed by Alexander R. Eremin
 
 | username | password |  |
 |----------|----------|--|
@@ -16,7 +16,7 @@
 
 ## License and type
 
-> CDDL
+CDDL
 
 
 ## Packaging, sources, repositories and building
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <http://milax.fi/v9os.html> |
-| Homepage backup       |  |
 | Based on              | illumos |
 | Status                |  |
 | Architecture          |  |
@@ -58,7 +57,7 @@
 | Donations             |  |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        | alexander dot r dot eremin a@t gmail dot com |
+| Contact               | alexander dot r dot eremin a@t gmail dot com |
 | Social                | <https://alexeremin.blogspot.com/> |
 | Social                |  |
 | ArchiveOS             |  |
@@ -80,6 +79,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

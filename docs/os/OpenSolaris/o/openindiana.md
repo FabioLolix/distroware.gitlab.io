@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://www.openindiana.org/> |
-| Homepage backup       |  |
 | Based on              | illumos |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -58,9 +57,8 @@
 | Donations             |  |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                | <https://twitter.com/openindiana> |
-| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           | <https://distrowatch.com/openindiana> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/OpenIndiana> |
@@ -80,6 +78,6 @@
 
 ## About this page
 
-* This page code can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris//>
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>
