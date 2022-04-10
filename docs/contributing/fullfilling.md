@@ -221,7 +221,7 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 * **Social**
 
-  Link to official social media, separe with '<br>'
+  Link to official social media, separe with < br > (without whitespaces)
 
 
 * **ArchiveOS**
