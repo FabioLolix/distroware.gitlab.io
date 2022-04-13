@@ -3,7 +3,11 @@ layout: post
 title: Fullfilling pages
 ---
 
-General note, encapsulate URLs with <> otherwise on the builded site they will not be links and don't delete user/password table.
+General note, encapsulate URLs with <> otherwise on the builded site they will not be links
+
+Don't delete user/password table.
+
+For non applicable fileds use - or leave empty
 
 * **Name**
 
@@ -37,14 +41,14 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 * **Type**
 
-  Open, Remix, Freeware, Proprietary, Commercial, Source available, etc..
+  Open, Remix, Freeware, Proprietary, Commercial, Source available, One time release, etc
 
 
 * **Packaging**
 
- Links to where pacakges can be browsed, investigate if those packages can be build by users, investigate availability of .dsc .orig.tar.xz .debian.tar.xz for .deb, .srcrpm for .rpm, pkgbuild, ebuild, SlackBuild, Makefile, etc
+ Links to where pacakges can be browsed, investigate if those packages can be build by users, investigate availability of .dsc .orig.tar.xz .debian.tar.xz for .deb, .spec .srcrpm for .rpm, pkgbuild, ebuild, SlackBuild, Makefile, etc
 
-  Specify if are present out of repository packages and unredestributable software (both pre-installed and available in repository)
+  Specify if are present out of repository packages and unredestributable software (both pre-installed and available in repository), see [here](https://distroware.gitlab.io/lists/Linux_unredestributable_software/) for a non esaustive list
 
 
 * **Source**
@@ -91,7 +95,7 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 * **Category**
 
-  Desktop, Server, Live medium, From RAM, NAS, Media Center, etc..
+  Desktop, Server, Live medium, From RAM, NAS, Media Center, Firewall, Gaming, Retro Gaming, Mobile, Handheld, Telephony,  Clusters, High Performance Computing, Hypervisor  etc
 
 
 * **Desktop, default**
@@ -104,9 +108,14 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
   DE/WM present is official repository, for derivates 'Same as parent'
 
 
+* **Launcher**
+
+  (Android only) default launcher installed
+
+
 * **Source**
 
-  Link to source
+  Link to source of the distribution, link to copy of OSS used
 
 
 * **Download**
@@ -138,6 +147,8 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
   Default init system
 
+  rc, OpenRC, SysV, SystemD, S6, Dinit, etc
+
 
 * **Shell**
 
@@ -146,12 +157,12 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 * **C Library**
 
-  glibc, musl, FreeBSD libc, NetBSD libc, OpenBSD libc
+  glibc, musl, FreeBSD libc, NetBSD libc, OpenBSD libc, uClibc-ng, etc
 
 
 * **Core utils**
 
-  GNU, busybox, FreeBSD, NetBSD, OpenBSD
+  GNU, busybox, FreeBSD, NetBSD, OpenBSD, etc
 
 
 * **Compiler**
@@ -241,7 +252,7 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 * **on LWN.net**
 
-  Yes/No. Is present on https://lwn.net/Distributions list? (can't be linked)
+  (Linux only) Yes/No. Is present on https://lwn.net/Distributions list? (can't be linked)
 
 
 * **Repology**
