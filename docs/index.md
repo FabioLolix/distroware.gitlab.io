@@ -2,24 +2,20 @@
 
 > Welcome to this open archive of Linux, BSD and OpenSolaris based systems and distributions.
 
-* https://distroware.gitlab.io/
+* <https://distroware.gitlab.io/>
 
 ## License
 
-Content is dual licensed as Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA) and GNU Free Documentation License, same as Wikipedia.
-
-* <https://en.wikipedia.org/wiki/Wikipedia:Licensing_update>
-* <https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License>
-* <https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License>
+Content is licensed as [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/) (CC BY-SA 3.0) 
 
 ## Build the website
 
 This site is builded with MkDocs and can be builded and tested locally.
 
-* <https://www.mkdocs.org/#installation>
-* <https://www.mkdocs.org/#building-the-site>
+* [https://www.mkdocs.org/#installation](MkDocs - installation)
+* [https://www.mkdocs.org/#building-the-site](MkDocs - building the site)
 
-Command for quick reload for local development: mkdocs serve --dirtyreload
+Command for quick reload for local development: `mkdocs serve --dirtyreload`
 
 ## Contributing
 
@@ -42,8 +38,3 @@ If you like my work and want to support me there are plenty of options
 * [buymeacoffe](https://www.buymeacoffee.com/FabioLoli)
 * [tipeee](https://en.tipeee.com/fabiololix)
 * [Sponsus](https://sponsus.org/u/fabiololix)
-
-
-
-
-
