@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -31,7 +31,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://amaroklinux.org/> |
-| Homepage backup       |  |
 | Based on              | Debian |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -60,7 +59,7 @@
 | Donations             |  |
 | Commercial            | - |
 | Price                 | - |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                | <https://twitter.com/AmarokLinuxOS> |
 | Social                | <https://t.me/AmarokLinux> |
 | ArchiveOS             |  |

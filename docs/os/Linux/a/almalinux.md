@@ -7,7 +7,7 @@
 
 >
 
-> Development oversee by The AlmaLinux OS Foundation a 501(c)(6) non-profit, backed by CloudLinux Inc. and several others
+Development oversee by The AlmaLinux OS Foundation a 501(c)(6) non-profit, backed by CloudLinux Inc. and several others
 
 | username | password |  |
 |----------|----------|--|
@@ -35,7 +35,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://almalinux.org/> |
-| Homepage backup       |  |
 | Based on              | RHEL |
 | Status                | Active |
 | Architecture          | x86_64, aarch64 |

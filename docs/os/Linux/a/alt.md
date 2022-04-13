@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,7 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
