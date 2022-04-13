@@ -11,7 +11,7 @@
 * <https://grapheneos.org/history/legacy-changelog>
 * <https://grapheneos.org/source>
 
-> Developed by Daniel Micay (thestinger) 
+Developed by Daniel Micay (thestinger) 
 
 | username | password |  |
 |----------|----------|--|
@@ -33,13 +33,11 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://grapheneos.org/> |
-| Homepage backup       |  |
 | Based on              | AOSP |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
+| Launcher              |  |
 | Source                | <https://github.com/GrapheneOS> |
 | Download              | <https://grapheneos.org/releases> |
 | Release model         |  |

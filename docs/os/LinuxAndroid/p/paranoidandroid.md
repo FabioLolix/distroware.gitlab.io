@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -29,13 +29,11 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
+| Launcher              |  |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
@@ -58,7 +56,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
