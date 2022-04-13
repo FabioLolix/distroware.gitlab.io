@@ -245,7 +245,7 @@ For non applicable fileds use - or leave empty
   Link to Distrowatch.com page
 
 
-* ***Wikipedia**
+* **Wikipedia**
 
   Link to English Wikipedia.org page
 
