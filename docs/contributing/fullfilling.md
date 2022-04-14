@@ -53,7 +53,11 @@ For non applicable fileds use - or leave empty
 
 * **Source**
 
-  Links to main repository or GitHub/GitLab organization or equivalent, link to build script or equivalent
+  Links to main repository or GitHub/GitLab organization or equivalent
+
+  Link to build program or script and profile or equivalent
+
+  Link to to source archives for GPL2, GPL3, modified LGPL sources, etc compliance
 
 
 * **Repositories**
