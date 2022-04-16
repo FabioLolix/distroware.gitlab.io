@@ -1,4 +1,4 @@
-# OPNsense
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 
 
-Developed by Deciso B.V.
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,15 +28,15 @@ Developed by Deciso B.V.
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://opnsense.org/> |
-| Based on              | FreeBSD, originally forked from pfSense |
+| Homepage              |  |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | <https://opnsense.org/download/> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -51,7 +51,7 @@ Developed by Deciso B.V.
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://docs.opnsense.org/> |
+| Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
@@ -79,5 +79,5 @@ Developed by Deciso B.V.
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>

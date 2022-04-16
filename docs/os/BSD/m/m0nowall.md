@@ -7,17 +7,17 @@
 
 
 
-Developed by
+Developed by Manuel Kasper 
 
 | username | password |  |
 |----------|----------|--|
-|  |  |  |
+| admin | mono | for webui |
 
 
 ## License and type
 
 
-
+License: BSD 2 clause
 
 ## Packaging, sources, repositories and building
 
@@ -28,14 +28,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://m0n0.ch/wall/index.php> |
+| Based on              | FreeBSD 8.4-RELEASE |
+| Status                | Discontinued |
 | Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Category              | Firewall |
+| Desktop (default)     | WEBUI, CLI |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://svn.m0n0.ch/wall/> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -61,7 +61,7 @@ Developed by
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/M0n0wall> |
 | Repology              |  |
 | In the timeline       |  |
 

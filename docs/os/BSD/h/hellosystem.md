@@ -38,7 +38,7 @@ Build instruction for aarch64 are [available](https://hellosystem.github.io/docs
 | Architecture          | x86_64 |
 | Category              | Desktop |
 | Desktop (default)     | helloDesktop |
-| Desktop (available)   | All desktops available in FreeBSD ports and packages |
+| Desktop (available)   | Same as parent |
 | Source                | <https://github.com/helloSystem/> |
 | Download              | <https://github.com/helloSystem/ISO/releases> |
 | Release model         |  |
@@ -48,7 +48,7 @@ Build instruction for aarch64 are [available](https://hellosystem.github.io/docs
 | Init                  | rc |
 | Shell                 |  |
 | C library             | FreeBSD libc |
-| Compiler              | Like FreeBSD |
+| Compiler              | Same as parent |
 | Language              | English |
 | Country               | Global |
 | IRC                   | #helloSystem on irc.libera.chat, bridged to [Matrix](https://matrix.to/#/%23helloSystem:matrix.org) |

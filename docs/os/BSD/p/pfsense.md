@@ -7,7 +7,7 @@
 
 
 
-Developed by
+Developed by Rubicon Communications LLC (Netgate)
 
 | username | password |  |
 |----------|----------|--|
@@ -29,11 +29,11 @@ Developed by
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Based on              |  |
+| Based on              | FreeBSD, originally forked from m0n0wall |
 | Status                |  |
 | Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Category              | Firewall |
+| Desktop (default)     | WEBUI, CLI |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
