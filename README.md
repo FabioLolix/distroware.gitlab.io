@@ -1,6 +1,6 @@
 # Welcome to the Distroware Archive
 
-> Welcome to this open archive of Linux, BSD and OpenSolaris based systems and distributions.
+Welcome to this open archive of Linux, BSD and OpenSolaris based systems and distributions.
 
 * <https://distroware.gitlab.io/>
 
