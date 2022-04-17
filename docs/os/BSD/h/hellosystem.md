@@ -25,7 +25,7 @@ Developed by [probonopd](https://github.com/probonopd) and [contributors](https:
 
 <https://hellosystem.github.io/docs/developer/building>
 
-Build instruction for aarch64 are [available](https://hellosystem.github.io/docs/developer/rpi))
+Build instruction for aarch64 are [available](https://hellosystem.github.io/docs/developer/rpi)
 
 ## Table
 

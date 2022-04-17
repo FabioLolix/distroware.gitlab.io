@@ -11,7 +11,7 @@ For non applicable fileds use - or leave empty
 
 * **Name**
 
-  Distribution name, respect deveopers typing (lower case, upper case, whitespaces, etc)
+  Distribution name, respect developers typing (lower case, upper case, whitespaces, etc)
 
 
 * **Screenshot**
