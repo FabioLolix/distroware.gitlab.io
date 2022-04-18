@@ -38,6 +38,8 @@ For non applicable fileds use - or leave empty
 
   Usually easier to apply for BSD or OpenSolaris then Linux distributions, writing 'Mix of licenses' is fine, if a project have a preferred license you're welcome to write that.
 
+  Some projects specify a single license for ISO images which is silly, some platforms (i.e. SourceForge) encourage that, when this happen use for example 'GPL3 (sic)' 
+
 
 * **Type**
 
@@ -57,7 +59,7 @@ For non applicable fileds use - or leave empty
 
   Link to build program or script and profile or equivalent
 
-  Link to to source archives for GPL2, GPL3, modified LGPL sources, etc compliance
+  Link to source archives for GPL2, GPL3, modified LGPL sources, etc compliance
 
 
 * **Repositories**
@@ -94,7 +96,7 @@ For non applicable fileds use - or leave empty
 
 * **Architecture**
 
-  Currently supported CPU architectures
+  Currently supported CPU architectures, dropped architectures can be specified in history and in **release** (i.e. v10.1 last x86 image)
 
 
 * **Category**
@@ -104,7 +106,7 @@ For non applicable fileds use - or leave empty
 
 * **Desktop, default**
 
-  DE/WM (respect developers typing) used on official images, also valid CLI and WEBUI, respect developers typing.
+  DE/WM (respect developers typing) used on official images, also valid CLI and WEBUI.
 
 
 * **Desktop, available**
