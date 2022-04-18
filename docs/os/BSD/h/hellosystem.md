@@ -51,7 +51,7 @@ Build instruction for aarch64 are [available](https://hellosystem.github.io/docs
 | Compiler              | Same as parent |
 | Language              | English |
 | Country               | Global |
-| IRC                   | #helloSystem on irc.libera.chat, bridged to Matrix <br> [Matrix](https://matrix.to/#/%23helloSystem:matrix.org) |
+| IRC                   | ircs://irc.libera.chat:6697#helloSystem bridged to Matrix <br> [Matrix](https://matrix.to/#/%23helloSystem:matrix.org) |
 | Forum                 | - |
 | Mailing list          | - |
 | Docs                  | <https://hellosystem.github.io/docs/> |
