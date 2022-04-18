@@ -28,39 +28,40 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Homepage              | <https://hardenedbsd.org/> |
+| Based on              | FreeBSD |
+| Status                | Active |
+| Architecture          | x86_64, arm64 |
+| Category              | Desktop, Server, Security |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/> |
+| Download              | <https://ci-01.nyi.hardenedbsd.org/pub/hardenedbsd/> |
 | Release model         |  |
 | Packaging             |  |
-| Package management    |  |
-| Installer             |  |
-| Init                  |  |
-| Shell                 |  |
-| C library             |  |
-| Core utils            |  |
-| Compiler              |  |
+| Package management    | pkg |
+| Installer             | bsdinstall |
+| Init                  | rc |
+| Shell                 | sh, csh |
+| C library             | FreeBSD libc |
+| Core utils            | BSD Core utils |
+| Compiler              | Same as FreeBSD |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
+| Country               | USA |
+| IRC                   | #hardenedbsd at Libera Chat IRC |
 | Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
+| Mailing list          | <https://hardenedbsd.org/content/mailing-lists/> |
+| Docs                  | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/-/wikis/home/> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | No |
+| Price                 | Free |
 | Contact               |  |
-| Social                |  |
+| Social                | <https://twitter.com/HardenedBSD/> |
+| Social                | <https://bsd.network/@hardenedbsd/> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=hardenedbsd/> |
 | Wikipedia             |  |
 | Repology              |  |
 | In the timeline       |  |
