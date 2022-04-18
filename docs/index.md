@@ -12,8 +12,8 @@ Content is licensed as [Creative Commons Attribution-ShareAlike 3.0 Unported Lic
 
 This site is builded with MkDocs and can be builded and tested locally.
 
-* [https://www.mkdocs.org/#installation](MkDocs - installation)
-* [https://www.mkdocs.org/#building-the-site](MkDocs - building the site)
+* [https://www.mkdocs.org/#installation](MkDocs installation)
+* [https://www.mkdocs.org/#building-the-site](MkDocs building the site)
 
 Command for quick reload for local development: `mkdocs serve --dirtyreload`
 
