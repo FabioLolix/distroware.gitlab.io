@@ -153,7 +153,7 @@ For non applicable fileds use - or leave empty
 
   Default init system
 
-  rc, OpenRC, SysV, SystemD, S6, Dinit, etc
+  rc, OpenRC, SysVinit, systemd, S6, Dinit, etc
 
 
 * **Shell**
