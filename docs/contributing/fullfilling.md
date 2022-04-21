@@ -3,11 +3,18 @@ layout: post
 title: Fullfilling pages
 ---
 
+The default template is distroware/template.txt which need to be copied in the respective subdirectory distroware/docs/os/(BSD,Linux,LinuxAndroid,OpenSolaris,Plan9) as $OS-NAME.md, all lowercase
+
 General note, encapsulate URLs with <> otherwise on the builded site they will not be links
 
 Don't delete user/password table.
 
 For non applicable fileds use - or leave empty
+
+For pratically all fields is intended if possible or if applicable
+
+When updating existing pages please remove leftovers '> ' they are no longer needed.
+
 
 * **Name**
 
@@ -28,6 +35,8 @@ For non applicable fileds use - or leave empty
 
   Usually easier to apply for system developed by companies, does not exclude specify 'Founded by'
 
+  Add 'Overseen by $NAME Foundation' if applicable and if the project have a related commercial company
+
 
 * **username and password**
 
@@ -38,7 +47,9 @@ For non applicable fileds use - or leave empty
 
   Usually easier to apply for BSD or OpenSolaris then Linux distributions, writing 'Mix of licenses' is fine, if a project have a preferred license you're welcome to write that.
 
-  Some projects specify a single license for ISO images which is silly, some platforms (i.e. SourceForge) encourage that, when this happen use for example 'GPL3 (sic)' 
+  Some projects specify a single license for ISO images which is silly, some platforms (i.e. SourceForge) encourage that, when this happen use for example 'GPL3 (sic)'
+
+  List regulations of export
 
 
 * **Type**
