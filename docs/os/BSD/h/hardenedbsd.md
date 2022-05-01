@@ -5,14 +5,7 @@
 
 ## Description and history
 
-
-
-Developed by
-
-| username | password |  |
-|----------|----------|--|
-|  |  |  |
-
+Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD. The project started with Address Space Layout Randomization (ASLR) as an initial focal point and is now implementing further exploit mitigation techniques.
 
 ## License and type
 
