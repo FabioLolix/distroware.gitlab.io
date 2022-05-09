@@ -5,13 +5,13 @@
 
 ## Description and history
 
->
+RoshanOS is a computer operating system based on Linux with a lot of preinstalled software. It’s fast, secure and legal to use & install on as many systems as you like! Right click “Refresh” option is added in RoshanOS specially for Windows users 😎 Interesting thing is that after the installation of RoshanOS, you can customize it and create your own distribution easily.
 
-> Developed by
+Developed by Aamir Shahzad aka ASAKPKE
 
 | username | password |  |
 |----------|----------|--|
-|  |  |  |
+| roshantech | esite.pk |  |
 
 
 ## License and type
@@ -29,14 +29,14 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://sourceforge.net/projects/roshan-os/> |
-| Homepage backup       |  |
-| Based on              |  |
+| Homepage backup       | <https://esite.pk/roshan-os/> |
+| Based on              | Linux Mint |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
-| Source                |  |
+| Desktop (default)     | Cinnamon |
+| Desktop (available)   | Open Box |
+| Source                | <https://github.com/asakpke/RoshanOS> |
 | Download              | <https://sourceforge.net/projects/roshan-os/files/> |
 | Release model         |  |
 | Packaging             |  |
@@ -47,24 +47,24 @@
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | English, Urdu |
+| Country               | Pakistan |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://docs.google.com/document/d/13O03TQr2uVksSYozYaa_luC7MhF4G-9TWb7_DOm9QcY/> |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             |  |
+| Donations             | <https://patreon.com/asakpke> |
 | Commercial            |  |
-| Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Price                 | Free |
+| Social/Contact        | Aamir@eSite.pk |
+| Social                | <https://fb.com/asakpke> |
+| Social                | <https://twitter.com/asakpke> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
+| [on LWN.net](https://lwn.net/Distributions/) | <https://lwn.net/Distributions/#pakistan> |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -76,7 +76,7 @@
 
 ## Media coverage
 
-* 
+* https://technologytimes.pk/2021/02/09/roshanos-a-pakistani-operating-system-all-you-need-to-know/ 
 
 
 ## About this page
