@@ -51,7 +51,7 @@ Developed by Aamir Shahzad aka ASAKPKE
 | Language              | English, Urdu |
 | Country               | Pakistan |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://sourceforge.net/p/roshan-os/discussion/> |
 | Mailing list          |  |
 | Docs                  | <https://docs.google.com/document/d/13O03TQr2uVksSYozYaa_luC7MhF4G-9TWb7_DOm9QcY/> |
 | Bugtracker            |  |
@@ -63,7 +63,7 @@ Developed by Aamir Shahzad aka ASAKPKE
 | Social                | <https://fb.com/asakpke> |
 | Social                | <https://twitter.com/asakpke> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/dwres.php?resource=submit#waiting> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) | <https://lwn.net/Distributions/#pakistan> |
 | Repology              |  |
