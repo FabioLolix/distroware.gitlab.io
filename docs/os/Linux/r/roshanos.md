@@ -32,11 +32,11 @@ Developed by Aamir Shahzad aka ASAKPKE
 | Homepage              | <https://sourceforge.net/projects/roshan-os/> |
 | Homepage backup       | <https://esite.pk/roshan-os/> |
 | Based on              | Linux Mint |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Status                | Active |
+| Architecture          | 64 Bits only (amd64) |
+| Category              | Beginner, Desktop |
 | Desktop (default)     | Cinnamon |
-| Desktop (available)   | Open Box |
+| Desktop (available)   | OpenBox |
 | Source                | <https://github.com/asakpke/RoshanOS> |
 | Download              | <https://sourceforge.net/projects/roshan-os/files/> |
 | Release model         |  |
