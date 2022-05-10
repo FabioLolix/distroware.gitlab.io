@@ -54,7 +54,7 @@ Developed by Aamir Shahzad aka ASAKPKE
 | Forum                 | <https://sourceforge.net/p/roshan-os/discussion/> |
 | Mailing list          |  |
 | Docs                  | <https://docs.google.com/document/d/13O03TQr2uVksSYozYaa_luC7MhF4G-9TWb7_DOm9QcY/> |
-| Bugtracker            |  |
+| Bugtracker            | <https://sourceforge.net/p/roshan-os/tickets/> |
 | Translation           |  |
 | Donations             | <https://patreon.com/asakpke> |
 | Commercial            |  |
