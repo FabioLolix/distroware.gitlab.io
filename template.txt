@@ -58,7 +58,7 @@ Developed by
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
