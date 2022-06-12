@@ -1,13 +1,13 @@
-# $NAME
+# RoshanOS
 
 ## Screenshot
 
 
 ## Description and history
 
->
+Remix of Linux Mint Cinnamon created with systemback, have a lot of programs pre-installed (especially games) and several web apps
 
-> Developed by
+Created by Aamir Shahzad (asakpke)
 
 | username | password |  |
 |----------|----------|--|
@@ -16,20 +16,23 @@
 
 ## License and type
 
->
+Remix
 
 
 ## Packaging, sources, repositories and building
 
->
+Have 8 out of repository packages: 6 for systemback, linux-urdu-installer and zoom
+
+Additional repository teamviewver, lutris
+
+Have installed zoom (no license) and teamviewver (unredestributable)
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://sourceforge.net/projects/roshan-os/> |
-| Homepage backup       |  |
+| Homepage              | <https://esite.pk/roshan-os/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,13 +61,13 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
+| [on LWN.net](https://lwn.net/Distributions/) | yes |
 | Repology              |  |
 | In the timeline       |  |
 
