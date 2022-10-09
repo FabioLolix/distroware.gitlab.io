@@ -80,5 +80,5 @@ Developed by
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/d/danube-cloud.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/d/danube-cloud.md>
