@@ -3,11 +3,19 @@ layout: post
 title: Fullfilling pages
 ---
 
-The default template is distroware/template.txt which need to be copied in the respective subdirectory distroware/docs/os/(BSD,Linux,LinuxAndroid,OpenSolaris,Plan9) as $OS-NAME.md, all lowercase
+Download with
+
+`git clone https://github.com/FabioLolix/distroware.gitlab.io`
+
+or 
+
+`git clone https://gitlab.com/Distroware/distroware.gitlab.io`
+
+The default template is distroware.gitlab.io/template.txt which need to be copied in the respective subdirectory distroware/docs/os/(BSD,Linux,LinuxAndroid,OpenSolaris,Plan9) as $OS-NAME.md, all lowercase
 
 General note, encapsulate URLs with <> otherwise on the builded site they will not be links
 
-Don't delete user/password table.
+Don't delete user/password table!
 
 For non applicable fileds use - or leave empty
 
@@ -28,7 +36,7 @@ When updating existing pages please remove leftovers '> ' they are no longer nee
 
 * **Description and history**
 
-  What the stuff is and a bit of histiry, wikipedia style more or less
+  What the stuff is and a bit of history, wikipedia style more or less
 
 
 * **Developed by**
@@ -229,7 +237,7 @@ When updating existing pages please remove leftovers '> ' they are no longer nee
 
 * **Donations**
 
-  Link to donations page(s)
+  Link to donations page(s) (links for remixes/freeware will not be active)
 
 
 * **Commercial**
