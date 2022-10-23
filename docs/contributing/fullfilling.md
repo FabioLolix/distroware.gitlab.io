@@ -67,10 +67,11 @@ When updating existing pages please remove leftovers '> ' they are no longer nee
 
 * **Packaging**
 
- Links to where pacakges can be browsed, investigate if those packages can be build by users, investigate availability of .dsc .orig.tar.xz .debian.tar.xz for .deb, .spec .srcrpm for .rpm, pkgbuild, ebuild, SlackBuild, Makefile, etc
+  Links to where pacakges can be browsed, investigate if those packages can be build by users, investigate availability of .dsc .orig.tar.xz .debian.tar.xz for .deb, .spec .srcrpm for .rpm, pkgbuild, ebuild, SlackBuild, Makefile, etc
 
   Specify if are present out of repository packages and unredestributable software (both pre-installed and available in repository), see [here](https://distroware.gitlab.io/lists/Linux_unredestributable_software/) for a non esaustive list
 
+  Package build files are developed on a version control system? (yes/no)
 
 * **Source**
 
