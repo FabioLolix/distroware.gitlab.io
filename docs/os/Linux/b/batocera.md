@@ -7,6 +7,8 @@
 
 Specific purpose for retrogaming, builded with buildroot
 
+See compatibility list here <https://batocera.org/compatibility.php>
+
 Founded by Nicolas, developed by Batocera Linux Team
 
 | username | password | notes |
@@ -27,7 +29,7 @@ Builded images contain many libretro-based emulators which have an explicit non-
 
 Github organization: <https://github.com/batocera-linux/>
 
-<https://github.com/batocera-linux/batocera.linux>
+Build files repo: <https://github.com/batocera-linux/batocera.linux>
 
 Building: <https://wiki.batocera.org/compile_batocera.linux>
 
