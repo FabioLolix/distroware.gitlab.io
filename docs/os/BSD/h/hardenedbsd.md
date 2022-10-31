@@ -26,7 +26,7 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://hardenedbsd.org//> |
+| Homepage              | <https://hardenedbsd.org/> |
 | Based on              | FreeBSD |
 | Status                | Active |
 | Architecture          | x86_64, arm64 |
