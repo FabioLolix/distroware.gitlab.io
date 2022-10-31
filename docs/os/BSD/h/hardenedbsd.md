@@ -11,6 +11,7 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 |----------|----------|--|
 |  |  |  |
 
+
 ## License and type
 
 
