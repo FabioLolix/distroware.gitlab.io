@@ -7,6 +7,9 @@
 
 Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhanced fork of FreeBSD. The HardenedBSD Project is implementing many exploit mitigation and security technologies on top of FreeBSD. The project started with Address Space Layout Randomization (ASLR) as an initial focal point and is now implementing further exploit mitigation techniques.
 
+| username | password |  |
+|----------|----------|--|
+|  |  |  |
 ## License and type
 
 
@@ -21,15 +24,15 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://hardenedbsd.org/> |
+| Homepage              | <https://hardenedbsd.org//> |
 | Based on              | FreeBSD |
 | Status                | Active |
 | Architecture          | x86_64, arm64 |
 | Category              | Desktop, Server, Security |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/> |
-| Download              | <https://ci-01.nyi.hardenedbsd.org/pub/hardenedbsd/> |
+| Source                | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD//> |
+| Download              | <https://ci-01.nyi.hardenedbsd.org/pub/hardenedbsd//> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    | pkg |
@@ -39,22 +42,22 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 | C library             | FreeBSD libc |
 | Core utils            | BSD Core utils |
 | Compiler              | Same as FreeBSD |
-| Language              |  |
+| Language              | C |
 | Country               | USA |
 | IRC                   | #hardenedbsd at Libera Chat IRC |
 | Forum                 |  |
-| Mailing list          | <https://hardenedbsd.org/content/mailing-lists/> |
-| Docs                  | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/-/wikis/home/> |
+| Mailing list          | <https://hardenedbsd.org/content/mailing-lists//> |
+| Docs                  | <https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/-/wikis/home//> |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             |  |
+| Donations             | <https://hardenedbsd.org/content/donors//> |
 | Commercial            | No |
 | Price                 | Free |
 | Contact               |  |
-| Social                | <https://twitter.com/HardenedBSD/> |
-| Social                | <https://bsd.network/@hardenedbsd/> |
+| Social                | <https://twitter.com/HardenedBSD//> |
+| Social                | <https://bsd.network/@hardenedbsd//> |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=hardenedbsd/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=hardenedbsd//> |
 | Wikipedia             |  |
 | Repology              |  |
 | In the timeline       |  |
@@ -67,7 +70,7 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 
 ## Media coverage
 
-* 
+* <http://hardenedbsd.org/in_media//>
 
 
 ## About this page
