@@ -16,8 +16,7 @@ Developed by
 
 ## License and type
 
-
-
+Apache License, Version 2.0
 
 ## Packaging, sources, repositories and building
 
@@ -28,33 +27,33 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Homepage              | <https://dahliaos.io> |
+| Based on              | Buildroot |
+| Status                | Alpha |
+| Architecture          | x86_64 |
 | Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
-| Source                | <https://github.com/dahlia-os> |
-| Download              | <https://github.com/dahlia-os/releases/releases> |
-| Release model         |  |
-| Packaging             |  |
-| Package management    |  |
+| Desktop (default)     | Pangolin |
+| Desktop (available)   | Pangolin |
+| Source                | <https://github.com/dahliaOS> |
+| Download              | <https://dahliaos.io/download> |
+| Release model         | Rolling release |
+| Packaging             | DAP |
+| Package management    | DAP |
 | Installer             |  |
-| Init                  |  |
-| Shell                 |  |
+| Init                  | Busybox |
+| Shell                 | bash |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
+| Language              | Turkish, French, German, Polish, Spanish, Dutch, roman, Portuguese, Italian, English, Ukrainian |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://docs.dahliaos.io> |
 | Bugtracker            |  |
-| Translation           |  |
-| Donations             |  |
+| Translation           | <https://translate.dahliaos.io> |
+| Donations             | <https://dahliaos.io/translate> |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
