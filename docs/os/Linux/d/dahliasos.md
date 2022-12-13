@@ -57,7 +57,7 @@ Apache License, Version 2.0
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <https://twitter.com/realdahliaos> |
+| Social                | <https://dahliaos.io/twitter> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -68,8 +68,7 @@ Apache License, Version 2.0
 
 ## Releases
 
-* 
-
+* dahliaOS Linux 220222
 
 ## Media coverage
 
