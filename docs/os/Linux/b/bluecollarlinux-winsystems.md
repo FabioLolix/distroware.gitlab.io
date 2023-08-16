@@ -1,4 +1,4 @@
-# Chromium OS
+# $NAME
 
 ## Screenshot
 
@@ -28,14 +28,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
+| Homepage              |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -58,7 +58,7 @@ Developed by
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -74,12 +74,26 @@ Developed by
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* 
+https://www.winsystems.com/
+https://www.controleng.com/articles/linux-for-industrial-applications-2/
+https://www.automationworld.com/products/control/article/13302738/linux-for-industrial-applications
+https://www.edn.com/gnu-linux-embedded-systems-include-board-specific-drivers/
+https://www.eetimes.com/linux-version-targets-embedded-industrial-boards/
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>

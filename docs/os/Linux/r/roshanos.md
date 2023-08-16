@@ -8,6 +8,8 @@
 
 RoshanOS is a computer operating system based on Linux with a lot of preinstalled software. It’s fast, secure and legal to use & install on as many systems as you like! Right click “Refresh” option is added in RoshanOS specially for Windows users 😎 Interesting thing is that after the installation of RoshanOS, you can customize it and create your own distribution easily.
 
+RoshanOS 1.x is a remix of Linux Mint Cinnamon created with systemback, have a lot of programs pre-installed (especially games) and several web apps
+
 Developed by Aamir Shahzad aka ASAKPKE
 
 | username | password |  |
@@ -17,12 +19,16 @@ Developed by Aamir Shahzad aka ASAKPKE
 
 ## License and type
 
->
+Remix
 
 
 ## Packaging, sources, repositories and building
 
->
+Have 8 out of repository packages: 6 for systemback, linux-urdu-installer and zoom
+
+Additional repository teamviewver, lutris
+
+Have installed zoom (no license) and teamviewver (unredestributable)
 
 
 ## Table
@@ -31,11 +37,11 @@ Developed by Aamir Shahzad aka ASAKPKE
 |-----------------------|--|
 | Homepage              | <https://sourceforge.net/projects/roshan-os/> |
 | Homepage backup       | <https://esite.pk/roshan-os/> |
-| Based on              | Linux Mint |
+| Based on              | Linux Mint | MX Linux
 | Status                | Active |
 | Architecture          | 64 Bits only (amd64) |
 | Category              | Beginner, Desktop |
-| Desktop (default)     | Cinnamon |
+| Desktop (default)     | Cinnamon | KDE
 | Desktop (available)   | OpenBox |
 | Source                | <https://github.com/asakpke/RoshanOS> |
 | Download              | <https://sourceforge.net/projects/roshan-os/files/> |
@@ -72,6 +78,7 @@ Developed by Aamir Shahzad aka ASAKPKE
 
 ## Releases
 
+* 2.0
 * 1.1
 * 1.0
 

@@ -1,4 +1,4 @@
-# Chromium OS
+# Blue Collar Linux
 
 ## Screenshot
 
@@ -7,11 +7,11 @@
 
 
 
-Developed by
+Created by Paladin Systems, LLC
 
 | username | password |  |
 |----------|----------|--|
-|  |  |  |
+| liveuser | liveuser |  |
 
 
 ## License and type
@@ -28,16 +28,16 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
+| Homepage              | <https://paladin-blue.com/> |
+| Based on              | Ubuntu LTS 14.04 |
 | Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
-| Download              |  |
-| Release model         |  |
+| Architecture          | x86_64 |
+| Category              | Desktop |
+| Desktop (default)     | Xfce |
+| Desktop (available)   | same as parent |
+| Source                |  |
+| Download              | <https://www.dropbox.com/s/42jqpqg486kbhu8/BlueCollar.iso?dl=1> |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
@@ -74,12 +74,11 @@ Developed by
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <https://www.linuxinsider.com/story/blue-collar-linux-something-borrowed-something-new-85787.html>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/b/bluecollarlinux.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/b/bluecollarlinux.md>

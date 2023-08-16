@@ -9,7 +9,7 @@
 
 > Based on RHEL since version 8 with full binary compatibility.
 
-> Developed by EuroLinux Sp. z o.o
+Developed by EuroLinux Sp. z o.o
 
 | username | password |  |
 |----------|----------|--|
@@ -37,7 +37,7 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://en.euro-linux.com/eurolinux/> |
-| Homepage backup       |  |
+|  |  |
 | Based on              | RHEL, Scientific (v7) |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -81,11 +81,11 @@
 
 ## Releases
 
-* EL-8.4 16-Aug-2021
-* EL-8.3 24-Jun-2021
-* EuroLinux.7.9 27-May-2021
-* 25.05.2021 Eurolinux 8
-* 23.02.2015 Eurolinux 6/7
+* EuroLinux 8.4 - 2021.08.16
+* EuroLinux 8.3 - 2021.06.24
+* EuroLinux 7.9 - 2021.05.27
+* Eurolinux 8 - 2021.05.25 
+* Eurolinux 6 and 7 - 2015.02.23 
 
 
 ## Media coverage

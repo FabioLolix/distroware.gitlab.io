@@ -1,4 +1,4 @@
-# Chromium OS
+# $NAME
 
 ## Screenshot
 
@@ -28,14 +28,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
+| Homepage              |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -58,7 +58,7 @@ Developed by
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -74,12 +74,15 @@ Developed by
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <[Google's ChromeOS Flex turned my old MacBook into new frustrations](https://www.theregister.com/2022/08/08/chromeos_flex_review/)>
+* <https://www.theregister.com/2022/07/14/chrome_os_flex_launched/>
+* <https://www.theregister.com/2022/02/16/google_chrome_os/>
+* <https://arstechnica.com/gadgets/2022/02/chromeos-flex-is-an-ideal-off-ramp-for-millions-of-pcs-that-cant-run-windows-11/>
+* <https://arstechnica.com/gadgets/2022/02/google-turns-old-macs-pcs-into-chromebooks-with-chrome-os-flex/>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>

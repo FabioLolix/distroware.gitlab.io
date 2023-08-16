@@ -1,4 +1,4 @@
-# airyx
+# $NAME
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 
 
-Developed by Zoe Knox
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,7 +16,7 @@ Developed by Zoe Knox
 
 ## License and type
 
-BSD 2-Clause License
+
 
 
 ## Packaging, sources, repositories and building
@@ -26,43 +26,43 @@ BSD 2-Clause License
 
 ## Table
 
-
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://airyx.org/> |
+| Homepage              |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/mszoek/airyx> |
-| Download              | <https://github.com/mszoek/airyx/releases> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
-| Init                  | rc |
+| Init                  |  |
 | Shell                 |  |
-| C library             | FreeBSD libc |
+| C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              | English |
+| Language              |  |
 | Country               |  |
-| IRC                   | <https://web.libera.chat/?channel=#airyx> |
+| IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            | No |
-| Price                 | - |
-| Contact               | <https://twitter.com/AiryxOS> |
+| Commercial            |  |
+| Price                 |  |
+| Contact               |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
@@ -74,11 +74,11 @@ BSD 2-Clause License
 
 ## Media coverage
 
-* https://console.substack.com/p/console-67
+* 
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/d/danube-cloud.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/d/danube-cloud.md>

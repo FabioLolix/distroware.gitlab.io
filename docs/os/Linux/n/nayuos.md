@@ -1,13 +1,13 @@
-# $NAME
+# NayuOS
 
 ## Screenshot
 
 
 ## Description and history
 
->
 
-> Developed by
+
+Developed by Nexedi
 
 | username | password |  |
 |----------|----------|--|
@@ -16,26 +16,25 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+<https://lab.nexedi.com/nexedi/nayuos-ebuilds>
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
+| Homepage              | <https://nayuos.nexedi.com/> |
+| Based on              | ChromiumOS |
 | Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Architecture          | x86_64 |
+| Category              | Desktop |
 | Desktop (default)     |  |
-| Desktop (available)   |  |
+| Desktop (available)   | - |
 | Source                |  |
 | Download              |  |
 | Release model         |  |
@@ -58,8 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               | <https://www.nexedi.com/contact> |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
@@ -71,7 +69,12 @@
 
 ## Releases
 
-* 
+* r79 - 2020/01/23
+* r77 - 2019/08/08
+* r68 - 2018/08/24
+* r62 - 2017/10/05
+* r61 - 2017/07/14
+* r60 - 2017/07/08 (Generic image amd64-generic is being built from now on)
 
 
 ## Media coverage

@@ -1,4 +1,4 @@
-# Chromium OS
+# openFyde
 
 ## Screenshot
 
@@ -28,14 +28,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://openfyde.io/> |
+| Based on              | Chromium OS |
+| Status                | Active |
 | Architecture          |  |
-| Category              |  |
+| Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
+| Source                | <https://github.com/openfyde> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -57,8 +57,8 @@ Developed by
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Contact               |  |
-| Social                |  |
+| Contact               | dev-support @ openfyde.io |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -69,17 +69,20 @@ Developed by
 
 ## Releases
 
-* 
+* r96-r3 - 2022/08/11 Rock Pi 4B
+* r96-r2 - 2022/07/29 Rock Pi 4B
+* r96-r1 - 2022/07/29 Rock Pi 4B
+* 102 - 2022/06/29
+* r96 - 2022/05/24
 
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* 
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>

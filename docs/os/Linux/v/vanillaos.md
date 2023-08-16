@@ -1,4 +1,4 @@
-# Chromium OS
+# Vanilla OS
 
 ## Screenshot
 
@@ -7,10 +7,10 @@
 
 
 
-Developed by
+Developed by Mirko Brombin and contributors
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -21,21 +21,23 @@ Developed by
 
 ## Packaging, sources, repositories and building
 
+<https://github.com/Vanilla-OS/repository>
 
+<https://github.com/Vanilla-OS/os>
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Homepage              | <https://vanillaos.org/> |
+| Based on              | Ubuntu |
+| Status                | Active |
+| Architecture          | x86_64 |
 | Category              |  |
-| Desktop (default)     |  |
+| Desktop (default)     | GNOME |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
+| Source                | <https://github.com/Vanilla-OS> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -58,7 +60,7 @@ Developed by
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -74,12 +76,11 @@ Developed by
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <https://news.itsfoss.com/vanilla-os-beta/>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>

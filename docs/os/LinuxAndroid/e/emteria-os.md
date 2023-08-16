@@ -5,7 +5,7 @@
 
 ## Description and history
 
->
+
 
 Developed by
 
@@ -16,12 +16,12 @@ Developed by
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table

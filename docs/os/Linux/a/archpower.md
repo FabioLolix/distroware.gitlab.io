@@ -1,13 +1,14 @@
-# $NAME
+# ArchPOWER
 
 ## Screenshot
 
 
 ## Description and history
 
+Unofficial Archlinux port to powerpc64le, powerpc, riscv64 and in parts powerpc64 (BE)
 
+Developed by kth5 (Alexander Baldeck) and contributors
 
-Developed by
 
 | username | password | notes |
 |----------|----------|-------|
@@ -21,22 +22,26 @@ Developed by
 
 ## Packaging, sources, repositories and building
 
+<https://github.com/kth5/archpower>
 
+<https://github.com/kth5/archiso>
+
+<https://github.com/kth5/archpower-tools>
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Homepage              | <https://archlinuxpower.org/> |
+| Based on              | Arch Linux |
+| Status                | Active |
+| Architecture          | powerpc64le, powerpc, riscv64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/kth5/archpower> |
+| Download              | <https://archlinuxpower.org/iso/> <https://archlinuxpower.org/riscv-images/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -55,8 +60,8 @@ Developed by
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | No |
+| Price                 | - |
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |

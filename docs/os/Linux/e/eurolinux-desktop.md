@@ -1,4 +1,4 @@
-# Chromium OS
+# EuroLinux Desktop
 
 ## Screenshot
 
@@ -6,11 +6,12 @@
 ## Description and history
 
 
+Basic and Standard support can be purchased
 
 Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -28,14 +29,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Homepage              | <https://en.euro-linux.com/eurolinux/desktop/> |
+| Based on              | RHEL |
+| Status                | Active |
+| Architecture          | x86_64 |
+| Category              | Desktop |
+| Desktop (default)     | GNOME |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -55,10 +56,10 @@ Developed by
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | Support can be purchased |
+| Price                 | from 10€ per year |
 | Contact               |  |
-| Social                |  |
+| Social                | <https://twitter.com/euro_linux> <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -69,17 +70,16 @@ Developed by
 
 ## Releases
 
-* 
+* EuroLinux Desktop 9 - 2022.09.20
 
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <https://linuxiac.com/eurolinux-desktop-9/>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>

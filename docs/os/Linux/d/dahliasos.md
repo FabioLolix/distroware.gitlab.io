@@ -5,9 +5,9 @@
 
 ## Description and history
 
->
 
-> Developed by
+
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,12 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
@@ -29,7 +29,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,9 +57,8 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                | <https://twitter.com/realdahliaos> |
-| Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |

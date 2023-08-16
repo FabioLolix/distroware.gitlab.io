@@ -1,4 +1,4 @@
-# Chromium OS
+# MyBee
 
 ## Screenshot
 
@@ -9,8 +9,8 @@
 
 Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -21,6 +21,7 @@ Developed by
 
 ## Packaging, sources, repositories and building
 
+<https://github.com/myb-project/myb-build>
 
 
 
@@ -28,15 +29,15 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
+| Homepage              | <https://myb.convectix.com/> |
+| Based on              | FreeBSD |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
-| Download              |  |
+| Source                | <https://github.com/myb-project> |
+| Download              | <https://myb.convectix.com/download/#Download> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -51,14 +52,14 @@ Developed by
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://github.com/myb-project/guide> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -69,17 +70,16 @@ Developed by
 
 ## Releases
 
-* 
+* <https://myb.convectix.com/news/>
 
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <https://habr.com/en/post/569226/>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>

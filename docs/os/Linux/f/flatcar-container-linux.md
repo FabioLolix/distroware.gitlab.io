@@ -1,13 +1,13 @@
-# Chromium OS
+# Flatcar Container Linux
 
 ## Screenshot
 
 
 ## Description and history
 
+Flatcar Container Linux is a container optimized OS that ships a minimal OS image, which includes only the tools needed to run containers. The OS is shipped through an immutable filesystem and includes automatic atomic updates.
 
-
-Developed by
+Developed by Kinvolk (Microsoft)
 
 | username | password |  |
 |----------|----------|--|
@@ -21,22 +21,22 @@ Developed by
 
 ## Packaging, sources, repositories and building
 
-
+<https://github.com/flatcar>
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Homepage              | <https://flatcar.org/> |
+| Based on              | CoreOS |
+| Status                | Active |
+| Architecture          | x86_64, arm64 |
+| Category              | Containers |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://chromium.googlesource.com/chromiumos/> |
-| Download              |  |
+| Source                | <https://github.com/flatcar> |
+| Download              | <https://www.flatcar.org/releases> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -51,14 +51,14 @@ Developed by
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://flatcar-linux.org/docs/latest> |
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
-| Commercial            |  |
+| Commercial            | Yes (Kinvolk subscription) |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <https://twitter.com/flatcar> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -74,12 +74,12 @@ Developed by
 
 ## Media coverage
 
-* <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
-* <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
+* <https://kinvolk.io/blog/2021/04/microsoft-acquires-kinvolk/>
+* <https://kinvolk.io/blog/2018/03/announcing-the-flatcar-linux-project/>
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/f/flatcar.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/f/flatcar.md>
