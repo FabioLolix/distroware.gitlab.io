@@ -7,11 +7,11 @@ Download with
 
 `git clone https://github.com/FabioLolix/distroware.gitlab.io`
 
-or 
+or
 
 `git clone https://gitlab.com/Distroware/distroware.gitlab.io`
 
-The default template is distroware.gitlab.io/template.txt which need to be copied in the respective subdirectory distroware/docs/os/(BSD,Linux,LinuxAndroid,OpenSolaris,Plan9) as $OS-NAME.md, all lowercase
+The default template is `distroware.gitlab.io/template.txt` which need to be copied in the respective subdirectory `distroware/docs/os/(BSD,Linux,LinuxAndroid,OpenSolaris,Plan9)` as $OS-NAME.md, all lowercase
 
 General note, encapsulate URLs with <> otherwise on the builded site they will not be links
 
@@ -36,7 +36,13 @@ When updating existing pages please remove leftovers '> ' they are no longer nee
 
 * **Description and history**
 
-  What the stuff is and a bit of history, wikipedia style more or less
+  What the stuff is and a bit of history, wikipedia style more or less.
+
+  Technical details (Packaging, sources, repositories and building) are more important
+
+  Please avoid making a verbose description omitting the tecnical section
+
+  For remixes/remasters please avoid making verbose descriptions of features inherited from their base
 
 
 * **Developed by**
