@@ -28,7 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.glaucuslinux.org/> |
+| Homepage              | <https://glaucuslinux.org/> |
 | Homepage backup       |  |
 | Based on              | Independent |
 | Status                |  |
@@ -37,7 +37,7 @@
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                | <https://github.com/glaucuslinux/glaucus> |
-| Download              | <https://www.glaucuslinux.org/download.html> |
+| Download              | <https://github.com/glaucuslinux/glaucus/releases> |
 | Release model         | Rolling |
 | Packaging             |  |
 | Package management    |  |
