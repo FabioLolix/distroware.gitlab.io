@@ -21,7 +21,11 @@ BSD 2-Clause License
 
 ## Packaging, sources, repositories and building
 
-Build: https://github.com/ravynsoft/ISO
+Github: <https://github.com/ravynsoft>
+
+Source: <https://github.com/ravynsoft/ravynos>
+
+Build: Makefile.ravynOS in <https://github.com/ravynsoft/ravynos>
 
 
 ## Table
