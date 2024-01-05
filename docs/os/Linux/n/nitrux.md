@@ -14,7 +14,7 @@ Additionally, Nitrux includes enhancements such as a better garbage collector an
 
 Nitrux is an immutable Linux distribution, meaning no changes occur to the content of the root directory by default. We use overlayroot, which allows us to provide new distribution versions more accurately. An immutable operating system is a system that, once installed, cannot be modified. On Nitrux, the root directory is default set to be immutable, meaning no changes occur to its contents. It makes the system more resistant to tampering with malware and simplifies maintenance.
 
-> Note: On Distrowatch, it is incorrectly listed as Ubuntu LTS derivative.
+> Note: On Distrowatch, it is incorrectly listed as an Ubuntu LTS derivative.
 
 **Developed by  Nitrux Latinoamericana S.C.**
 
@@ -48,7 +48,7 @@ ISO build script: <https://github.com/Nitrux/iso-tool>
 | Desktop (default)     | NX Desktop (KDE Plasma) |
 | Desktop (available)   | - |
 | Source                | <https://github.com/Nitrux/> |
-| Download              | <https://nxos.org/download/latest/> |
+| Download              | <https://nxos.org/get/latest/> |
 | Release model         | Fixed |
 | Packaging             | .deb, AppImage |
 | Package management    | AppImage, Flatpak, containers (Distrobox or Toolbox) |
@@ -70,24 +70,26 @@ ISO build script: <https://github.com/Nitrux/iso-tool>
 | Donations             | <https://opencollective.com/nitrux>, <https://ko-fi.com/nitrux_nx> |
 | Commercial            | No |
 | Price                 | - |
-| Contact               | <hello@nxos.org> |
-| Social (Twitter)      | <https://twitter.com/Nitrux_NX> |
-| Social (Facebook)     | <https://www.facebook.com/Nitrux> |
-| Social (YouTube)      | <https://www.youtube.com/c/NitruxInside> |
-| Social (Instagram)    | <https://instagram.com/nitrux_nx> |
-| Social (Telegram)     | <https://t.me/nitrux_eng> |
-| Social (Gitter/Matrix) | <https://app.gitter.im/#/room/#Nitrux_public:gitter.im> |
-| Social (MeWe)         | <https://mewe.com/p/nitrux> |
-| Social (Mastodon)     | <https://mastodon.cloud/@Nitrux_NX> |
+| Social/Contact        | <hello@nxos.org> |
+| Social                | <https://twitter.com/Nitrux_NX> |
+| Social                | <https://www.facebook.com/Nitrux> |
+| Social                | <https://www.youtube.com/c/NitruxInside> |
+| Social                | <https://instagram.com/nitrux_nx> |
+| Social                | <https://t.me/nitrux_eng> |
+| Social                | <https://app.gitter.im/#/room/#Nitrux_public:gitter.im> |
+| Social                | <https://mewe.com/p/nitrux> |
+| Social                | <https://mastodon.cloud/@Nitrux_NX> |
 | ArchiveOS             | - |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=nitrux> |
 | Wikipedia             | - |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              | - |
+| In the timeline       | - |
 
 
 ## Releases
 
-* 3.2.1 - 2024/01/02 [Latest](https://nxos.org/changelog/release-announcement-nitrux-3-2-1/)
+* 3.2.1 - 2024/01/02 [Announcement](https://nxos.org/changelog/release-announcement-nitrux-3-2-1/)
 
 
 ## Media coverage
