@@ -6,7 +6,7 @@ Welcome to this open archive of Linux, BSD and OpenSolaris based systems and dis
 
 ## License
 
-Content is licensed as [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/) (CC BY-SA 3.0) 
+Content is licensed as [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/) (CC BY-SA 3.0)
 
 ## Build the website
 
