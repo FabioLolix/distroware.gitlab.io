@@ -13,7 +13,7 @@ Last update on:
 
 ### The official distribution
 
-**Raspbian** - The official distribution
+**Raspberry Pi OS** (formerly Raspbian) - The official distribution
 
 Based on Debian, come in a minimal edition and desktop edition with Pixel enviroment, one image for all models
 
