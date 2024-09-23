@@ -7,7 +7,7 @@ Last update on:
 
 ## For a comprehensive list of operative systems for ARM boards and servers see
 
-* <https://fabiololix.gitlab.io/RunsOnARM/>
+* <https://distroware.gitlab.io/lists/RunsOnARM/>
 
 ***
 
@@ -16,9 +16,10 @@ Last update on:
 **Raspbian** - The official distribution
 
 Based on Debian, come in a minimal edition and desktop edition with Pixel enviroment, one image for all models
-	
-* <https://www.raspbian.org/>
-* <https://www.raspberrypi.org/downloads/raspbian/>
+
+* <https://www.raspberrypi.com/software/operating-systems/>
+* Legacy <https://www.raspbian.org/>
+
 
 # Category
 
