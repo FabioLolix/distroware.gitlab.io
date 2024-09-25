@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,10 +28,10 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://ataraxialinux.github.io/> |
-| Homepage backup       |  |
+| Homepage              | https://ataraxialinux.github.io/ |
+|  |  |
 | Based on              | Independent |
-| Status                | Active |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -58,7 +58,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
