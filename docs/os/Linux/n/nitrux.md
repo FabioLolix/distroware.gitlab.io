@@ -2,19 +2,19 @@
 
 ## Screenshot
 
-![nitrux_live_screenshot](https://nxos.org/wp-content/uploads/2021/09/Screenshot_20210930_080951.png)
+![nitrux_live_screenshot](https://nxos.org/wp-content/uploads/2024/01/Captura-de-pantalla-de-2024-01-04-01-18-08.png)
 
 ## Description and history
 
-Nitrux is a Linux desktop distribution directly based on Debian. It uses the Calamares installer and includes NX Desktop and NX Firewall on top of the KDE Plasma 5 desktop environment and KDE Applications. Nitrux emphasizes the use of AppImages to manage end-user software. Nitrux also does not use systemD as its init system; instead, it uses OpenRC.
+Nitrux is a Linux desktop distribution directly based on Debian. It uses the Calamares installer and includes NX Desktop on the KDE Plasma 5 desktop environment and KDE Applications. Nitrux emphasizes the use of AppImages to manage end-user software. Nitrux also does not use systemd as its init system; instead, it uses OpenRC, a simpler init and service manager. Nitrux includes a suite of convergent applications called Maui Apps. We use MauiKit, our free and open-source convergent, cross-platform UI framework, to create these applications.
 
-Nitrux includes a suite of convergent applications called Maui Apps. We use MauiKit, our convergent, cross-platform UI framework, to create these applications. Both MauiKit and the Maui Apps are entirely free and open-source software.
+Nitrux is very up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers, who provide the latest stable releases of KDE Plasma 5. Nitrux includes additional performance enhancements, such as allowing “inodes” to be placed at any location on the filesystem, compression using zstd with compression at level 6, and verification of compressed blocks using a checksum to avoid corruption.
 
-In addition to this, we include a curated selection of free and open-source software by default; we don’t add proprietary software. And for those looking for a 100% free (as in freedom) operating system, the optional Linux Libre kernel is available to install.
+Additionally, Nitrux includes enhancements such as a better garbage collector and asynchronous garbage collection, avoiding the synchronous updating access or modification times, zswap enabled by default, and also changes include the rate at which VFS caches are reclaimed, enabling asynchronous non-blocking I/O, and reducing the aggressivity when the kernel swaps out anonymous memory relative to pagecache and other caches.
 
-Nitrux is always up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers, who provide the latest stable releases of Plasma. Nitrux also provides its users of the latest MESA drivers from Git, and kernels optimized for intensive tasks such as gaming with XanMod and Liquorix.
+Nitrux is an immutable Linux distribution, meaning no changes occur to the content of the root directory by default. We use overlayroot, which allows us to provide new distribution versions more accurately. An immutable operating system is a system that, once installed, cannot be modified. On Nitrux, the root directory is default set to be immutable, meaning no changes occur to its contents. It makes the system more resistant to tampering with malware and simplifies maintenance.
 
-> Note: On Distrowatch it is incorrectly listed as Ubuntu LTS derivative.
+> Note: On Distrowatch, it is incorrectly listed as an Ubuntu LTS derivative.
 
 **Developed by  Nitrux Latinoamericana S.C.**
 
@@ -30,9 +30,9 @@ Varied.
 
 ## Packaging, sources, repositories and building
 
-Package manager APT, appimage-manager, flatpak
+AppImages, Flatpak, containers (Distrobox or Toolbox)
 
-ISO build script <https://github.com/Nitrux/iso-tool>
+ISO build script: <https://github.com/Nitrux/iso-tool>
 
 
 ## Table
@@ -40,67 +40,61 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://nxos.org/> |
-| Homepage backup       |  |
+| Homepage backup       | - |
 | Based on              | Debian |
 | Status                | Active |
 | Architecture          | x86_64 |
 | Category              | Desktop |
 | Desktop (default)     | NX Desktop (KDE Plasma) |
-| Desktop (available)   | same as parent |
+| Desktop (available)   | - |
 | Source                | <https://github.com/Nitrux/> |
-| Download              | <https://nxos.org/download/standard/> <https://nxos.org/download/mirrors/> |
+| Download              | <https://nxos.org/get/latest/> |
 | Release model         | Fixed |
 | Packaging             | .deb, AppImage |
-| Package management    | dpkg, apt, NX Software Center |
+| Package management    | AppImage, Flatpak, containers (Distrobox or Toolbox) |
 | Installer             | Calamares |
 | Boot                  | BIOS, UEFI  |
-| Init                  |  |
+| Init                  | OpenRC |
 | Shell                 | zsh |
 | C library             | glibc |
 | Core utils            | GNU |
 | Compiler              | GCC |
-| Language              |  |
+| Language              | English (default) |
 | Country               | Mexico |
-| IRC                   |  |
-| Forum                 | <https://gitter.im/Nitrux/public> |
-| Mailing list          |  |
-| Docs                  |  |
+| IRC                   | - |
+| Forum                 | <https://github.com/orgs/Nitrux/discussions/> |
+| Mailing list          | - |
+| Docs                  | <https://nxos.org/> |
 | Bugtracker            | <https://github.com/Nitrux/nitrux-bug-tracker> |
-| Translation           |  |
-| Donations             |  |
+| Translation           | - |
+| Donations             | <https://opencollective.com/nitrux>, <https://ko-fi.com/nitrux_nx> |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        | hello a@t nxos.org |
+| Social/Contact        | <hello@nxos.org> |
 | Social                | <https://twitter.com/Nitrux_NX> |
 | Social                | <https://www.facebook.com/Nitrux> |
 | Social                | <https://www.youtube.com/c/NitruxInside> |
 | Social                | <https://instagram.com/nitrux_nx> |
 | Social                | <https://t.me/nitrux_eng> |
-| Social                | <https://gitter.im/Nitrux/public> |
+| Social                | <https://app.gitter.im/#/room/#Nitrux_public:gitter.im> |
 | Social                | <https://mewe.com/p/nitrux> |
-| ArchiveOS             |  |
+| Social                | <https://mastodon.cloud/@Nitrux_NX> |
+| ArchiveOS             | - |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=nitrux> |
-| Wikipedia             |  |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| In the timeline       | - |
 
 
 ## Releases
 
-* 1.7.1 - 2021/12/02 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-7-1/)
-* 1.7.0 - 2021/10/29 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-7-0/)
-* 1.6.1 - 2021/09/30 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-6-1/)
-* 1.6.0 - 2021/09/01 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-6-0/)
-* 1.5.1 - 2021/08/02 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-5-1/)
+* 3.2.1 - 2024/01/02 [Announcement](https://nxos.org/changelog/release-announcement-nitrux-3-2-1/)
 
 
 ## Media coverage
 
-* https://www.computerbase.de/2021-12/nitrux-1.7.1-mit-nx-desktop-distribution-mit-allen-zutaten-fuer-das-spielen-unter-linux/
-* https://9to5linux.com/systemd-free-nitrux-1-7-1-released-with-linux-kernel-5-15-lts-maui-apps-2-1-0
-* https://9to5linux.com/systemd-free-nitrux-1-7-is-out-now-with-the-latest-kde-plasma-5-23-desktop
-* https://linuxunplugged.com/405
+* https://9to5linux.com/systemd-free-distro-nitrux-kicks-off-2024-with-new-iso-release
 
 
 ## About this page
