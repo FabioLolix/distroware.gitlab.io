@@ -2,16 +2,17 @@
 
 ## Screenshot
 
+![RoshanOS 1.1 Screenshot](https://raw.githubusercontent.com/asakpke/RoshanOS/main/RoshanOS-1.1-Screenshot-1.png)
 
 ## Description and history
 
-Remix of Linux Mint Cinnamon created with systemback, have a lot of programs pre-installed (especially games) and several web apps
+RoshanOS 1.x is a remix of Linux Mint Cinnamon created with systemback, have a lot of programs pre-installed (especially games) and several web apps
 
-Created by Aamir Shahzad (asakpke)
+Developed by Aamir Shahzad aka ASAKPKE
 
 | username | password |  |
 |----------|----------|--|
-|  |  |  |
+| roshantech | esite.pk |  |
 
 
 ## License and type
@@ -32,14 +33,15 @@ Have installed zoom (no license) and teamviewver (unredestributable)
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://esite.pk/roshan-os/> |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
-| Source                |  |
+| Homepage              | <https://sourceforge.net/projects/roshan-os/> |
+| Homepage backup       | <https://esite.pk/roshan-os/> |
+| Based on              | Linux Mint | MX Linux
+| Status                | Active |
+| Architecture          | 64 Bits only (amd64) |
+| Category              | Beginner, Desktop |
+| Desktop (default)     | Cinnamon | KDE
+| Desktop (available)   | OpenBox |
+| Source                | <https://github.com/asakpke/RoshanOS> |
 | Download              | <https://sourceforge.net/projects/roshan-os/files/> |
 | Release model         |  |
 | Packaging             |  |
@@ -50,36 +52,39 @@ Have installed zoom (no license) and teamviewver (unredestributable)
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
-| Language              |  |
-| Country               |  |
+| Language              | English, Urdu |
+| Country               | Pakistan |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://sourceforge.net/p/roshan-os/discussion/> |
 | Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
+| Docs                  | <https://docs.google.com/document/d/13O03TQr2uVksSYozYaa_luC7MhF4G-9TWb7_DOm9QcY/> |
+| Bugtracker            | <https://sourceforge.net/p/roshan-os/tickets/> |
 | Translation           |  |
-| Donations             |  |
+| Donations             | <https://patreon.com/asakpke> |
 | Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                |  |
-| Social                |  |
+| Price                 | Free |
+| Social/Contact        | Aamir@eSite.pk |
+| Social                | <https://fb.com/asakpke> |
+| Social                | <https://twitter.com/asakpke> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/dwres.php?resource=submit#waiting> |
 | Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) | yes |
+| [on LWN.net](https://lwn.net/Distributions/) | <https://lwn.net/Distributions/#pakistan> |
 | Repology              |  |
 | In the timeline       |  |
 
 
 ## Releases
 
-* 
+* 2.0
+* 1.1
+* 1.0
 
 
 ## Media coverage
 
-* 
+* A Pakistani Operating System, All You Need To Know <https://technologytimes.pk/2021/02/09/roshanos-a-pakistani-operating-system-all-you-need-to-know/>
+* RoshanOS 1.1 First Look Video <https://youtu.be/74x03RrLmlY>
 
 
 ## About this page
