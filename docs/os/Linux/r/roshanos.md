@@ -6,8 +6,6 @@
 
 ## Description and history
 
-RoshanOS is a computer operating system based on Linux with a lot of preinstalled software. It’s fast, secure and legal to use & install on as many systems as you like! Right click “Refresh” option is added in RoshanOS specially for Windows users 😎 Interesting thing is that after the installation of RoshanOS, you can customize it and create your own distribution easily.
-
 RoshanOS 1.x is a remix of Linux Mint Cinnamon created with systemback, have a lot of programs pre-installed (especially games) and several web apps
 
 Developed by Aamir Shahzad aka ASAKPKE
