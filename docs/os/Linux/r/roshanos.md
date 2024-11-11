@@ -34,14 +34,13 @@ Have installed zoom (no license) and teamviewver (unredestributable)
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://sourceforge.net/projects/roshan-os/> |
-| Homepage backup       | <https://esite.pk/roshan-os/> |
-| Based on              | Linux Mint | MX Linux
+| Based on              | Linux Mint |
 | Status                | Active |
-| Architecture          | 64 Bits only (amd64) |
+| Architecture          | amd64 |
 | Category              | Beginner, Desktop |
 | Desktop (default)     | Cinnamon | KDE
-| Desktop (available)   | OpenBox |
-| Source                | <https://github.com/asakpke/RoshanOS> |
+| Desktop (available)   |  |
+| Source                |  |
 | Download              | <https://sourceforge.net/projects/roshan-os/files/> |
 | Release model         |  |
 | Packaging             |  |
@@ -60,16 +59,15 @@ Have installed zoom (no license) and teamviewver (unredestributable)
 | Docs                  | <https://docs.google.com/document/d/13O03TQr2uVksSYozYaa_luC7MhF4G-9TWb7_DOm9QcY/> |
 | Bugtracker            | <https://sourceforge.net/p/roshan-os/tickets/> |
 | Translation           |  |
-| Donations             | <https://patreon.com/asakpke> |
+| Donations             |  |
 | Commercial            |  |
 | Price                 | Free |
 | Social/Contact        | Aamir@eSite.pk |
-| Social                | <https://fb.com/asakpke> |
-| Social                | <https://twitter.com/asakpke> |
+| Social                | <https://fb.com/asakpke> <br> <https://twitter.com/asakpke> |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/dwres.php?resource=submit#waiting> |
+| Distrowatch           |  |
 | Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) | <https://lwn.net/Distributions/#pakistan> |
+| [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
