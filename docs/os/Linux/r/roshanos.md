@@ -83,8 +83,7 @@ Have installed zoom (no license) and teamviewver (unredestributable)
 
 ## Media coverage
 
-* A Pakistani Operating System, All You Need To Know <https://technologytimes.pk/2021/02/09/roshanos-a-pakistani-operating-system-all-you-need-to-know/>
-* RoshanOS 1.1 First Look Video <https://youtu.be/74x03RrLmlY>
+* 
 
 
 ## About this page
