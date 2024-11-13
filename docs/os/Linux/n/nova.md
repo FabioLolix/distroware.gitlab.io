@@ -1,4 +1,4 @@
-# $NAME
+# NOVA
 
 ## Screenshot
 
@@ -7,7 +7,7 @@
 
 >
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,8 +28,7 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
+| Homepage              | <https://www.nova.cu/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,7 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -82,5 +81,5 @@
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/n/nova.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//n/nova.md>
