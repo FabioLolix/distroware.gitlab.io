@@ -297,11 +297,24 @@ When updating existing pages please remove leftovers '> ' they are no longer nee
   Yes/No. Is present on BSD or Linux timelines?
 
 
+* **Build**
+
+  How to build the system image
+
+
 * **Releases**
 
   Ideally: version, release date, link to announcement. Newer on top.
 
 
-* **Media coverage**
+***
 
-  Link to news articles, newer on top.
+WIP other possible fields curated by main author:
+
+* `know issues` on distroware or in the timelines
+* `Website feedback` only for less complete website
+* `Errata` wrong info reported by others
+* `Selected articles` curated list of articles
+
+
+
