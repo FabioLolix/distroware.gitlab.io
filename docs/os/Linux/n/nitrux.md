@@ -14,9 +14,9 @@ In addition to this, we include a curated selection of free and open-source soft
 
 Nitrux is always up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers, who provide the latest stable releases of Plasma. Nitrux also provides its users of the latest MESA drivers from Git, and kernels optimized for intensive tasks such as gaming with XanMod and Liquorix.
 
-> Note: On Distrowatch it is incorrectly listed as Ubuntu LTS derivative.
+Note: On Distrowatch it is incorrectly listed as Ubuntu LTS derivative.
 
-**Developed by  Nitrux Latinoamericana S.C.**
+**Developed by Nitrux Latinoamericana S.C.**
 
 | username | password |
 |----------|----------|
@@ -40,7 +40,6 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://nxos.org/> |
-| Homepage backup       |  |
 | Based on              | Debian |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -53,7 +52,6 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 | Packaging             | .deb, AppImage |
 | Package management    | dpkg, apt, NX Software Center |
 | Installer             | Calamares |
-| Boot                  | BIOS, UEFI  |
 | Init                  |  |
 | Shell                 | zsh |
 | C library             | glibc |
@@ -93,14 +91,6 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 * 1.6.1 - 2021/09/30 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-6-1/)
 * 1.6.0 - 2021/09/01 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-6-0/)
 * 1.5.1 - 2021/08/02 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-5-1/)
-
-
-## Media coverage
-
-* https://www.computerbase.de/2021-12/nitrux-1.7.1-mit-nx-desktop-distribution-mit-allen-zutaten-fuer-das-spielen-unter-linux/
-* https://9to5linux.com/systemd-free-nitrux-1-7-1-released-with-linux-kernel-5-15-lts-maui-apps-2-1-0
-* https://9to5linux.com/systemd-free-nitrux-1-7-is-out-now-with-the-latest-kde-plasma-5-23-desktop
-* https://linuxunplugged.com/405
 
 
 ## About this page
