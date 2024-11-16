@@ -65,14 +65,13 @@ Developed by
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
+| In the curated timeline |  |
+
+
+## Build
 
 
 ## Releases
-
-* 
-
-
-## Media coverage
 
 * 
 
