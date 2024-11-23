@@ -5,7 +5,7 @@
 
 ## Description and history
 
-
+rlxos is available in 2 variants (secure and unlocked), each with 3 channels (stable, preview, unstable)
 
 Developed by
 
@@ -29,15 +29,15 @@ Developed by
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://rlxos.dev/> |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Based on              | Independent |
+| Status                | Active |
+| Architecture          | x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
-| Release model         |  |
+| Source                | <https://github.com/itsManjeet/rlxos> |
+| Download              | <https://sourceforge.net/projects/rlxos/files/> |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
