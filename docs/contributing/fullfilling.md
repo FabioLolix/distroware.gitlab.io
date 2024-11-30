@@ -17,11 +17,13 @@ General note, encapsulate URLs with <> otherwise on the builded site they will n
 
 Don't delete user/password table!
 
-For non applicable fileds use - or leave empty
+For non applicable fileds use `-` or leave empty
 
 For pratically all fields is intended if possible or if applicable
 
 When updating existing pages please remove leftovers '> ' they are no longer needed.
+
+The template isn't definitive and is subject to changes, is possible that some changes will be tested on pages before landing template.txt
 
 
 * **Name**
