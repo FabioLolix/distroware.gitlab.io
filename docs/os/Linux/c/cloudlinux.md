@@ -5,9 +5,12 @@
 
 ## Description and history
 
->
 
-> Developed by CloudLinux Inc.
+NB in <https://lp.cloudlinux.com/cloudlinux-os-solo> the link to `currently supported OS versions` is 404
+
+<https://docs.solo.cloudlinux.com/introduction/#cloudlinux-os-solo-lifecycle>
+
+Developed by CloudLinux Inc.
 
 | username | password |  |
 |----------|----------|--|
@@ -16,13 +19,11 @@
 
 ## License and type
 
->
 
 
 ## Packaging, sources, repositories and building
 
->
-
+* https://repo.cloudlinux.com/cloudlinux/
 * https://repo.cloudlinux.com/cloudlinux/sources/
 * https://repo.cloudlinux.com/cloudlinux/8.4/BaseOS/Source/
 * https://repo.cloudlinux.com/cloudlinux/7/os/Sources/SPackages/
@@ -34,7 +35,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://www.cloudlinux.com/> |
-| Homepage backup       |  |
 | Based on              | RHEL |
 | Status                | Active |
 | Architecture          | x86_64 |
@@ -63,7 +63,7 @@
 | Translation           |  |
 | Donations             | - |
 | Commercial            | Yes |
-| Price                 | starts from $4 per server per month (CloudLinux OS Solo) |
+| Price                 | starts from $7 per server per month (CloudLinux OS Solo) [1 license] |
 | Social/Contact        | <https://www.cloudlinux.com/contact-us/> |
 | Social                | <https://www.facebook.com/CloudLinux/> |
 | Social                | <https://twitter.com/cloudlinuxos> |
@@ -74,21 +74,32 @@
 | Wikipedia             | <https://en.wikipedia.org/wiki/CloudLinux_OS> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| In the timeline       | No |
+
+
+### Build image
+
+?
+
+
+### In the timeline
+
+This isn't in the timeline for lack of informations, helpdesk redirected to wikipedia  which is lacking
 
 
 ## Releases
 
-* CloudLinux OS Solo 8 	Jun 1, 2021
+* CloudLinux OS Solo 8 	Jun 1, 2021 <https://blog.cloudlinux.com/new-cloudlinux-os-solo-release>
 
+From <https://docs.cloudlinux.com/introduction/cloudlinux-os-editions/>
 
-## Media coverage
-
-* 
+* CloudLinux OS 9 - Jan 17, 2023
+* CloudLinux OS 8 - Mar 17, 2020
+* CloudLinux OS 7 - Apr 1, 2015
+* CloudLinux OS 6 - Feb 1, 2011
 
 
 ## About this page
-
 
 * This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/c/cloudlinux.md>
