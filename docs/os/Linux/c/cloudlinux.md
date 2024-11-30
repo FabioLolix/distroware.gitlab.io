@@ -19,9 +19,13 @@ Developed by CloudLinux Inc.
 
 ## License and type
 
-
+Commercial
 
 ## Packaging, sources, repositories and building
+
+Don't seem to have any public VCS repository
+
+Public repository root <https://repo.cloudlinux.com/cloudlinux/>
 
 * https://repo.cloudlinux.com/cloudlinux/
 * https://repo.cloudlinux.com/cloudlinux/sources/
