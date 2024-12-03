@@ -14,7 +14,7 @@ In addition to this, we include a curated selection of free and open-source soft
 
 Nitrux is always up-to-date, thanks to using the latest Debian base and to the effort of the KDE Neon developers, who provide the latest stable releases of Plasma. Nitrux also provides its users of the latest MESA drivers from Git, and kernels optimized for intensive tasks such as gaming with XanMod and Liquorix.
 
-Note: On Distrowatch it is incorrectly listed as Ubuntu LTS derivative.
+Note: On Distrowatch it is incorrectly listed as Ubuntu derivative.
 
 **Developed by Nitrux Latinoamericana S.C.**
 
@@ -25,7 +25,7 @@ Note: On Distrowatch it is incorrectly listed as Ubuntu LTS derivative.
 
 ## License and type
 
-Varied. 
+Various
 
 
 ## Packaging, sources, repositories and building
@@ -45,14 +45,14 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 | Architecture          | x86_64 |
 | Category              | Desktop |
 | Desktop (default)     | NX Desktop (KDE Plasma) |
-| Desktop (available)   | same as parent |
+| Desktop (available)   | - |
 | Source                | <https://github.com/Nitrux/> |
 | Download              | <https://nxos.org/download/standard/> <https://nxos.org/download/mirrors/> |
 | Release model         | Fixed |
 | Packaging             | .deb, AppImage |
 | Package management    | dpkg, apt, NX Software Center |
 | Installer             | Calamares |
-| Init                  |  |
+| Init                  | OpenRC |
 | Shell                 | zsh |
 | C library             | glibc |
 | Core utils            | GNU |
@@ -68,7 +68,7 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 | Donations             |  |
 | Commercial            | No |
 | Price                 | - |
-| Social/Contact        | hello a@t nxos.org |
+| Contact               | hello a@t nxos.org |
 | Social                | <https://twitter.com/Nitrux_NX> |
 | Social                | <https://www.facebook.com/Nitrux> |
 | Social                | <https://www.youtube.com/c/NitruxInside> |
@@ -86,6 +86,7 @@ ISO build script <https://github.com/Nitrux/iso-tool>
 
 ## Releases
 
+* 3.8 "db" build e3ba3c69 - 2024/12/02 <https://nxos.org/changelog/release-announcement-nitrux-3-8-0/>
 * 1.7.1 - 2021/12/02 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-7-1/)
 * 1.7.0 - 2021/10/29 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-7-0/)
 * 1.6.1 - 2021/09/30 [announcement](https://nxos.org/changelog/release-announcement-nitrux-1-6-1/)
