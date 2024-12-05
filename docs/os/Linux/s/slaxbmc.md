@@ -1,13 +1,15 @@
-# $NAME
+# SlaXMBC
 
 ## Screenshot
 
 
 ## Description and history
 
->
+The distributions is discontinued; what is left?
 
-> Developed by
+Not much, the files where hosted at <https://slackware.uk/slaxbmc> and the entire `slaxbmc` fodler have been deleted
+
+Created by Analekto
 
 | username | password |  |
 |----------|----------|--|
@@ -16,29 +18,28 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://slaxbmc.blogspot.com/> |
+| Based on              | Slackware |
+| Status                | discontinued |
 | Architecture          |  |
 | Category              |  |
-| Desktop (default)     |  |
+| Desktop (default)     | XBMC/KODI |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
-| Release model         |  |
+| Download              | https://slackware.uk/slaxbmc |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
 | Installer             |  |
@@ -58,9 +59,8 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <https://www.youtube.com/@Analekto> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -71,10 +71,7 @@
 
 ## Releases
 
-* 
-
-
-## Media coverage
+Blog posts are undated and all downloads have been deleted
 
 * 
 
@@ -82,5 +79,5 @@
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/s/slaxbmc.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/s/slaxbmc.md>
