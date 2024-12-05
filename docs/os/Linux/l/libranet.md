@@ -1,13 +1,13 @@
-# $NAME
+# Libranet
 
 ## Screenshot
 
 
 ## Description and history
 
->
+Discontinued commercial see https://en.wikipedia.org/wiki/Libranet
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,12 +16,12 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
@@ -29,9 +29,8 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Based on              | Debian |
+| Status                | discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -58,23 +57,18 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Libranet> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
 
 
 ## Releases
-
-* 
-
-
-## Media coverage
 
 * 
 
