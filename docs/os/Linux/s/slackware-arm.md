@@ -1,13 +1,13 @@
-# $NAME
+#  Slackware ARM / AArch64 Linux Project
 
 ## Screenshot
 
 
 ## Description and history
 
->
+<https://arm.slackware.com/history/>
 
-> Developed by
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -28,9 +28,8 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
+| Homepage              | <https://arm.slackware.com> |
+| Based on              | Slackware |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -58,7 +57,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
+| Contact               |  |
 | Social                |  |
 | Social                |  |
 | ArchiveOS             |  |
@@ -70,11 +69,6 @@
 
 
 ## Releases
-
-* 
-
-
-## Media coverage
 
 * 
 
