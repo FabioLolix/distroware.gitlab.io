@@ -64,8 +64,9 @@ Developed by
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
-| In the curated timeline |  |
+
+
+## In the timelines
 
 
 ## Build
@@ -74,6 +75,9 @@ Developed by
 ## Releases
 
 * 
+
+
+## Selected links
 
 
 ## About this page
