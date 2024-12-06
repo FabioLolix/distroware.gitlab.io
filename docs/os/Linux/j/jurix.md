@@ -1,37 +1,36 @@
-# $NAME
+# Jurix
 
 ## Screenshot
 
 
 ## Description and history
 
->
 
-> Developed by
 
-| username | password |  |
-|----------|----------|--|
+Developed by Florian La Roche
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://linux.mathematik.tu-darmstadt.de/pub/linux/distributions/jurix/docs/> |
+| Based on              | Independent |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -53,20 +52,24 @@
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            |  |
-| Translation           |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Bugtracker            | - |
+| Translation           | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | - |
+| Distrowatch           | - |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Jurix> |
+| [on LWN.net](https://lwn.net/Distributions/) | - |
+| Repology              | - |
+
+
+## In the timelines
+
+
+## Build
 
 
 ## Releases
@@ -74,13 +77,12 @@
 * 
 
 
-## Media coverage
+## Selected links
 
-* 
-
+* <https://linux.mathematik.tu-darmstadt.de/pub/linux/distributions/jurix/docs/history.html>
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/j/jurix.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/j/jurix.md>
