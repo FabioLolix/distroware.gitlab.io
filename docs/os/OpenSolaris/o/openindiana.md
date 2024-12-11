@@ -68,12 +68,12 @@ Developed by
 
 ## Releases
 
-* 
+* 2022/12/04 - 22.10 - <https://www.openindiana.org/2022/12/04/openindiana-hipster-2022-10-is-here/>
 
 
-## Media coverage
+## Selected links
 
-* 
+* <https://www.phoronix.com/news/OpenIndiana-Hipster-2022.10>
 
 
 ## About this page
