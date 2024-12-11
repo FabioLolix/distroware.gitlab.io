@@ -75,10 +75,11 @@ Subject to the U.S. Export Administration Regulations (the “EAR”)
 
 ## Releases
 
+* 9.5 - 2024/11/18 <https://almalinux.org/blog/2024-11-18-announcing-95-stable/>
 * AlmaLinux 8.4 - 2021/05/26
 
 
-## Media coverage
+## Selected links
 
 * 
 
