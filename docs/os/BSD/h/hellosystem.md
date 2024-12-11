@@ -48,7 +48,7 @@ Build instruction for aarch64 are [available](https://hellosystem.github.io/docs
 | Init                  | rc |
 | Shell                 |  |
 | C library             | FreeBSD libc |
-| Compiler              | Same as parent |
+| Compiler              | Clang |
 | Language              | English |
 | Country               | Global |
 | IRC                   | ircs://irc.libera.chat:6697#helloSystem bridged to Matrix <br> [Matrix](https://matrix.to/#/%23helloSystem:matrix.org) |

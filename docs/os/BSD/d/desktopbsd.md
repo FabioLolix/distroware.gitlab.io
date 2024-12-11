@@ -73,7 +73,7 @@ Developed by
 
 ## Media coverage
 
-* 
+* <http://www.osnews.com/story/21628/DesktopBSD_Development_Comes_to_a_Halt>
 
 
 ## About this page

@@ -73,7 +73,8 @@ Developed by
 
 ## Media coverage
 
-* 
+* <https://www.trueos.org/blog/trueos-17-12-release/>
+* <https://www.trueos.org/2016/09/01/pc-bsd-evolves-into-trueos/>
 
 
 ## About this page

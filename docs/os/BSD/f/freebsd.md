@@ -44,10 +44,10 @@ Developed by
 | Package management    |  |
 | Installer             |  |
 | Init                  |  |
-| Shell                 |  |
+| Shell                 | tcsh |
 | C library             |  |
 | Core utils            |  |
-| Compiler              |  |
+| Compiler              | Clang |
 | Language              |  |
 | Country               |  |
 | IRC                   |  |

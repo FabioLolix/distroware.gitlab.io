@@ -70,6 +70,8 @@ Developed by Deciso B.V.
 
 * 
 
+"https://github.com/opnsense/core/releases/tag/19.1","20.1","2020-01-29","https://github.com/opnsense/core/releases/tag/20.1","21.1","2021-01-26","https://github.com/opnsense/core/releases/tag/21.1","22.1","2022-01-25","https://github.com/opnsense/core/releases/tag/22.1"
+
 
 ## Media coverage
 

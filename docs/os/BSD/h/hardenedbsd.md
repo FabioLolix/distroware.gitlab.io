@@ -43,7 +43,7 @@ Founded in 2014 by Oliver Pinter and Shawn Webb, HardenedBSD is a security-enhan
 | Shell                 | sh, csh |
 | C library             | FreeBSD libc |
 | Core utils            | BSD Core utils |
-| Compiler              | Same as FreeBSD |
+| Compiler              | Clang |
 | Language              |  |
 | Country               | USA |
 | IRC                   | #hardenedbsd at Libera Chat IRC |

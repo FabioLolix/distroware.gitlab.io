@@ -68,7 +68,7 @@ Developed by
 
 ## Releases
 
-* 
+* <http://fuguita.org/index.php?FuguIta%2F7.0>
 
 
 ## Media coverage

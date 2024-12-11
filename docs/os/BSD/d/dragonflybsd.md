@@ -68,7 +68,11 @@ Developed by
 
 ## Releases
 
-* 
+* <https://www.dragonflybsd.org/release60/>
+* <https://www.dragonflybsd.org/release50/>
+* <https://www.dragonflybsd.org/release40/>
+* <https://www.dragonflybsd.org/release30/>
+* <https://www.dragonflybsd.org/release20/>
 
 
 ## Media coverage

@@ -73,7 +73,8 @@ Developed by
 
 ## Media coverage
 
-* 
+* <http://www.freenas.org/blog/freenas-11-0/>
+* <https://www.truenas.com/blog/freenas-truenas-unification/>
 
 
 ## About this page
