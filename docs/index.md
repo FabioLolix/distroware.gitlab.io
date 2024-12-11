@@ -2,7 +2,7 @@
 
 Welcome to this open archive of Linux, BSD and OpenSolaris based systems and distributions.
 
-* <https://distroware.gitlab.io/>
+* <https://distroware.gitlab.io/distroware.gitlab.io/>
 
 ## Contributing
 
