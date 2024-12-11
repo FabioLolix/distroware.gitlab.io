@@ -1,3 +1,3 @@
 # airyxOS
 
-See [ravynOS](/os/BSD/r/ravynos/)
+See [ravynOS](../r/ravynos.md)

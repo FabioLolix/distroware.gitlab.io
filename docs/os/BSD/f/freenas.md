@@ -1,3 +1,3 @@
 # FreeNAS
 
-See [TrueNAS CORE](/os/BSD/t/truenas-core/)
+See [TrueNAS CORE](../t/truenas-core.md)

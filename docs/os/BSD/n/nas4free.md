@@ -1,3 +1,3 @@
 # NAS4Free
 
-See [XigmaNAS](/os/BSD/x/xigmanas/)
+See [XigmaNAS](../x/xigmanas.md)
