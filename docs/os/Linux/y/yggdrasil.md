@@ -79,6 +79,7 @@
 * <https://distrowatch.com/weekly.php?issue=20041115#fdow>
 * <https://www.linuxjournal.com/article/111>
 * <https://www.kclug.org/old_archives/linux-activists/1992/dec/0/0044.shtml>
+* <https://www.kclug.org/old_archives/linux-activists/1992/nov/3/0559.shtml>
 
 
 ## About this page

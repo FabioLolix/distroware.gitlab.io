@@ -5,9 +5,10 @@
 
 ## Description and history
 
->
 
-> Developed by
+Pricing <https://fydeos.io/pricing/>
+
+Developed by
 
 | username | password |  |
 |----------|----------|--|
@@ -16,28 +17,27 @@
 
 ## License and type
 
->
+
 
 
 ## Packaging, sources, repositories and building
 
->
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
+| Homepage              | <https://fydeos.io/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://github.com/FydeOS> |
+| Download              | <https://fydeos.io/download/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -50,7 +50,7 @@
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://community.fydeos.io/> |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
@@ -58,8 +58,7 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
+| Contact               | hi @ fydeos.io |
 | Social                |  |
 | ArchiveOS             |  |
 | Distrowatch           |  |
@@ -71,7 +70,8 @@
 
 ## Releases
 
-* 
+* 15.0 - 2022/08/11
+* 13.0 - 2021/09/29 (Chromium browser upgrade to 92.0.4515.*; Chromium OS platform update to 13982.75.13.*)
 
 
 ## Media coverage

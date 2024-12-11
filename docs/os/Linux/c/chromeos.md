@@ -76,7 +76,7 @@
 
 ## Media coverage
 
-* 
+* <https://www.theregister.com/2023/04/18/chromebook_expiration_date_and_repair/>
 
 
 ## About this page
