@@ -1,36 +1,41 @@
-# $NAME
+# 64 Studio
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
+The website have only 2 pages, the distro is mentioned but there aren't download links or further informations
+
+## Overview
+
 
 Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+Created with https://github.com/64studio/pdk which support both APT and RPM platform but at the moment not sure if the 64 Studio 'profile is there'
+
+
+## In the timelines
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://64studio.com/index.html> |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -47,25 +52,30 @@ Developed by
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
-| Translation           |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
+| Country               | UK (Isle of Wight) |
+| IRC                   | - |
+| Forum                 | - |
+| Mailing list          | - |
+| Docs                  | - |
+| Bugtracker            | - |
+| Translation           | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | see website |
+| Social                | - |
+| ArchiveOS             | <https://archiveos.org/64studio/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=64studio> |
+| Wikipedia             | - |
+| [on LWN.net](https://lwn.net/Distributions/) | - |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Errata
+
+
+## Build
 
 
 ## Releases
@@ -73,9 +83,7 @@ Developed by
 * 
 
 
-## Media coverage
-
-* 
+## Selected links
 
 
 ## About this page
