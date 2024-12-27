@@ -23,7 +23,7 @@ Developed by
 
 ## Development
 
-Created with https://github.com/64studio/pdk which support both APT and RPM platform but at the moment not sure if the 64 Studio 'profile is there'
+Created with https://github.com/64studio/pdk which support both APT and RPM platform but at the moment not sure if the 64 Studio 'profile' is there
 
 
 ## In the timelines
@@ -68,8 +68,8 @@ Created with https://github.com/64studio/pdk which support both APT and RPM plat
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=64studio> |
 | Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) | - |
-| Repology              |  |
-| Other links           | <br> |
+| Repology              | - |
+| Other links           | - |
 
 
 ## Errata
