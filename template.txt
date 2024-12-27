@@ -3,8 +3,10 @@
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
+
+## Overview
 
 
 Developed by
@@ -18,10 +20,10 @@ Developed by
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
 
-
+## In the timelines
 
 
 ## Table
@@ -64,9 +66,10 @@ Developed by
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
+| Other links           | <br> |
 
 
-## In the timelines
+## Errata
 
 
 ## Build
