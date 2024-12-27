@@ -1,36 +1,43 @@
-# $NAME
+# Absolute
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
+The website report `End of the line` on 2024/12/15
+
+It have a release changelog in the main page dating back to Absolute 12.2.0 released Sunday 2008/12/14
+
+## Overview
+
 
 Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+
+## In the timelines
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://absolutelinux.org/> |
+| Based on              | Slackware |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -53,19 +60,24 @@ Developed by
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| Translation           | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | see website |
+| Social                | - |
+| ArchiveOS             | - |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=absolute> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | - |
+
+
+## Errata
+
+
+## Build
 
 
 ## Releases
@@ -73,12 +85,12 @@ Developed by
 * 
 
 
-## Media coverage
-
-* 
+## Selected links
 
 
 ## About this page
+
+* This page source can be found at:
 
 * This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
