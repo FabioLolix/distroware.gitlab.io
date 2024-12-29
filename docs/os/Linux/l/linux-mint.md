@@ -1,13 +1,14 @@
-# $NAME
+# Linux Mint
 
 ## Screenshot
 
 
 ## Description and history
 
+Linux Mint is an operating system for desktop and laptop computers. It is designed to work 'out of the box'.
 >
 
-> Developed by
+> Developed by Clément Lefèbvre
 
 | username | password |  |
 |----------|----------|--|
@@ -28,16 +29,16 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.linuxmint.com/> |
 | Homepage backup       |  |
-| Based on              |  |
+| Based on              | Ubuntu |
 | Status                |  |
 | Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
+| Category              | Desktop |
+| Desktop (default)     | Cinnamon |
+| Desktop (available)   | MATE, Xfce |
 | Source                |  |
-| Download              |  |
+| Download              | <https://www.linuxmint.com/download.php> |
 | Release model         |  |
 | Packaging             | deb, flatpak |
 | Package management    | mintinstall, mintupdate, synaptic, apt, dpkg |
@@ -49,21 +50,21 @@
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
-| IRC                   |  |
-| Forum                 |  |
+| IRC                   | <https://kiwiirc.com/nextclient/irc.spotchat.org/#linuxmint-help> |
+| Forum                 | <https://forums.linuxmint.com/> |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
 | Translation           |  |
-| Donations             |  |
+| Donations             | <https://www.linuxmint.com/donors.php> |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Social                | <https://x.com/linux_mint> |
+| Social                | <https://mastodon.social/@linuxmint> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=mint> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Linux_Mint> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
