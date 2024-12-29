@@ -12,8 +12,8 @@ Welcome to this open archive of Linux, BSD and OpenSolaris based systems and dis
 
 Is builded with MkDocs and can be builded and tested locally.
 
-* [https://www.mkdocs.org/#installation](MkDocs installation)
-* [https://www.mkdocs.org/#building-the-site](MkDocs building the site)
+* <https://www.mkdocs.org/#installation> MkDocs installation
+* <https://www.mkdocs.org/#building-the-site> MkDocs building the site
 
 Command for quick reload for local development: `mkdocs serve --dirtyreload`
 
