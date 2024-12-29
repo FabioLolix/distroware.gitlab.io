@@ -3,26 +3,31 @@
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
-Linux Mint is an operating system for desktop and laptop computers. It is designed to work 'out of the box'.
->
 
-> Developed by Clément Lefèbvre
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+Aimed to desktop and laptop computers and designed to work 'out of the box'.
+
+Developed by Clément Lefèbvre and contributors
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+## In the timelines
+
+
+## Errata
 
 
 ## Table
@@ -30,16 +35,15 @@ Linux Mint is an operating system for desktop and laptop computers. It is design
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://www.linuxmint.com/> |
-| Homepage backup       |  |
-| Based on              | Ubuntu |
-| Status                |  |
-| Architecture          |  |
+| Based on              | Ubuntu LTS |
+| Status                | Active |
+| Architecture          | X86_64 |
 | Category              | Desktop |
-| Desktop (default)     | Cinnamon |
-| Desktop (available)   | MATE, Xfce |
-| Source                |  |
+| Desktop (default)     | Cinnamon, MATE, XFCE |
+| Desktop (available)   | same as parent |
+| Source                | <https://github.com/linuxmint> |
 | Download              | <https://www.linuxmint.com/download.php> |
-| Release model         |  |
+| Release model         | Fixed |
 | Packaging             | deb, flatpak |
 | Package management    | mintinstall, mintupdate, synaptic, apt, dpkg |
 | Installer             |  |
@@ -57,17 +61,18 @@ Linux Mint is an operating system for desktop and laptop computers. It is design
 | Bugtracker            |  |
 | Translation           |  |
 | Donations             | <https://www.linuxmint.com/donors.php> |
-| Commercial            |  |
-| Price                 |  |
-| Social/Contact        |  |
-| Social                | <https://x.com/linux_mint> |
-| Social                | <https://mastodon.social/@linuxmint> |
-| ArchiveOS             |  |
+| Commercial            | - |
+| Price                 | - |
+| Social                | <https://x.com/linux_mint> <br> <https://mastodon.social/@linuxmint> |
+| ArchiveOS             | - |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=mint> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Linux_Mint> |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| [on LWN.net](https://lwn.net/Distributions/) | Yes |
+| Repology              | <https://repology.org/repository/linux_mint_21_1> <br> <https://repology.org/repository/linux_mint_21> <br> <https://repology.org/repository/linux_mint_20_3> |
+| Other links           | <https://www.opensourcefeed.org/distribution/linuxmint> <br> |
+
+
+## Build
 
 
 ## Releases
@@ -75,9 +80,7 @@ Linux Mint is an operating system for desktop and laptop computers. It is design
 * 
 
 
-## Media coverage
-
-* 
+## Selected links
 
 
 ## About this page
