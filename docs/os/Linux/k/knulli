@@ -32,7 +32,7 @@ the mainline Linux kernel or need other types of device-specific special attenti
 | Category              | Retrogaming |
 | Desktop (default)     | EmulationStation |
 | Desktop (available)   | - |
-| Source                | <https://github.com/knulli-cfw/knulli.org> |
+| Source                | <https://github.com/knulli-cfw/distribution> |
 | Download              | <https://github.com/knulli-cfw/distribution/releases> |
 | Release model         | Fixed |
 | Packaging             |  |
@@ -66,15 +66,15 @@ the mainline Linux kernel or need other types of device-specific special attenti
 
 ## Releases
 
-* First release - 2024/05/09 
-
-* Second release - 2024/05/17
-
-* Third release - 2024/05/30 
+* Knulli Firefly - 2024/12/04
 
 * Fourth release - 2024/07/21 
 
-* Knulli Firefly - 2024/12/04
+* Third release - 2024/05/30 
+
+* Second release - 2024/05/17
+
+* First release - 2024/05/09 
 
 
 
