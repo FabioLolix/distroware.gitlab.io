@@ -1,0 +1,88 @@
+# Knulli
+
+## Screenshot
+
+
+## Description and history
+
+KNULLI is a custom firmware (CFW) for retro-gaming devices. It is developed as a fork of 
+the very well-known Batocera adapted to handheld devices which are incompatible with 
+the mainline Linux kernel or need other types of device-specific special attention.
+
+| username | password | notes |
+|----------|----------|-------|
+|  |  |  |
+
+
+## License and type
+
+
+
+## Packaging, sources, repositories and building
+
+
+## Table
+
+|                       |  |
+|-----------------------|--|
+| Homepage              | <https://knulli.org/> |
+| Based on              | Batocera |
+| Status                | Active |
+| Architecture          | aarch64 |
+| Category              | Retrogaming |
+| Desktop (default)     | EmulationStation |
+| Desktop (available)   | - |
+| Source                | <https://github.com/knulli-cfw/knulli.org> |
+| Download              | <https://github.com/knulli-cfw/distribution/releases> |
+| Release model         | Fixed |
+| Packaging             |  |
+| Package management    |  |
+| Installer             |  |
+| Init                  |  |
+| Shell                 |  |
+| C library             |  |
+| Core utils            |  |
+| Compiler              |  |
+| Language              |  |
+| Country               |  |
+| IRC                   |  |
+| Forum                 |  |
+| Mailing list          |  |
+| Docs                  |  |
+| Bugtracker            |  |
+| Translation           |  |
+| Donations             | <https://ko-fi.com/acmeplus/> |
+| Commercial            | No |
+| Price                 |  |
+| Contact               |  |
+| Social                |  |
+| ArchiveOS             |  |
+| Distrowatch           |  |
+| Wikipedia             |  |
+| [on LWN.net](https://lwn.net/Distributions/) | No |
+| Repology              |  |
+| In the timeline       |  |
+
+
+## Releases
+
+* First release - 2024/05/09 
+
+* Second release - 2024/05/17
+
+* Third release - 2024/05/30 
+
+* Fourth release - 2024/07/21 
+
+* Knulli Firefly - 2024/12/04
+
+
+
+## Media coverage
+
+
+## About this page
+
+* This page source can be found at:
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/b/batocera.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/b/batocera.md>
