@@ -10,8 +10,6 @@
 ## Overview
 
 
-Developed by
-
 | username | password | notes |
 |----------|----------|-------|
 |  |  |  |
