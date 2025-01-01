@@ -3,14 +3,20 @@
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
+Have a fairly complete website
 
-Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+<https://wiki.archlinux.org/title/Arch_Linux>
+<https://wiki.archlinux.org/title/Frequently_asked_questions>
+
+Arch is not designed for any particular type of use. Rather, it is designed for a particular type of user. Arch targets competent users who enjoy its 'do-it-yourself' nature, and who further exploit it to shape the system to fit their unique needs. Therefore, in the hands of its target user base, Arch can be used for virtually any purpose. Many use Arch on both their desktops and workstations. And of course, archlinux.org, aur.archlinux.org and almost all of Arch's infrastructure runs on Arch.
+
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -18,15 +24,55 @@ Developed by
 
 Open
 
-GPL2 (pacman), GPL3 (archiso, arch-repo-management)
+GPL2: pacman
+
+GPL3: archiso, arch-repo-management
+
+PKGBUILDs 0BSD <https://rfc.archlinux.page/0040-license-package-sources/>
+
+For trademarks: <https://terms.archlinux.org/docs/trademark-policy/>
+
+## Development
+
+Whole development is at <https://gitlab.archlinux.org/archlinux>
+
+Arch PKGBUILDs are stored into invidual git repositories at <https://gitlab.archlinux.org/archlinux/packaging/packages>
+
+Packages pages can be seen here: <https://archlinux.org/packages/>
+
+For example for the Linux kernel:
+
+* Package: <https://archlinux.org/packages/core/x86_64/linux/>
+* PKGBUILD <https://gitlab.archlinux.org/archlinux/packaging/packages/linux>
+* commit history: <https://gitlab.archlinux.org/archlinux/packaging/packages/linux/-/commits/main>
+
+Sources are typically downloaded at build time
+
+Old packages and ISO: <https://archive.archlinux.org/>
+
+ISO images are created with Archiso
+
+* <https://gitlab.archlinux.org/archlinux/archiso>
+* <https://wiki.archlinux.org/title/Archiso>
 
 
-## Packaging, sources, repositories and building
+There is also the AUR (Arch User Repository) <https://wiki.archlinux.org/title/Arch_User_Repository>
 
-Pkgbuilds are mirrored to github https://github.com/archlinux/svntogit-community
+a community-driven repository of pkgbuilds (not pre-compiled packages) and completely unofficial
 
->
-https://archlinux.org/packages/
+AUR pkgbuilds could be promoted to the official repository
+
+Distroware owner `FabioLolix` [maintain 450+ pkgbuilds on AUR](https://aur.archlinux.org/packages?O=0&SeB=M&K=FabioLolix&outdated=&SB=l&SO=d&PP=50&submit=Go)
+
+
+## In the timelines
+
+Yes
+
+
+## Errata
+
+
 
 ## Table
 
@@ -38,7 +84,7 @@ https://archlinux.org/packages/
 | Architecture          | x86_64 |
 | Category              | Desktop, Server |
 | Desktop (default)     | - |
-| Desktop (available)   |  |
+| Desktop (available)   | Awesome, Bspwm, Budgie, Cinnamon, Cutefish, Deepin, Enlightenment, Gnome, Hyperland, KDE Plasma, Lxqt, Mate, Qtile, Sway, Xfce4, i3-wm |
 | Source                | <https://gitlab.archlinux.org/explore/groups> |
 | Download              | <https://archlinux.org/download/> |
 | Release model         | Rolling |
@@ -56,34 +102,52 @@ https://archlinux.org/packages/
 | Forum                 | <https://bbs.archlinux.org/> |
 | Mailing list          | <https://mailman.archlinux.org/mailman/listinfo/> |
 | Docs                  | <https://wiki.archlinux.org/> |
-| Bugtracker            | <https://bugs.archlinux.org/> |
+| Bugtracker            | individual trackers <https://gitlab.archlinux.org/archlinux/packaging/packages> |
 | Translation           |  |
 | Donations             | <https://archlinux.org/donate/> |
 | Commercial            | No |
 | Price                 | - |
 | Contact               | - |
-| Social                |  |
+| Social                | - |
 | ArchiveOS             | - |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=Arch> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Arch_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) | Yes |
 | Repology              | <https://repology.org/repository/arch> |
-| In the timeline       | Yes |
+| Other links           | <br> |
+
+* Desktop (available) list taken from `archinstall` selection, in the repository there are more DEs or WMs
+
+## Derivates
+
+
+
+## Build
+
+* <https://wiki.archlinux.org/title/Archiso#Build_the_ISO>
+
+```
+sudo pacman -S archiso
+sudo mkarchiso -v -w /path/to/work_dir -o /path/to/out_dir /path/to/profile/
+sudo mkarchiso -v /usr/share/archiso/configs/releng/
+```
 
 
 ## Releases
 
-Monthly release on the 1° of the month
+ISO release list: <https://archlinux.org/releng/releases/>
 
-* 
+* 2017.03.01 2017/03/01 <https://archlinux.org/releng/releases/2017.03.01/> last i686 release
+* 0.7.2 2006/05/18 <https://archlinux.org/releng/releases/0.7.2/> first x86_64 release
+* 0.1 2002/03/12 <https://archlinux.org/releng/releases/0.1/>
 
 
-## Media coverage
+## Selected links
 
-* 
 
 
 ## About this page
+
 
 * This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
