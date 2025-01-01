@@ -2,6 +2,10 @@
 
 ## Screenshot
 
+![Screenshot](https://github.com/FabioLolix/STORAGE-IMG/blob/main/Linux/v/volumio/volumio_2024-01-05%2018-11-57.png?raw=true)
+
+[Gallery](../../../os_gallery/Linux/v/volumio.md)
+
 
 ## Description and history
 
