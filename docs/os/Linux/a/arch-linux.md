@@ -46,7 +46,7 @@ For example for the Linux kernel:
 * PKGBUILD <https://gitlab.archlinux.org/archlinux/packaging/packages/linux>
 * commit history: <https://gitlab.archlinux.org/archlinux/packaging/packages/linux/-/commits/main>
 
-Sources are typically downloaded at build time
+Sources are typically downloaded at build time while some are also hosted on mirrors <https://ftpmirror.infania.net/mirror/archlinux/sources/packages/>
 
 Old packages and ISO: <https://archive.archlinux.org/>
 
