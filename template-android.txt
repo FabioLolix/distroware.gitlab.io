@@ -38,22 +38,10 @@
 | Homepage              |  |
 | Based on              |  |
 | Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
-| Desktop (available)   |  |
+| UI                    |  |
+| Launcher              |  |
 | Source                |  |
 | Download              |  |
-| Release model         |  |
-| Packaging             |  |
-| Package management    |  |
-| Installer             |  |
-| Init                  |  |
-| Shell                 |  |
-| C library             |  |
-| Core utils            |  |
-| Compiler              |  |
-| Language              |  |
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
