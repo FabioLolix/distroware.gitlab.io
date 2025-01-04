@@ -1,36 +1,41 @@
-# $NAME
+# ChromeOS
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Errata
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
+| Homepage              | <https://chromeos.google/products/devices/> |
+| Based on              | ChromiumOS |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -58,15 +63,22 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/ChromeOS> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Derivates
+
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +86,13 @@
 * 
 
 
-## Media coverage
+## Selected links
 
-* <https://www.theregister.com/2023/04/18/chromebook_expiration_date_and_repair/>
 
 
 ## About this page
 
 * This page source can be found at:
+
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
