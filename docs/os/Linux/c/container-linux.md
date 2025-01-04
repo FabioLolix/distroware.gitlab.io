@@ -1,4 +1,4 @@
-# $NAME
+# Container Linux
 
 ## Screenshot
 
@@ -61,9 +61,9 @@
 | Social/Contact        |  |
 | Social                |  |
 | Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | <https://archiveos.org/container/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=container> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Container_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | In the timeline       |  |
