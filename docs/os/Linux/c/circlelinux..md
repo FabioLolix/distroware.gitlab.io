@@ -1,27 +1,33 @@
-# $NAME
+# Circle Linux
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Errata
+
 
 
 ## Table
@@ -29,15 +35,14 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://cclinux.org/home> |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
-| Download              |  |
+| Source                | <https://git.cclinux.org/explore> |
+| Download              | <https://cclinux.org/download> <br> <https://bugzilla.cclinux.org/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -52,35 +57,42 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            | <https://bugzilla.cclinux.org/> |
+| Docs                  | <https://wiki.cclinux.org/en/home> |
+| Bugtracker            |  |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                | <https://twitter.com/circle_linux> |
-| Social                |  |
+| Contact               |  |
+| Social                | <https://x.com/circle_linux> <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Derivates
+
+
+
+## Build
+
 
 
 ## Releases
 
-* 
+* 8.3 <https://wiki.cclinux.org/en/ReleaseNotes83>
 
 
-## Media coverage
+## Selected links
 
-* 
 
 
 ## About this page
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
