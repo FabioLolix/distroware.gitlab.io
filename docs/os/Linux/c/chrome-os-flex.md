@@ -1,4 +1,4 @@
-# $NAME
+# ChromeOS Flex
 
 ## Screenshot
 
@@ -28,8 +28,8 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://chromeos.google/products/chromeos-flex/> |
+| Based on              | ChromiumOS |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
