@@ -1,27 +1,33 @@
-# $NAME
+# ConnochaetOS
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Errata
+
 
 
 ## Table
@@ -29,7 +35,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,15 +63,22 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Contact               |  |
+| Social                | <br> |
+| ArchiveOS             | <https://archiveos.org/connochaetos/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=connochaet> |
+| Wikipedia             | <https://it.wikipedia.org/wiki/ConnochaetOS> (NB: no english) |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | <br> |
+
+
+## Derivates
+
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +86,13 @@
 * 
 
 
-## Media coverage
+## Selected links
 
-* 
 
 
 ## About this page
 
 * This page source can be found at:
+
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
