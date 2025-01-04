@@ -3,14 +3,14 @@
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
+## Overview
 
-Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -18,9 +18,15 @@ Developed by
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
 
+
+## In the timelines
+
+
+
+## Errata
 
 
 
@@ -29,12 +35,12 @@ Developed by
 |                       |  |
 |-----------------------|--|
 | Homepage              | <https://www.chromium.org/chromium-os> |
-| Based on              |  |
-| Status                |  |
+| Based on              | Gentoo |
+| Status                | Active |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
-| Desktop (available)   |  |
+| Desktop (available)   | - |
 | Source                | <https://chromium.googlesource.com/chromiumos/> |
 | Download              |  |
 | Release model         |  |
@@ -58,13 +64,21 @@ Developed by
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Derivates
+
+
+
+## Build
+
 
 
 ## Releases
@@ -72,7 +86,7 @@ Developed by
 * 
 
 
-## Media coverage
+## Selected links
 
 * <https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/>
 * <https://blog.chromium.org/2009/12/whats-difference-between-chromium-os.html>
@@ -81,5 +95,6 @@ Developed by
 ## About this page
 
 * This page source can be found at:
+
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
