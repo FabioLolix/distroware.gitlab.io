@@ -1,27 +1,33 @@
-# $NAME
+# CloudReady
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Errata
+
 
 
 ## Table
@@ -29,9 +35,8 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Based on              | ChromiumOS |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -58,15 +63,22 @@
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| Contact               |  |
+| Social                | <br> |
+| ArchiveOS             | <https://archiveos.org/cloudready/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=cloudready> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Derivates
+
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +86,13 @@
 * 
 
 
-## Media coverage
+## Selected links
 
-* 
 
 
 ## About this page
 
 * This page source can be found at:
+
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
