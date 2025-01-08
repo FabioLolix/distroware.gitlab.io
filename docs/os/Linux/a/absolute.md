@@ -66,7 +66,7 @@ Developed by
 | Price                 | - |
 | Contact               | see website |
 | Social                | - |
-| ArchiveOS             | - |
+| ArchiveOS             | <https://archiveos.org/absolute/> |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=absolute> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
