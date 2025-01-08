@@ -60,7 +60,7 @@ Developed by EuroLinux Sp. z o.o
 | IRC                   | - |
 | Forum                 | - |
 | Mailing list          | - |
-| Docs                  | <https://docs.euro-linux.com/> |
+| Docs                  | <https://docs.euro-linux.com/> <br> <https://man.docs.euro-linux.com/> |
 | Bugtracker            | <https://github.com/EuroLinux/eurolinux-distro-bugs-and-rfc> |
 | Translation           | - |
 | Donations             | - |
