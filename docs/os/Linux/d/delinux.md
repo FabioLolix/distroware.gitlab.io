@@ -16,6 +16,7 @@
 
 ## License and type
 
+Freeware
 
 
 ## Development
@@ -25,6 +26,7 @@ Can't evince any public development
 
 ## In the timelines, Fabio notes
 
+No
 
 
 ## Errata
@@ -38,7 +40,7 @@ Can't evince any public development
 | Homepage              | <https://www.delinux.com.br/> |
 | Based on              | Debian 11 |
 | Status                |  |
-| Architecture          |  |
+| Architecture          | x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
@@ -83,7 +85,8 @@ Can't evince any public development
 
 ## Releases
 
-* 
+* v3 rosarium 2022-07-01
+* v2 2020-11-12
 
 
 ## Selected links
