@@ -30,13 +30,13 @@ Developed by
 |-----------------------|--|
 | Homepage              | <https://chromeos.google/products/chromeos-flex/> |
 | Based on              | ChromiumOS |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Status                | Active |
+| Architecture          | X86_64 |
+| Category              | Desktop |
 | Desktop (default)     |  |
-| Desktop (available)   |  |
+| Desktop (available)   | - |
 | Source                |  |
-| Download              |  |
+| Download              | <https://dl.google.com/chromeos-flex/images/latest.bin.zip> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
