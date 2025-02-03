@@ -1,4 +1,4 @@
-# Commodore OS
+# Commodore OS Vision
 
 ## Screenshot
 
@@ -34,11 +34,11 @@
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://www.commodoreos.net/CommodoreOS.aspx> |
+| Based on              | MX Linux |
 | Status                |  |
 | Architecture          |  |
-| Category              |  |
+| Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
@@ -55,7 +55,7 @@
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://forum.commodoreos.net/> |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
@@ -66,11 +66,11 @@
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             | <https://archiveos.org/commodoreos/> |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=commodore> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| Other links           | <br> |
+| Repology              | - |
+| Other links           | - <br> |
 
 
 ## Derivates
@@ -83,7 +83,8 @@
 
 ## Releases
 
-* 
+* 2.0 2023/12/13
+* 1.0-beta9 2012/07/01
 
 
 ## Selected links
