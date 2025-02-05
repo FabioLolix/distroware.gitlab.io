@@ -59,7 +59,7 @@ Developed by Florian La Roche
 | Price                 | - |
 | Contact               | - |
 | Social                | - |
-| ArchiveOS             | - |
+| ArchiveOS             | <https://archiveos.org/jurix/> |
 | Distrowatch           | - |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Jurix> |
 | [on LWN.net](https://lwn.net/Distributions/) | - |
