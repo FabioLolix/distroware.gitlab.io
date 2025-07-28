@@ -26,7 +26,7 @@
 
 
 
-## Errata
+## Fabio's notes
 
 
 
@@ -59,7 +59,6 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
@@ -94,14 +93,5 @@
 
 * This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
-
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid/>
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>
