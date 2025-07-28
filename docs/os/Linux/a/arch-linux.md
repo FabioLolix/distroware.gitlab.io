@@ -62,16 +62,15 @@ a community-driven repository of pkgbuilds (not pre-compiled packages) and compl
 
 AUR pkgbuilds could be promoted to the official repository
 
-Distroware owner `FabioLolix` [maintain 450+ pkgbuilds on AUR](https://aur.archlinux.org/packages?O=0&SeB=M&K=FabioLolix&outdated=&SB=l&SO=d&PP=50&submit=Go)
-
 
 ## In the timelines
 
 Yes
 
 
-## Errata
+## Fabio's notes
 
+Distroware owner `FabioLolix` [maintain almost 500 pkgbuilds on AUR](https://aur.archlinux.org/packages?O=0&SeB=M&K=FabioLolix&outdated=&SB=l&SO=d&PP=50&submit=Go)
 
 
 ## Table
@@ -103,7 +102,6 @@ Yes
 | Mailing list          | <https://mailman.archlinux.org/mailman/listinfo/> |
 | Docs                  | <https://wiki.archlinux.org/> |
 | Bugtracker            | individual trackers <https://gitlab.archlinux.org/archlinux/packaging/packages> |
-| Translation           |  |
 | Donations             | <https://archlinux.org/donate/> |
 | Commercial            | No |
 | Price                 | - |
@@ -150,5 +148,5 @@ ISO release list: <https://archlinux.org/releng/releases/>
 
 
 * This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/a/arch-linux.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/a/arch-linux.md>
