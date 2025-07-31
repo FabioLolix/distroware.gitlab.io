@@ -112,7 +112,7 @@ Distroware owner `FabioLolix` [maintain almost 500 pkgbuilds on AUR](https://aur
 | Wikipedia             | <https://en.wikipedia.org/wiki/Arch_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) | Yes |
 | Repology              | <https://repology.org/repository/arch> |
-| Other links           | <br> |
+| Other links           | <https://www.linuxlinks.com/arch-linux-general-purpose-linux-distribution/> <br> <https://linuxiac.com/archlinux/> |
 
 * Desktop (available) list taken from `archinstall` selection, in the repository there are more DEs or WMs
 
@@ -133,7 +133,7 @@ sudo mkarchiso -v /usr/share/archiso/configs/releng/
 
 ## Releases
 
-ISO release list: <https://archlinux.org/releng/releases/>
+ISOs are published typically the first of the month, selected release date below, for the full list see <https://archlinux.org/releng/releases/>
 
 * 2017.03.01 2017/03/01 <https://archlinux.org/releng/releases/2017.03.01/> last i686 release
 * 0.7.2 2006/05/18 <https://archlinux.org/releng/releases/0.7.2/> first x86_64 release
