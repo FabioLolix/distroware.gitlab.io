@@ -1,5 +1,7 @@
 # $NAME
 
+This page is empty or pratically empty; please see hoe to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+
 ## Screenshot
 
 
@@ -72,10 +74,6 @@
 | Other links           | <br> |
 
 
-## Derivates
-
-
-
 ## Build
 
 
@@ -87,11 +85,17 @@
 
 ## Selected links
 
+* 
 
 
 ## About this page
 
-* This page source can be found at:
+This page source can be found at:
 
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>
+
+
+## Derivates
+
+

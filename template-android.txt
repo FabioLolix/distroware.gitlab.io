@@ -1,5 +1,6 @@
 # $NAME
 
+This page is empty or pratically empty; please see hoe to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
@@ -77,20 +78,17 @@
 
 ## Selected links
 
+* 
 
 
 ## About this page
 
-* This page source can be found at:
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+This page source can be found at:
 
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid/>
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>
+
+## Derivates
+
+
