@@ -2,6 +2,9 @@
 
 ## Screenshot
 
+![Screenshot](https://github.com/FabioLolix/STORAGE-IMG/blob/main/Linux/a/arch-linux.png?raw=true)
+
+Arch Linux 2025.08.01 booted in Qemu
 
 ## Website feedback
 
@@ -70,7 +73,7 @@ Yes
 
 ## Fabio's notes
 
-Distroware owner `FabioLolix` [maintain almost 500 pkgbuilds on AUR](https://aur.archlinux.org/packages?O=0&SeB=M&K=FabioLolix&outdated=&SB=l&SO=d&PP=50&submit=Go)
+Distroware owner `FabioLolix` [maintain over 500 pkgbuilds on AUR](https://aur.archlinux.org/packages?O=0&SeB=M&K=FabioLolix&outdated=&SB=l&SO=d&PP=50&submit=Go)
 
 
 ## Table
