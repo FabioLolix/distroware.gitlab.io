@@ -41,7 +41,7 @@ Source code and build instructions are is located at [https://github.com/HeliumO
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | https://www.heliumos.org/ |
+| Homepage              | <https://www.heliumos.org/> |
 | Homepage backup       |  |
 | Based on              | AlmaLinux |
 | Status                | Beta |
@@ -49,9 +49,9 @@ Source code and build instructions are is located at [https://github.com/HeliumO
 | Category              | Desktop |
 | Desktop (default)     | KDE Plasma |
 | Desktop (available)   |  |
-| Source                | https://github.com/HeliumOS-org |
-| Download              | https://www.heliumos.org/download/ |
-| Release model         | Point-Release |
+| Source                | <https://github.com/HeliumOS-org> |
+| Download              | <https://www.heliumos.org/download/> |
+| Release model         | Fixed |
 | Packaging             |  |
 | Package management    | Flatpak |
 | Installer             | Anaconda |
@@ -65,17 +65,17 @@ Source code and build instructions are is located at [https://github.com/HeliumO
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | https://www.heliumos.org/docs/ |
-| Bugtracker            | https://bugs.heliumos.org |
+| Docs                  | <https://www.heliumos.org/docs/> |
+| Bugtracker            | <https://github.com/HeliumOS-org/HeliumOS/issues> |
 | Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Social/Contact        |  |
-| Social                | https://chat.heliumos.org/ |
+| Social                | <https://chat.heliumos.org/> |
 | Social                |  |
 | ArchiveOS             |  |
-| Distrowatch           | https://distrowatch.com/table.php?distribution=helium |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=helium> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
