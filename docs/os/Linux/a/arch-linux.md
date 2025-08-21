@@ -115,12 +115,9 @@ Distroware owner `FabioLolix` [maintain over 500 pkgbuilds on AUR](https://aur.a
 | Wikipedia             | <https://en.wikipedia.org/wiki/Arch_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) | Yes |
 | Repology              | <https://repology.org/repository/arch> |
-| Other links           | <https://www.linuxlinks.com/arch-linux-general-purpose-linux-distribution/> <br> <https://linuxiac.com/archlinux/> |
+| Other links           | [LinuxLinks](https://www.linuxlinks.com/arch-linux-general-purpose-linux-distribution/) <br> [Linuxiac](https://linuxiac.com/archlinux/) <br> [OpenSourceFeed](https://www.opensourcefeed.org/distribution/arch) <br> [OS.watch](https://os.watch/arch) <br> [FOSS Torrents](https://fosstorrents.com/distributions/arch-linux/) |
 
-* Desktop (available) list taken from `archinstall` selection, in the repository there are more DEs or WMs
-
-## Derivates
-
+Desktop (available) list taken from `archinstall` selection, in the repository there are more DEs or WMs
 
 
 ## Build
@@ -149,7 +146,23 @@ ISOs are published typically the first of the month, selected release date below
 
 ## About this page
 
+This page source can be found at:
 
-* This page source can be found at:
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/a/arch-linux.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/a/arch-linux.md>
+
+
+## Derivates
+
+Unofficial ports to other CPU architectures:
+
+* Arch Linux 32
+* Arch Linux ARM (ALARM)
+* [ArchPower](../a/archpower.md)
+* [Arch Linux RISC-V](https://github.com/archlinux-riscv)
+* [Loong Arch Linux](https://github.com/loongarchlinux/)
+
+***
+
+Other derivates in alphabetical order
+
