@@ -109,7 +109,7 @@ Distroware owner `FabioLolix` [maintain over 500 pkgbuilds on AUR](https://aur.a
 | Commercial            | No |
 | Price                 | - |
 | Contact               | - |
-| Social                | - |
+| Social                | <https://fosstodon.org/@archlinux> |
 | ArchiveOS             | - |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=Arch> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Arch_Linux> |
