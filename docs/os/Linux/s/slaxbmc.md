@@ -5,10 +5,6 @@
 
 ## Description and history
 
-The distributions is discontinued; what is left?
-
-Not much, the files where hosted at <https://slackware.uk/slaxbmc> and the entire `slaxbmc` fodler have been deleted
-
 Created by Analekto
 
 | username | password |  |
@@ -38,7 +34,7 @@ Created by Analekto
 | Desktop (default)     | XBMC/KODI |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              | https://slackware.uk/slaxbmc |
+| Download              | <https://slackware.uk/slaxbmc> |
 | Release model         | Fixed |
 | Packaging             |  |
 | Package management    |  |
@@ -71,7 +67,7 @@ Created by Analekto
 
 ## Releases
 
-Blog posts are undated and all downloads have been deleted
+Blog posts are undated
 
 * 
 
