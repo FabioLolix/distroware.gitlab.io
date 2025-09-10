@@ -1,5 +1,7 @@
 # Ordissimo OS
 
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+
 ## Screenshot
 
 
@@ -13,8 +15,6 @@ The distro is bundled with hardware from Franch company Ordissimo
 The desktop is reported to be E17 [1](https://it.frwiki.wiki/wiki/Ordissimo)
 
 
-
-
 | username | password | notes |
 |----------|----------|-------|
 |  |  |  |
@@ -22,6 +22,7 @@ The desktop is reported to be E17 [1](https://it.frwiki.wiki/wiki/Ordissimo)
 
 ## License and type
 
+Sister site `ordissinaute.co.uk` [1](https://www.ordissinaute.co.uk/ordissimo/fiche-pratique/2014-07-28-licences-du-systeme-d-exploitation-ordissimo) prasie open source and undertakes to redistribute modified source code; links to <http://substantielwww.dyndns.org/ordissimo/pool/main/> which give `403 Forbidden`, own programs are reported to be proprietary and unredestributable, the was last modified on 2014/07/28.
 
 
 ## Development
@@ -30,12 +31,16 @@ The desktop is reported to be E17 [1](https://it.frwiki.wiki/wiki/Ordissimo)
 
 ## In the timelines
 
+No and not planned for complete lack of information
 
 
 ## Fabio's notes
 
-Contacted on 2025/07/28
+Contacted on 2025/07/28 [ticket TT1134836] and 2025/08/21 [ticket TT1135978] with no reply so far (claim to reply in 24-48h)
 
+Amateurish hosting the repository website through dyndns.org
+
+Don't own a supported devices
 
 
 ## Table
@@ -47,7 +52,7 @@ Contacted on 2025/07/28
 | Status                |  |
 | Architecture          |  |
 | Category              | Desktop |
-| Desktop (default)     |  |
+| Desktop (default)     | E17 |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
@@ -69,7 +74,7 @@ Contacted on 2025/07/28
 | Bugtracker            | - |
 | Donations             | - |
 | Commercial            | bundled with hardware |
-| Price                 | - |
+| Price                 | bundled with hardware |
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             | - |
@@ -78,10 +83,6 @@ Contacted on 2025/07/28
 | [on LWN.net](https://lwn.net/Distributions/) | - |
 | Repology              | - |
 | Other links           | - <br> |
-
-
-## Derivates
-
 
 
 ## Build
@@ -95,12 +96,17 @@ Contacted on 2025/07/28
 
 ## Selected links
 
-* https://www.ordissinaute.co.uk/ordissimo/fiche-pratique/2014-07-28-licences-du-systeme-d-exploitation-ordissimo
+* 
 
 
 ## About this page
 
-* This page source can be found at:
+This page source can be found at:
 
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/o/ordissimo.md>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/o/ordissimo.md>
+
+
+## Derivates
+
+
