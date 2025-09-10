@@ -1,6 +1,6 @@
 # $NAME
 
-This page is empty or pratically empty; please see hoe to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
