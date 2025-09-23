@@ -17,6 +17,10 @@ Have a fairly complete website
 
 Arch is not designed for any particular type of use. Rather, it is designed for a particular type of user. Arch targets competent users who enjoy its 'do-it-yourself' nature, and who further exploit it to shape the system to fit their unique needs. Therefore, in the hands of its target user base, Arch can be used for virtually any purpose. Many use Arch on both their desktops and workstations. And of course, archlinux.org, aur.archlinux.org and almost all of Arch's infrastructure runs on Arch.
 
+It is renowed for its wiki
+
+Its website (archweb) is also open source and used by several derivates
+
 
 | username | password | notes |
 |----------|----------|-------|
@@ -27,13 +31,16 @@ Arch is not designed for any particular type of use. Rather, it is designed for 
 
 Open
 
-GPL2: pacman
+Seems to prefer GPL2 and GPL3 (haven't checked all the projects)
+
+GPL2: pacman, archweb
 
 GPL3: archiso, arch-repo-management
 
-PKGBUILDs 0BSD <https://rfc.archlinux.page/0040-license-package-sources/>
+0BSD for PKGBUILDs <https://rfc.archlinux.page/0040-license-package-sources/>
 
 For trademarks: <https://terms.archlinux.org/docs/trademark-policy/>
+
 
 ## Development
 
