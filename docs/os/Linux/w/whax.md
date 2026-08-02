@@ -1,4 +1,4 @@
-# $NAME
+# WHAX
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -42,7 +42,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 |-----------------------|--|
 | Homepage              |  |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -71,7 +71,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=whoppix> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
