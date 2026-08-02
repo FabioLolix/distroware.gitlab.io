@@ -1,4 +1,6 @@
-# Zoonity
+# $NAME
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
@@ -7,8 +9,6 @@
 
 
 ## Overview
-
-Exist only as twitter account(s) and download links on mediafire
 
 
 | username | password | notes |
@@ -28,18 +28,19 @@ Exist only as twitter account(s) and download links on mediafire
 
 
 
+## Other
+
+
+
 ## Fabio's notes
 
-Did not reply to enquiries about development
-
-Untested
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | - |
+| Homepage              |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -68,17 +69,13 @@ Untested
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <https://x.com/ZoonityOSS> <br> <https://x.com/zoonitydesktop> |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
-
-
-## Derivates
-
 
 
 ## Build
@@ -92,11 +89,22 @@ Untested
 
 ## Selected links
 
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
+
+* 
 
 
 ## About this page
 
-* This page source can be found at:
+This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zoonity.md>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zoonity.md>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
