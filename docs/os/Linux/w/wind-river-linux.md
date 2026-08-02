@@ -1,4 +1,4 @@
-# $NAME
+# Wind River Linux
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -18,6 +18,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## License and type
 
+Commercial
 
 
 ## Development
@@ -40,11 +41,11 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.windriver.com/products/embedded/linux> |
 | Based on              |  |
-| Status                |  |
+| Status                | Active |
 | Architecture          |  |
-| Category              |  |
+| Category              | Embedded |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
@@ -71,10 +72,10 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | Listed on https://distrowatch.com/dwres.php?resource=links#embed |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Wind_River_Systems#Wind_River_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
