@@ -1,4 +1,4 @@
-# $NAME
+# XBian
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,7 +40,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://xbian.org/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -48,7 +48,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/xbian/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -71,7 +71,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | In waiting list |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
