@@ -1,4 +1,4 @@
-# $NAME
+# webOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -18,6 +18,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## License and type
 
+Proprietary, bundled with hardware
 
 
 ## Development
@@ -72,7 +73,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://en.wikipedia.org/wiki/WebOS> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
