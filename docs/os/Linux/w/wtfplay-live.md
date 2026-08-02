@@ -1,4 +1,4 @@
-# $NAME
+# wtfplay-live
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,15 +40,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <http://wtfplay-project.org/> |
+| Based on              | Gentoo |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://drive.google.com/drive/folders/0B7cpxXtR6ngAUmxxVC1NZ09xQ00?resourcekey=0-6OfKmoAtF3j6hddXYJ0QLQ> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
