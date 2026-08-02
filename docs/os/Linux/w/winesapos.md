@@ -1,4 +1,4 @@
-# $NAME
+# winesapOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,7 +40,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://github.com/winesapOS> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
