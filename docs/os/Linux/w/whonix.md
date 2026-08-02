@@ -1,4 +1,4 @@
-# $NAME
+# Whonix
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,7 +40,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.whonix.org/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -71,7 +71,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=whonix> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
