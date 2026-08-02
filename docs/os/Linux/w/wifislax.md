@@ -1,4 +1,4 @@
-# $NAME
+# Wifislax
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,8 +40,8 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://www.wifislax.com/> |
+| Based on              | Slackware -current |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -71,7 +71,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=wifislax> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
