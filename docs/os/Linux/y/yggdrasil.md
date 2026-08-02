@@ -1,27 +1,39 @@
-# Yggdrasil Linux/GNU/X
+# $NAME
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
-> Source of packages provided on the CD-ROM as much as possible
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
@@ -29,7 +41,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -54,19 +65,21 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
-| Commercial            | Yes |
-| Price                 | 99$ stable , 60$ beta |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Commercial            |  |
+| Price                 |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             | <https://en.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X> |
+| Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,16 +87,24 @@
 * 
 
 
-## Media coverage
+## Selected links
 
-* <https://distrowatch.com/weekly.php?issue=20041115#fdow>
-* <https://www.linuxjournal.com/article/111>
-* <https://www.kclug.org/old_archives/linux-activists/1992/dec/0/0044.shtml>
-* <https://www.kclug.org/old_archives/linux-activists/1992/nov/3/0559.shtml>
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
+
+* 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
