@@ -28,6 +28,10 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 
 
+## Other
+
+
+
 ## Fabio's notes
 
 
@@ -88,14 +92,19 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 * 
 
 
+## Other derivates
+
+* 
+
+
+## Derivates
+
+* 
+
+
 ## About this page
 
 This page source can be found at:
 
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
-
-
-## Derivates
-
-
