@@ -1,4 +1,4 @@
-# $NAME
+# wattOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -34,13 +34,14 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Can't evince any public development
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://www.planetwatt.com/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -69,9 +70,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
+| Social                | <https://x.com/wattOSLinux> <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=wattos> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
