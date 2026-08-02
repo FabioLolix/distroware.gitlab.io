@@ -1,13 +1,15 @@
-# ZEVENET
+# $NAME
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
+## Overview
 
-Developed by
 
 | username | password | notes |
 |----------|----------|-------|
@@ -18,9 +20,19 @@ Developed by
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
 
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
 
 
 
@@ -28,14 +40,14 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://www.zevenet.com/> |
+| Homepage              |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/zevenet> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -53,7 +65,6 @@ Developed by
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
@@ -64,11 +75,11 @@ Developed by
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
-| In the curated timeline |  |
+| Other links           | <br> |
 
 
 ## Build
+
 
 
 ## Releases
@@ -76,8 +87,24 @@ Developed by
 * 
 
 
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
+
+* 
+
+
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zevenet.md>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zevenet.md>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
