@@ -1,4 +1,4 @@
-# $NAME
+# Wifiway
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,7 +40,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | https://web.archive.org/web/20120827232848/http://www.wifiway.org/liberado-wifiway-3-4 |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -72,7 +72,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
-| Wikipedia             |  |
+| Wikipedia             | <https://es.wikipedia.org/wiki/Wifiway> (ES only) |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
