@@ -1,16 +1,18 @@
 # $NAME
 
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
+## Overview
 
-Developed by
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -18,9 +20,19 @@ Developed by
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
 
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
 
 
 
@@ -53,18 +65,21 @@ Developed by
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -72,23 +87,24 @@ Developed by
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/BSD/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/BSD/>
+This page source can be found at:
 
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/LinuxAndroid/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/LinuxAndroid/>
-
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/OpenSolaris/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/OpenSolaris/>
