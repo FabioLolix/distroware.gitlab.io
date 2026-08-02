@@ -1,4 +1,4 @@
-# $NAME
+# WGS Linux Pro
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -18,6 +18,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## License and type
 
+Commercial
 
 
 ## Development
@@ -40,9 +41,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | ftp://ftp.wgs.com/pub2/wgs/Filelist |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
