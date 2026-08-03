@@ -1,4 +1,4 @@
-# $NAME
+# Xebian
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -13,7 +13,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 | username | password | notes |
 |----------|----------|-------|
-|  |  |  |
+| user | live |  |
 
 
 ## License and type
@@ -22,7 +22,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
-
+<https://github.com/xebian/>
 
 ## In the timelines
 
@@ -40,15 +40,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://www.xebian.org/> |
+| Based on              | Debian Unstable |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://www.xebian.org/download/xebian-unstable-amd64.hybrid.iso> <br> <https://xebian.org/download/pending/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -71,7 +71,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=xebian> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
