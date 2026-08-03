@@ -70,7 +70,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
+| ArchiveOS             | <https://archiveos.org/xandros/> |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=xandros> |
 | Wikipedia             | <https://en.wikipedia.org/wiki/Xandros> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
