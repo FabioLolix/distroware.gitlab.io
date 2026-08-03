@@ -1,4 +1,4 @@
-# $NAME
+# xPUD
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -22,6 +22,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+<https://github.com/penk/mkxpud>
 
 
 ## In the timelines
@@ -40,15 +41,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <http://xpud.org/> |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <http://xpud.org/download.en.html> <br> <https://ftp.ubuntu-tw.org/mirror/download.xpud.org/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -70,8 +71,8 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| ArchiveOS             | <https://archiveos.org/xpud/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=xpud> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
