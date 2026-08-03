@@ -22,6 +22,8 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+* <https://github.com/xcp-ng/xcp>
+* <https://github.com/xcp-ng>
 
 
 ## In the timelines
@@ -42,9 +44,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 |-----------------------|--|
 | Homepage              | <https://xcp-ng.org/> |
 | Based on              |  |
-| Status                |  |
+| Status                | Active |
 | Architecture          |  |
-| Category              |  |
+| Category              | Hypervisor |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
@@ -63,14 +65,14 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | IRC                   |  |
 | Forum                 | <https://xcp-ng.org/forum> <br> <https://discord.gg/Hr98F6wRvx> |
 | Mailing list          |  |
-| Docs                  |  |
+| Docs                  | <https://docs.xcp-ng.org/> |
 | Bugtracker            |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
 | Social                | <https://twitter.com/xcpng> <br> |
-| ArchiveOS             |  |
+| ArchiveOS             | <https://archiveos.org/xcp-ng/> |
 | Distrowatch           | <https://distrowatch.com/table.php?distribution=xcpng> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
