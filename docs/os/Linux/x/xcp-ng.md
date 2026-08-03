@@ -1,4 +1,4 @@
-# $NAME
+# XCP-ng
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,7 +40,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://xcp-ng.org/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -61,7 +61,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://xcp-ng.org/forum> <br> <https://discord.gg/Hr98F6wRvx> |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
@@ -69,9 +69,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
+| Social                | <https://twitter.com/xcpng> <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=xcpng> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
