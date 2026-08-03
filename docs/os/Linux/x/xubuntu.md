@@ -1,4 +1,4 @@
-# $NAME
+# Xubuntu
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,12 +40,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://xubuntu.org/> |
+| Based on              | Ubuntu |
+| Status                | Active |
 | Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Category              | Desktop |
+| Desktop (default)     | XFCE |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
@@ -71,8 +71,8 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Contact               |  |
 | Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=xubuntu> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Xubuntu> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
