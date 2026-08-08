@@ -1,41 +1,54 @@
-# VzLinux
+# $NAME
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
-Developed by Virtuozzo International GmbH
 
-| username | password |  |
-|----------|----------|--|
+## Overview
+
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://vzlinux.org/> |
-| Homepage backup       |  |
-| Based on              | RHEL |
+| Homepage              |  |
+| Based on              |  |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | src.rpm only |
-| Download              | <http://repo.virtuozzo.com/vzlinux/> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -50,22 +63,23 @@ Developed by Virtuozzo International GmbH
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://docs.virtuozzo.com/virtuozzo_linux_8_quick_start_guide/index.html> |
+| Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                | <https://www.linkedin.com/company/virtuozzo> |
-| Social                | <https://twitter.com/virtuozzoinc> |
-| Social                | <https://www.facebook.com/VirtuozzoInc/> |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           | <https://distrowatch.com/table.php?distribution=vz> |
+| Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -73,13 +87,24 @@ Developed by Virtuozzo International GmbH
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
