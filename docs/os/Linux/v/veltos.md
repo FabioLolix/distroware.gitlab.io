@@ -1,4 +1,4 @@
-# $NAME
+# Velt/OS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -22,6 +22,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+<https://github.com/VeltOS>
 
 
 ## In the timelines
@@ -34,20 +35,26 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Last github activity on 2018/08/11
+
+Github repos archived on 2020/05/20
+
+Pkgbuilds of their programs are not public, from memory they where builded in clean chroot
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Homepage              | <https://archiveos.org/veltos/> |
+| Based on              | Arch Linux |
+| Status                | Discontinued |
+| Architecture          | x86_64 |
+| Category              | Desktop |
+| Desktop (default)     | Graphene Desktop |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/VeltO> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -70,11 +77,11 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| ArchiveOS             | <https://archiveos.org/veltos/> |
+| Distrowatch           | In the dormant waiting list (submitted on 2018-01-02) |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
