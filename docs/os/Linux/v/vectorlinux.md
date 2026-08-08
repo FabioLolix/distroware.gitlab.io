@@ -1,4 +1,4 @@
-# $NAME
+# VectorLinux
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,15 +40,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://web.archive.org/web/20181122060731/http://vectorlinux.com/> |
+| Based on              | Slackware |
+| Status                | Discontinued |
 | Architecture          |  |
-| Category              |  |
+| Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://distro.ibiblio.org/vectorlinux/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -59,22 +59,22 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Canada |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
-| Bugtracker            |  |
+| Bugtracker            | - |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | <https://archiveos.org/vector/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vector> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/VectorLinux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
