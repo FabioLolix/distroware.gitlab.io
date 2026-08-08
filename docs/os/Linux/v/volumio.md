@@ -1,5 +1,7 @@
 # $NAME
 
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+
 ## Screenshot
 
 ![Screenshot](https://github.com/FabioLolix/STORAGE-IMG/blob/main/Linux/v/volumio/volumio_2024-01-05%2018-11-57.png?raw=true)
@@ -7,25 +9,35 @@
 [Gallery](../../../os_gallery/Linux/v/volumio.md)
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
@@ -33,7 +45,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -58,19 +69,21 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -78,13 +91,24 @@
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
