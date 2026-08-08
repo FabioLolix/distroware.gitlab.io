@@ -1,4 +1,4 @@
-# $NAME
+# Vanilla OS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -22,6 +22,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+<https://github.com/vanilla-os>
 
 
 ## In the timelines
@@ -34,20 +35,21 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Distrowatch list this as dormant; last release was on 2024/07, however their git repos are active
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://vanillaos.org/> |
+| Based on              | Debian |
 | Status                |  |
-| Architecture          |  |
+| Architecture          | x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                |  |
+| Source                | <https://github.com/vanilla-os> |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -59,19 +61,19 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
+| Country               | Italy |
+| IRC                   | - |
+| Forum                 | <https://discord.gg/vanilla-os-1023243680829681704> |
+| Mailing list          | - |
 | Docs                  |  |
 | Bugtracker            |  |
 | Donations             |  |
-| Commercial            |  |
-| Price                 |  |
+| Commercial            | - |
+| Price                 | - |
 | Contact               |  |
-| Social                | <br> |
+| Social                | <https://x.com/VanillaOSLinux> <br> <https://fosstodon.org/@vanillaos> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vanilla> <br> <https://distrowatch.com/index.php?distribution=vanilla> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
