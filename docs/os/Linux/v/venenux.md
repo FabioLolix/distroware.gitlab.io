@@ -1,4 +1,4 @@
-# $NAME
+# VenenuX
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,9 +40,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://sourceforge.net/projects/vegnuli/> |
+| Based on              | Debian 9 |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -70,11 +70,11 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | - |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=venenux> |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
