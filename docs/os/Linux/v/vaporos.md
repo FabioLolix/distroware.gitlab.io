@@ -1,4 +1,4 @@
-# $NAME
+# VaporOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -22,6 +22,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+<https://github.com/VaporOS-Legacy-Projects/vaporos-legacy>
 
 
 ## In the timelines
@@ -40,12 +41,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://wijsman.de/vaporos/> <br> <https://web.archive.org/web/20151214181909/http://vaporos.net/> |
 | Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Status                | Discontinued |
+| Architecture          | x86_64 |
+| Category              | Gaming |
+| Desktop (default)     | Gnome |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
@@ -69,12 +70,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
+| Social                | <https://discord.com/invite/qynSaKY> <br> |
+| ArchiveOS             | - |
+| Distrowatch           | - |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
