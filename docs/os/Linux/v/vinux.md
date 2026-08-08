@@ -1,4 +1,4 @@
-# $NAME
+# Vinux / Vibuntu
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -18,6 +18,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## License and type
 
+Remix
 
 
 ## Development
@@ -40,9 +41,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://web.archive.org/web/20240416060134/https://vinux.org.uk/> <br> <https://vinux-development.blogspot.com/> |
+| Based on              | Ubuntu |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -70,12 +71,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | <https://archiveos.org/vinux/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vinux> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Vinux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| Other links           | <br> |
+| Repology              | - |
+| Other links           | - |
 
 
 ## Build
