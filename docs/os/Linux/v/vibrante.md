@@ -1,4 +1,4 @@
-# $NAME
+# Vibrante
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -34,6 +34,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Wikipedia indicate that is it open source however there are no links to sources
 
 
 ## Table
@@ -70,12 +71,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | - |
+| Distrowatch           | - |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Vibrante> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| Other links           | <br> |
+| Repology              | - |
+| Other links           | - |
 
 
 ## Build
