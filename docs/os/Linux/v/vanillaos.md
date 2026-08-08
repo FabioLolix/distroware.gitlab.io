@@ -1,13 +1,15 @@
-# Vanilla OS
+# $NAME
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
+## Overview
 
-Developed by Mirko Brombin and contributors
 
 | username | password | notes |
 |----------|----------|-------|
@@ -18,26 +20,34 @@ Developed by Mirko Brombin and contributors
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
 
-<https://github.com/Vanilla-OS/repository>
 
-<https://github.com/Vanilla-OS/os>
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://vanillaos.org/> |
-| Based on              | Ubuntu |
-| Status                | Active |
-| Architecture          | x86_64 |
+| Homepage              |  |
+| Based on              |  |
+| Status                |  |
+| Architecture          |  |
 | Category              |  |
-| Desktop (default)     | GNOME |
+| Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/Vanilla-OS> |
+| Source                |  |
 | Download              |  |
 | Release model         |  |
 | Packaging             |  |
@@ -55,7 +65,6 @@ Developed by Mirko Brombin and contributors
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
@@ -66,7 +75,11 @@ Developed by Mirko Brombin and contributors
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +87,24 @@ Developed by Mirko Brombin and contributors
 * 
 
 
-## Media coverage
+## Selected links
 
-* <https://news.itsfoss.com/vanilla-os-beta/>
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
+
+* 
 
 
 ## About this page
 
-* This page source can be found at:
+This page source can be found at:
+
 * <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
 * <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
