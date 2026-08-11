@@ -1,4 +1,4 @@
-# $NAME
+# ZoneCD
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -34,6 +34,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Mentioned here in wikipedia https://en.wikipedia.org/wiki/Wi-Fi_hotspot#Commercial_hotspots
 
 
 ## Table
@@ -42,40 +43,40 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 |-----------------------|--|
 | Homepage              |  |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
-| Release model         |  |
-| Packaging             |  |
+| Release model         | Fixed |
+| Packaging             | deb |
 | Package management    |  |
 | Installer             |  |
-| Init                  |  |
+| Init                  | SysV |
 | Shell                 |  |
 | C library             |  |
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
-| [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| Other links           | <br> |
+| Country               | USA |
+| IRC                   | - |
+| Forum                 | - |
+| Mailing list          | - |
+| Docs                  | - |
+| Bugtracker            | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | - |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=zonecd> |
+| Wikipedia             | - |
+| [on LWN.net](https://lwn.net/Distributions/) | - |
+| Repology              | - |
+| Other links           | - |
 
 
 ## Build
@@ -106,5 +107,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zonecd.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zonecd.md>
