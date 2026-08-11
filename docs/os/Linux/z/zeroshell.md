@@ -40,15 +40,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://web.archive.org/web/20211206085401/https://zeroshell.org/it/> |
+| Based on              | Independent |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://www.club.cc.cmu.edu/pub/zeroshell/?C=M;O=D> <br> <https://ftp.cc.uoc.gr/mirrors/linux/zeroshell/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -57,24 +57,24 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Shell                 |  |
 | C library             |  |
 | Core utils            |  |
-| Compiler              |  |
+| Compiler              | GCC |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Country               | Italy |
+| IRC                   | - |
+| Forum                 | - |
+| Mailing list          | - |
+| Docs                  | - |
+| Bugtracker            | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | <https://archiveos.org/zeroshell/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=Zeroshell> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Zeroshell> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
@@ -106,5 +106,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zeroshell.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zeroshell.md>
