@@ -1,4 +1,4 @@
-# $NAME
+# Zoonity
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -7,8 +7,14 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Website feedback
 
+Don't have a website
+
 
 ## Overview
+
+Exist only as twitter account(s) and expired download links on mediafire, previously know as MontaninIX and UXOS Linux
+
+Remix of Debian Sid, previously was based on Ubuntu
 
 
 | username | password | notes |
@@ -22,6 +28,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+Remix created with cubic
 
 
 ## In the timelines
@@ -34,14 +41,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Did not reply to multiple enquiries about development
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | - |
+| Based on              | Debian Sid |
 | Status                |  |
 | Architecture          |  |
 | Category              |  |
@@ -69,7 +77,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
+| Social                | <https://x.com/ZoonityOSS> <br> <https://x.com/zoonitydesktop> |
 | ArchiveOS             |  |
 | Distrowatch           |  |
 | Wikipedia             |  |
@@ -106,5 +114,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zoonity.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zoonity.md>
