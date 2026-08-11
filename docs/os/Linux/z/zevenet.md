@@ -1,4 +1,4 @@
-# $NAME
+# ZEVENET
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,9 +40,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://web.archive.org/web/20230928104529/https://www.zevenet.com/> <br> https://www.zevenet.com/ |
+| Based on              | Debian |
+| Status                | Discontinued, replaced by SKUDONET and RELIANOID |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -59,7 +59,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
+| Country               | Spain |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
@@ -70,11 +70,11 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | - |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=zevenet> |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
@@ -106,5 +106,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zevenet.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zevenet.md>
