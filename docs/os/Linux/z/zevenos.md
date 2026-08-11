@@ -1,4 +1,4 @@
-# $NAME
+# ZevenOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -34,18 +34,19 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Fabio's notes
 
+Can't evince any public development
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
-| Category              |  |
-| Desktop (default)     |  |
+| Homepage              | <https://web.archive.org/web/20181226184233/http://www.zevenos.com/> <br> http://www.zevenos.com/ |
+| Based on              | Ubuntu LTS 14.04 |
+| Status                | Discontinued |
+| Architecture          | i386 |
+| Category              | Desktop |
+| Desktop (default)     | XFCE |
 | Desktop (available)   |  |
 | Source                |  |
 | Download              |  |
@@ -59,23 +60,23 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Country               | Germany |
+| IRC                   | - |
+| Forum                 | <https://web.archive.org/web/20181228092953/http://www.zevenos.com/forum> |
+| Mailing list          | - |
+| Docs                  | - |
+| Bugtracker            | - |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | <https://archiveos.org/zevenos/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=zevenos> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/BeOS#Others> <br> <https://es.wikipedia.org/wiki/ZevenOS> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| Other links           | <br> |
+| Repology              | - |
+| Other links           | - |
 
 
 ## Build
@@ -106,5 +107,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/z/zevenos.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/z/zevenos.md>
