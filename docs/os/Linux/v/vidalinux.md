@@ -1,4 +1,4 @@
-# $NAME
+# Vidalinux / VLOS
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,9 +40,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | <https://web.archive.org/web/20101223035136/http://www.vidalinux.org/> |
+| Based on              | Funtoo |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -69,12 +69,12 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Social                | <https://x.com/vidalinux> <br> |
+| ArchiveOS             | <https://archiveos.org/vlos/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vlos> |
+| Wikipedia             | <https://handwiki.org/wiki/Software:VidaLinux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
