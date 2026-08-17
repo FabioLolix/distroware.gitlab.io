@@ -1,4 +1,4 @@
-# $NAME
+# Vyatta
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -18,7 +18,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## License and type
 
-
+Proprietary commercial
 
 ## Development
 
@@ -40,9 +40,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | http://www.vyatta.org/ |
+| Based on              | Debian |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -70,9 +70,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | <https://archiveos.org/vyatta/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vyatta> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Vyatta> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
