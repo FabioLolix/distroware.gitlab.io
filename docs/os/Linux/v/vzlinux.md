@@ -1,4 +1,4 @@
-# $NAME
+# VzLinux / Virtuozzo Linux
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -22,6 +22,8 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 ## Development
 
+<https://repo.virtuozzo.com/vzlinux/>
+<https://github.com/vzlinux>
 
 
 ## In the timelines
@@ -40,9 +42,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://vzlinux.org/> |
 | Based on              |  |
-| Status                |  |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -63,18 +65,18 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
+| Docs                  | <https://www.virtuozzo.com/server-docs/> |
+| Bugtracker            | <https://openvz.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC> |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | <https://archiveos.org/vzlinux/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=vz> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Virtuozzo_(company)#Open-source_products> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
