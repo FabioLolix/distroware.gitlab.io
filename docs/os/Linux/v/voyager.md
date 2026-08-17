@@ -1,4 +1,4 @@
-# $NAME
+# Voyager
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -40,15 +40,15 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Based on              |  |
+| Homepage              | <https://voyagerlive.org/> |
+| Based on              | Ubuntu and Debian |
 | Status                |  |
-| Architecture          |  |
-| Category              |  |
+| Architecture          | x86_64 |
+| Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/voyagerlive/files/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -70,11 +70,11 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | - |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=voyager> |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
