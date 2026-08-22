@@ -49,7 +49,7 @@ Developed by
 | Language              |  |
 | Country               |  |
 | IRC                   |  |
-| Forum                 |  |
+| Forum                 | <https://support.google.com/chromeosflex/community> |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
