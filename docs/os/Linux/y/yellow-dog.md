@@ -1,4 +1,4 @@
-# $NAME
+# Yellow Dog Linux
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -68,13 +68,13 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Contact               |  |
-| Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Contact               | - |
+| Social                | - |
+| ArchiveOS             | <https://archiveos.org/yellowdog/> |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=yellowdog> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Yellow_Dog_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
+| Repology              | - |
 | Other links           | <br> |
 
 
@@ -106,5 +106,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/y/yellow-dog.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/v/yellow-dog.md>
