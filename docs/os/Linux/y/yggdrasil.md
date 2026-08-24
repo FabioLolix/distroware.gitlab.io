@@ -1,4 +1,4 @@
-# $NAME
+# Yggdrasil Linux/GNU/X
 
 This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
@@ -70,9 +70,9 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Price                 |  |
 | Contact               |  |
 | Social                | <br> |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| ArchiveOS             | <https://archiveos.org/yggdrasil/> |
+| Distrowatch           | - |
+| Wikipedia             | <https://en.wikipedia.org/wiki/Yggdrasil_Linux/GNU/X> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
 | Other links           | <br> |
@@ -106,5 +106,5 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 
 This page source can be found at:
 
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/y/yggdrasil.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/y/yggdrasil.md>
