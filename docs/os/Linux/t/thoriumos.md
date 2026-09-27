@@ -1,17 +1,18 @@
 # ThoriumOS
 
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
+
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
-Slogan "ChromiumOS for the masses."
+## Overview
 
-Developed by Alexander David Frick 
 
-| username | password |  |
-|----------|----------|--|
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
@@ -19,10 +20,19 @@ Developed by Alexander David Frick
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
+<https://github.com/Alex313031/ThoriumOS>
+
+## In the timelines
 
 
+
+## Other
+
+
+
+## Fabio's notes
 
 
 
@@ -37,8 +47,8 @@ Developed by Alexander David Frick
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/Alex313031/ChromiumOS/> |
-| Download              | <https://github.com/Alex313031/ChromiumOS/releases> |
+| Source                | <https://github.com/Alex313031/ThoriumOS> |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -49,13 +59,12 @@ Developed by Alexander David Frick
 | Core utils            |  |
 | Compiler              |  |
 | Language              |  |
-| Country               | USA |
+| Country               |  |
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
@@ -66,7 +75,11 @@ Developed by Alexander David Frick
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +87,24 @@ Developed by Alexander David Frick
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/thoriumos.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/thoriumos.md>
