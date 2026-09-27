@@ -1,35 +1,48 @@
-# $NAME
+# Tao Linux
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+the creator of Tao Linux, has announced a plan for the retirement of Tao Linux. David has created some packages and procedures to allow users of Tao 1.0 to upgrade CentOS 3 and users of Tao 4 to upgrade to CentOS 4. David is now also the newest member of the CentOS Development Team [1](https://web.archive.org/web/20130512195648/http://www.centos.org/modules/news/article.php?storyid=135)
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
+| Homepage              | <https://web.archive.org/web/20040820051002/http://taolinux.org/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -54,19 +67,21 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=tao> |
+| Wikipedia             | <https://en.wikipedia.org/wiki/CentOS#History> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +89,24 @@
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/tao.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/tao.md>
