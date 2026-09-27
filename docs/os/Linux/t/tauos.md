@@ -1,13 +1,15 @@
-# $NAME
+# tauOS
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
 
+## Overview
 
-Developed by
 
 | username | password | notes |
 |----------|----------|-------|
@@ -18,9 +20,20 @@ Developed by
 
 
 
+## Development
 
-## Packaging, sources, repositories and building
+<https://github.com/tau-OS>
 
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
 
 
 
@@ -28,7 +41,7 @@ Developed by
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
+| Homepage              | <https://tauos.co/> |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -53,18 +66,21 @@ Developed by
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
 | Contact               |  |
-| Social                | <br> |
+| Social                | <https://x.com/tauOS_> <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | - |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -72,13 +88,24 @@ Developed by
 * 
 
 
-## Media coverage
+## Selected links
+
+* <https://blog.fyralabs.com/the-future-of-tauos/>
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/tauos.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/tauos.md>
