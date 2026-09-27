@@ -1,43 +1,54 @@
-# Thinstation
+# ThinStation
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              | <https://thinstation.github.io/thinstation/> |
-| Homepage backup       |  |
+| Homepage              | <https://www.thinstation.org/> |
 | Based on              |  |
-| Status                | Active |
-| Architecture          | x86_64 |
-| Category              | Thin client |
+| Status                |  |
+| Architecture          |  |
+| Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://github.com/Thinstation/thinstation> |
-| Download              | <https://sourceforge.net/projects/thinstation/files/> |
+| Source                |  |
+| Download              |  |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -52,21 +63,23 @@
 | IRC                   |  |
 | Forum                 |  |
 | Mailing list          |  |
-| Docs                  | <https://github.com/Thinstation/thinstation/wiki/Getting-Started-with-ThinStation> |
+| Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
-| Commercial            | No |
+| Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=thinstation> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +87,24 @@
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/thinstation.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/thinstation.md>
