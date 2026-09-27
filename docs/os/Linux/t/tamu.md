@@ -1,27 +1,39 @@
-# $NAME
+# TAMU Linux
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
@@ -29,7 +41,6 @@
 |                       |  |
 |-----------------------|--|
 | Homepage              |  |
-| Homepage backup       |  |
 | Based on              |  |
 | Status                |  |
 | Architecture          |  |
@@ -54,19 +65,21 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
-| ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Contact               |  |
+| Social                | <br> |
+| ArchiveOS             | <https://archiveos.org/tamu/> |
+| Distrowatch           | - |
+| Wikipedia             | <https://es.wikipedia.org/wiki/TAMU_Linux> |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | - |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +87,24 @@
 * 
 
 
-## Media coverage
+## Selected links
+
+* 
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/tamu.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/tamu.md>
