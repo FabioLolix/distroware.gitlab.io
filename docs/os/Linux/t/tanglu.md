@@ -1,37 +1,48 @@
-# $NAME
+# Tanglu
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
 
 
-## Packaging, sources, repositories and building
+## Development
 
->
+
+
+## In the timelines
+
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
+| Homepage              | http://tanglu.org/ |
+| Based on              | Debian |
+| Status                | Discontinued |
 | Architecture          |  |
 | Category              |  |
 | Desktop (default)     |  |
@@ -54,19 +65,21 @@
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
-| Translation           |  |
 | Donations             |  |
 | Commercial            |  |
 | Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| Contact               |  |
+| Social                | <br> |
 | ArchiveOS             |  |
-| Distrowatch           |  |
-| Wikipedia             |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=tanglu> |
+| Wikipedia             | - |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
-| Repology              |  |
-| In the timeline       |  |
+| Repology              | - |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
@@ -74,13 +87,24 @@
 * 
 
 
-## Media coverage
+## Selected links
+
+* <https://blog.tenstral.net/2017/04/on-tanglu.html>
+
+
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/tanglu.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/tanglu.md>
