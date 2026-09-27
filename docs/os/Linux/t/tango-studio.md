@@ -1,43 +1,55 @@
-# $NAME
+# Tango Studio
+
+This page is empty or pratically empty; please see how to contribute at <https://distroware.gitlab.io/contributing/fullfilling/>
 
 ## Screenshot
 
 
-## Description and history
+## Website feedback
 
->
 
-> Developed by
+## Overview
 
-| username | password |  |
-|----------|----------|--|
+
+| username | password | notes |
+|----------|----------|-------|
 |  |  |  |
 
 
 ## License and type
 
->
+GPL3 for the whole iso, [my though on this](https://fabiololix.github.io/About-linux-distros/)
+
+## Development
+
+Can't evince how or where is developed
 
 
-## Packaging, sources, repositories and building
+## In the timelines
 
->
+
+
+## Other
+
+
+
+## Fabio's notes
+
 
 
 ## Table
 
 |                       |  |
 |-----------------------|--|
-| Homepage              |  |
-| Homepage backup       |  |
-| Based on              |  |
-| Status                |  |
-| Architecture          |  |
+| Homepage              | <https://tangostudio.tuxfamily.org/> |
+| Based on              | Debian 7 |
+| Status                | Discontinued |
+| Architecture          | i386, x86_64 |
 | Category              |  |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
 | Source                |  |
-| Download              |  |
+| Download              | <https://sourceforge.net/projects/tangostudio/> |
 | Release model         |  |
 | Packaging             |  |
 | Package management    |  |
@@ -49,38 +61,51 @@
 | Compiler              |  |
 | Language              |  |
 | Country               |  |
-| IRC                   |  |
-| Forum                 |  |
-| Mailing list          |  |
-| Docs                  |  |
-| Bugtracker            |  |
-| Translation           |  |
-| Donations             |  |
-| Commercial            |  |
-| Price                 |  |
-| Social/Contact        |  |
-| Social                |  |
-| Social                |  |
+| IRC                   | - |
+| Forum                 | - |
+| Mailing list          | - |
+| Docs                  | - |
+| Bugtracker            | <https://sourceforge.net/p/tangostudio/tickets/> |
+| Donations             | - |
+| Commercial            | - |
+| Price                 | - |
+| Contact               | - |
+| Social                | - |
 | ArchiveOS             |  |
-| Distrowatch           |  |
+| Distrowatch           | <https://distrowatch.com/table.php?distribution=tangostudio> |
 | Wikipedia             |  |
 | [on LWN.net](https://lwn.net/Distributions/) |  |
 | Repology              |  |
-| In the timeline       |  |
+| Other links           | <br> |
+
+
+## Build
+
 
 
 ## Releases
 
+* 2.2 - 2014/06/02 (last release)
+
+
+## Selected links
+
 * 
 
 
-## Media coverage
+## Other derivates
+
+* 
+
+
+## Derivates
 
 * 
 
 
 ## About this page
 
-* This page source can be found at:
-* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux//>
-* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux//>
+This page source can be found at:
+
+* <https://gitlab.com/Distroware/distroware.gitlab.io/-/tree/master/docs/os/Linux/t/tango-studio.md>
+* <https://github.com/FabioLolix/distroware.gitlab.io/tree/master/docs/os/Linux/t/tango-studio.md>
