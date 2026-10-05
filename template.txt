@@ -8,7 +8,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 ## Website feedback
 
 
-## Overview
+## Overview and history
 
 
 | username | password | notes |
@@ -62,6 +62,7 @@ This page is empty or pratically empty; please see how to contribute at <https:/
 | Country               |  |
 | IRC                   |  |
 | Forum                 |  |
+| Blog                  |  |
 | Mailing list          |  |
 | Docs                  |  |
 | Bugtracker            |  |
